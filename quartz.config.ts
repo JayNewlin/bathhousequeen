@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "Bathhouse Queen",
+    pageTitleSuffix: "The definitive guide to bathhouse culture, etiquette, and history",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
