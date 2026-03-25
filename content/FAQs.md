@@ -58,3 +58,12 @@ If cleanliness is a major concern with you, stick to your room or spaces where y
 Remember that the other patrons don't want you to blab to your friends that you saw them there. Our "secrets" are safe amongst us. What happens in the bathhouse stays in the bathhouse.
 
 I can attest to this firsthand: I have met literal friends in the baths. We not only knew we saw each other, we even talked to each other. We have **never** discussed our encounters outside those walls -- even in private conversations with each other.
+
+---
+# Have more questions?
+
+- If you're really new to the bathhouse scene or want to brush up on the basics, check out [[Your first visit]]
+- I cover several other common questions in [[What is a bathhouse]]
+- If you're planning to pack your bag for a visit, check [[What to bring]]
+- If you have a burning question that I haven't answered elsewhere, email me at queen@bathhousequeen.com
+
