@@ -15,7 +15,9 @@ The second question usually follows right behind it:
 
 **“How do I not embarrass myself when I go for the first time?”**
 
-Bathhouses have been part of queer culture for generations, but clear, straightforward information about how they work can be surprisingly hard to find. This site exists to change that. **Bathhouse Queen** is a practical, honest, and respectful guide to:
+Bathhouses have been part of queer culture for generations, but clear, straightforward information about how they work can be surprisingly hard to find.
+
+This site exists to change that. **Bathhouse Queen** is a practical, honest, and respectful guide to:
 
 - What to expect  
 - How to navigate the space  
@@ -29,11 +31,13 @@ Whether you’re curious, planning your first visit, or just want to better unde
 
 If you’re new, begin with these:
 
-- [[What is a bathhouse?]]
+- [[What is a bathhouse]]
 - [[Your first visit]]
 - [[What to bring]]
 - [[Basic etiquette]]
 - [[Cruising in a bathhouse]]
+
+You don't have to know everything before you go. Honestly, most people don't. This site will give you more information than the average bathhouse newbie.
 
 ---
 ## What You’ll Find Here
