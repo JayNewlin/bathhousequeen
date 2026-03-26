@@ -1,0 +1,45 @@
+---
+title: Some Fun and Slightly Silly "Rules"
+description: Let's have a chuckle about the baths
+---
+I first encountered these "rules" several years ago. They first showed up on some bathhouse websites back in the 1990s or so. I know that I also read them on some webzines like *QNews* and *Bent* in the early 2000s. [Xtra Magazine](https://xtramagazine.com) mentioned them as recently as 2009 in an article about [Lady Bunny](https://www.ladybunny.net).
+
+They always make me chuckle, so I pass them on to you, hoping that you'll chuckle, too. (Note that I've updated them slightly, but not much.) Like all good jokes, there’s a bit of truth in them—but for actual guidance, stick with the rest of this site.
+
+---
+# The Rules of the Baths
+
+- You can have a heart attack fucking in the hot tub.
+- It is _extremely_ hazardous to your health to attempt to inhale poppers while under water.
+- Saying, **“I’m resting”**, to everyone who seeks entry into your room defeats the purpose of going to the baths.
+- If everyone who said, **“I don’t come here often,”** was telling the truth, there would be no one there.
+- Those who lie naked on their stomachs with their asses in the air remind one of electric pencil sharpeners.
+- Conversation in the dark room should be kept to a minimum… (no talk of weather, ex‑lovers, favorite lube, etc.)
+- If you are looking for a wonderfully spiritual union with a kindred spirit, you are in the wrong place.
+- Do not assume that the guys walking into walls are on some weird new drug; most likely, they have just left their glasses in their lockers. Better to look good than to see good.
+- Please realize that bathrooms have legitimate purposes. A blowjob in a cubicle while seven guys are holding their legs crossed outside won’t make you popular.
+- If you see a man in a room with Crisco, a thick belt, and a bottle of poppers… know what they’re for before entering.
+- It’s okay to bring your own rope; it’s not okay to tie yourself up.
+- Spending seventy-two consecutive hours at the baths will neither destroy your reputation nor greatly enhance it.
+- If you’re cheating on your lover at the baths, don’t make a scene if you run into them there.
+- People who say, **“I’ve never done that before,”** should be informed that deep-throating isn’t genetic.
+- Those who lose keys to their rooms or lockers are never heard from again.
+- The law of increasing good looks: people tend to become more attractive the longer you’re there.
+- Men with small cocks can be technically astonishing; men with big dicks don’t have to know a damn thing.
+- A primitive tribe in Borneo does not have a word for No. They deny sexual favors by looking mournful and saying, "I’d like to, but I just came."
+- After you’ve been fucked by twelve guys in the orgy room, you will never again convince anyone with your coy routine.
+- Asking to borrow someone’s cockring is even more tasteless than asking to borrow someone’s toothbrush.
+- The Law of Maximum Discomfort: When they call your room or locker number, you’ll be in a position that's impossible to get out of without injury.
+- Giggling is not an appropriate response to "Wanna fuck?"
+- If you remember the title of the porn in the video area, you didn’t have a good time.
+- It is pointless to consider why guys who won’t even talk to you at the bars are so eager to suck your cock at the baths.
+- Spending more than two hours with the same person makes you a couple; four hours, and you’re engaged. On a good night, bigamy’s possible.
+- It is considered embarrassing to have sex with someone you already know.
+- Spending hours deciding what to wear to the baths is inane.
+- Never try to explain the baths to the "proud heterosexuals."
+- "Formal attire" means a black jockstrap.
+- Contrary to popular belief, one can indeed be too clean.”
+- You can never be too rich, too muscular, or have too big of a dick.
+- Believe it or not, good sex without poppers is possible. A man in New Jersey claims he does it all the time.
+
+**Footnote:** Remember that these aren't actual rules. They're longstanding jokes that capture some of the bathhouse culture.

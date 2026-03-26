@@ -65,5 +65,6 @@ I can attest to this firsthand: I have met literal friends in the baths. We not 
 - If you're really new to the bathhouse scene or want to brush up on the basics, check out [[Your first visit]]
 - I cover several other common questions in [[What is a bathhouse]]
 - If you're planning to pack your bag for a visit, check [[What to bring]]
+- [[Cruising in a bathhouse]] is important to check because it's different than cruising anywhere else
 - If you have a burning question that I haven't answered elsewhere, email me at queen@bathhousequeen.com
 

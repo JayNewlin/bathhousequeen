@@ -35,7 +35,7 @@ You don't need to know everything before you go in, but I hope this guide helps 
 Here's the "entry process basics."
 
 1. Some clubs' outer doors are always locked. You might need to ring the doorbell.
-2. You'll probably enter a vestibule or waiting area right inside the outer door. Remember this: You might want to wait here later if you call for a rideshare home or back to your hotel.
+2. You'll probably enter a vestibule or waiting area right inside the outer door. Remember this: You might want to wait here later if you call for a rideshare or taxi home or back to your hotel.
 3. If it's super busy, there might be a line in the vestibule or even outside. That's a good sign: a crowd is already inside, and plenty of folks like the place, so you probably will, too!
 4. At the desk, you'll almost definitely be asked for picture ID (drivers license, state-issued ID, passport)
 	1. It has to be yours
@@ -48,6 +48,7 @@ Here's the "entry process basics."
 	2. Some places that accept cards charge a fee for using a card
 	3. Some places only advertise their room/locker fees, not all the fees that they might charge, on their website, so you might need to call
 6. Go in (usually an inner door), get undressed, and cruise around ready to have fun
+7. Leave your phone or smart glasses in your room or locker. Most clubs have a strict rule against videos and pictures, and many have rules about not using your phone while you're there.
 
 ## What happens inside?
 
@@ -123,7 +124,3 @@ It should go without saying (but I'll say it anyway): The same is true for prost
 I've mentioned "kicked out or banned" a few times. It's very real. Actions have consequences, and bad actions on some people's part could have a really bad effect on the club -- including causing them to be shut down by "the authorities." 
 
 Clubs set their own rules. If you violate any of the "biggies" (including those mentioned above), they may kick you out immediately, and they may **ban** you. That is, you won't be allowed to come back to the club. Sometimes the ban is for a period of time, but most often it's a permanent ban. Each club has its own approach for whether you can be "un-banned," but that is handled by the owner and management, not usually by the person at the check-in desk. If you've been banned, it will be wisest to call the manager to set up an in-person conversation if you'd like your ban to be reconsidered.
-
----
-
-Need to know something that isn't on this page yet? Email me at queen@bathhousequeen.com

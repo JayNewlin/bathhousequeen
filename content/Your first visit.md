@@ -21,6 +21,7 @@ Good question! You don't want to get there and find out that you could or should
 - If you think you might bottom, clean yourself out properly and thoroughly. Auntie isn't an expert in this area, so you may want to find other sources for how to do it well. There are good guides out there (including on YouTube) on bottoming.
 - Most bathhouses provide condoms free of charge. Some provide a small packet of lube. But don't bet on it. You might want to bring a condom or three and your own lube if you use them.
 - If you use poppers, bring them with you. You can probably buy them from most bathhouses, but they might sell out, and their price is almost definitely higher than the other places you might buy them.
+- Your room or locker will have its own key, but it’s wise not to bring valuables that you don’t need. Definitely don’t wear any expensive jewelry or anything that can’t get wet.
 - Plan your "outfit." Bathhouses don't allow you to wear street clothes inside.
 	- Most guys wear the bathhouse's towel around their waist
 	- Many guys wear a jock (only or under their towel); many also wear a harness
@@ -51,11 +52,17 @@ I cover a lot of this in [[What is a bathhouse#Entry Process]], but there are a 
 
 1. If possible, go with a friend -- or try to go with someone you connect with on a cruising site. It can be reassuring to have someone to cruise around with or to check in with occasionally. **This isn't a hard and fast rule.** It's perfectly fine to go alone, even the first visit. Most people do.
 2. Consider getting a room (unless money is an important consideration, then go with a locker because they're less expensive). It'll be good to have a place to relax when you feel overwhelmed. It's also good to be able to go somewhere with a new "friend" you want to play with, but you're not quite into playing in a public space.
-3. Let the person at the check-in desk know that this is your first visit. If the club allows, and if they're not too busy, they may give you a tour. Some clubs offer this as a "perk" of being new.
+3. You’re going to need to present picture ID. A few clubs will actually hang on to it while you’re inside.
+	1. It must be yours.
+	2. It must be valid.
+	3. It has to be the physical ID itself, not a picture or the electronic version on your phone.
+4. You need a way to pay to get in. Almost all bathhouses accept credit and debit cards. A few only accept cash, so you might want to double-check with their website or call them first.
+5. Let the person at the check-in desk know that this is your first visit. If the club allows, and if they're not too busy, they may give you a tour. Some clubs offer this as a "perk" of being new.
 ## Once you're inside
 
 **Explore**
 - Go to your room or locker and get undressed.
+- Leave your phone or smart glasses in your room or locker. Phone usage is usually limited to your room, the locker room, or a lounge. Pictures and videos are almost always prohibited.
 - If you've been dancing in a club before the baths, or it's particularly hot outside, take a shower. Not everyone is into sweat and musk.
 - Even if you took a tour, walk around to see what and who is where.
 - Bathhouses can often be laid out like a maze, so walk around a couple times until you remember where important places are (like the restroom, your room, and that really cool space where you might want to play later).
@@ -117,7 +124,8 @@ It's important to know that it doesn't matter how long you stay at the bathhouse
 4. Check again. No, I'm not kidding. The room or locker room might be dark, and you might accidentally leave something behind. Auntie knows firsthand all about realizing where one has left that credit card, umbrella, or <gasp!> iPhone.
 5. Take your towel (and in many clubs, the bed linen) and key to the front desk.
 6. Some clubs allow you to run a tab for snacks, or you might have stayed a little overtime. If you owe anything, pay for it.
-7. Before you walk out the final door, triple check for everything. Yes, I mean it. This is what would have saved me from having to walk back from home to pick up my phone.
+7. If you left your ID at check-in, be sure they return it before you leave the checkout area.
+8. Before you walk out the final door, triple check for everything. Yes, I mean it. This is what would have saved me from having to walk back from home to pick up my phone.
 ## As you head home
 
 Remember: It's not a Walk of Shame. You've just been to the baths for the first time. If you're walking funny, that's a sign that you had a great time!
