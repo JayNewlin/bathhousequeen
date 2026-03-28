@@ -29,4 +29,4 @@ Bathhouses are evolving, just like the rest of our community. You deserve to tak
 ---
 # The baths are getting better, but we still have a way to go
 
-That change is happening because people like you are showing up.
+Change is happening because people like you are showing up.

@@ -1,5 +1,6 @@
 ---
 title: Cruising in a bathhouse
+description: We cruise differently in the baths than elsewhere
 ---
 # Cruising Culture
 

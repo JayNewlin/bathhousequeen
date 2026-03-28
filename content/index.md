@@ -2,7 +2,7 @@
 title: 👑 Bathhouse Queen
 description: A guide to bathhouse culture, etiquette, and history
 ---
-*A guide to bathhouse culture, etiquette, and history*
+*Auntie Queen's Field Guide to the Bathhouse*
 
 ---
 ## Welcome
@@ -37,7 +37,7 @@ If you’re new, begin with these:
 - [[Basic etiquette]]
 - [[Cruising in a bathhouse]]
 
-You don't have to know everything before you go. Honestly, most people don't. This site will give you more information than the average bathhouse newbie.
+I created this site because no one should have to guess their way through a visit to the baths.
 
 ---
 ## What You’ll Find Here
@@ -45,13 +45,10 @@ You don't have to know everything before you go. Honestly, most people don't. Th
 Over time, this site will grow into a collection of guides and reflections, including:
 
 - **Practical Guides**  
-  Step-by-step help for first-time visitors  
+  Step-by-step help -- whether it's your first visit or fiftieth  
 
 - **Etiquette & Culture**  
   The unspoken rules and social dynamics  
-
-- **Spaces & Layouts**  
-  What different areas mean and how they’re used  
 
 - **History**  
   The role bathhouses have played in queer life  
@@ -63,13 +60,6 @@ Over time, this site will grow into a collection of guides and reflections, incl
 ## A Note About Content
 
 This site discusses **adult topics related to sexuality and queer spaces**. It is intended for readers **18 years of age or older**. The goal is not to sensationalize, but to inform, prepare, and demystify.
-
----
-## Status
-
-🚧 *This site is currently under construction.*  
-
-Content is being added and refined. Check back soon for more. If you need a quick answer, email me at queen@bathhousequeen.com
 
 ---
 ## Stay Curious

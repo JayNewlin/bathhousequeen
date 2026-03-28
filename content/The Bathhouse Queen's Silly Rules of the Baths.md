@@ -2,7 +2,7 @@
 title: Some Fun and Slightly Silly "Rules"
 description: Let's have a chuckle about the baths
 ---
-I first encountered these "rules" several years ago. They first showed up on some bathhouse websites back in the 1990s or so. I know that I also read them on some webzines like *QNews* and *Bent* in the early 2000s. [Xtra Magazine](https://xtramagazine.com) mentioned them as recently as 2009 in an article about [Lady Bunny](https://www.ladybunny.net).
+I first encountered these "rules" many years ago. I first encountered them on some bathhouse websites back in the 1990s or so, but they had been floating around [Usenet](https://en.wikipedia.org/wiki/Usenet) prior to that. I know that I also read them on some webzines like *QNews* and *Bent* in the early 2000s. [Xtra Magazine](https://xtramagazine.com) mentioned them as recently as 2009 in an article about [Lady Bunny](https://www.ladybunny.net).
 
 They always make me chuckle, so I pass them on to you, hoping that you'll chuckle, too. (Note that I've updated them slightly, but not much.) Like all good jokes, there’s a bit of truth in them—but for actual guidance, stick with the rest of this site.
 
@@ -38,8 +38,8 @@ They always make me chuckle, so I pass them on to you, hoping that you'll chuckl
 - Spending hours deciding what to wear to the baths is inane.
 - Never try to explain the baths to the "proud heterosexuals."
 - "Formal attire" means a black jockstrap.
-- Contrary to popular belief, one can indeed be too clean.”
-- You can never be too rich, too muscular, or have too big of a dick.
+- Contrary to popular belief, one can indeed be too clean.
+- You can never be too rich, too muscular, or have too big a dick.
 - Believe it or not, good sex without poppers is possible. A man in New Jersey claims he does it all the time.
 
 **Footnote:** Remember that these aren't actual rules. They're longstanding jokes that capture some of the bathhouse culture.
