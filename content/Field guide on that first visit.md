@@ -1,5 +1,5 @@
 ---
-title: Your first visit
+title: "Field Guide: Going the first time"
 description: Demystifying going to the baths for the first time
 ---
 # It's Time!
@@ -48,7 +48,7 @@ Breathe. That's all normal. Even I go through some of this before visiting a bat
 When you get inside, you might feel anxious (again), confused, or overwhelmed. Those feelings usually go away after a few minutes as you settle in and remember that you're there to have fun.
 ## Checking in at the front desk
 
-I cover a lot of this in [[What is a bathhouse#Entry Process]], but there are a few things I specifically recommend to newbies.
+I cover a lot of this in [[Bathhouse basics#Entry Process]], but there are a few things I specifically recommend to newbies.
 
 1. If possible, go with a friend -- or try to go with someone you connect with on a cruising site. It can be reassuring to have someone to cruise around with or to check in with occasionally. **This isn't a hard and fast rule.** It's perfectly fine to go alone, even the first visit. Most people do.
 2. Consider getting a room (unless money is an important consideration, then go with a locker because they're less expensive). It'll be good to have a place to relax when you feel overwhelmed. It's also good to be able to go somewhere with a new "friend" you want to play with, but you're not quite into playing in a public space.

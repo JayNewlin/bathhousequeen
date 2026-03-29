@@ -1,5 +1,5 @@
 ---
-title: What to bring
+title: "Field Guide: What to bring"
 ---
 You might not have thought about it, but there are a few things worth bringing with you to the bathhouse. You'll find that planning in advance can make the visit even more fun.
 # The Essentials

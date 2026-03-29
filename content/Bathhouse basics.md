@@ -1,5 +1,5 @@
 ---
-title: What is a bathhouse?
+title: Bathhouse basics
 ---
 # The Quick Answer
 
@@ -62,7 +62,7 @@ People are literally cruising almost the entire time.
 
 You can walk into a bathhouse, walk through the entire space, not engage with anyone -- and even leave without having sex -- and that's **completely fine.** Be you. Do only what's comfortable. Only engage in the ways that you want to -- even if it's just a bit of watching and playing with yourself.
 
-Have more questions about what happens in the baths? Check [[Your first visit]] for even more details.
+Have more questions about what happens in the baths? Check [[Field guide on that first visit]] for even more details.
 
 ---
 # Bathhouses are businesses

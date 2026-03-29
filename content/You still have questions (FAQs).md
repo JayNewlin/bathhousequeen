@@ -1,5 +1,5 @@
 ---
-title: Frequently Asked Questions (FAQs)
+title: You still have questions (FAQs)
 description: You have questions. I have answers.
 ---
 # Background
@@ -84,7 +84,7 @@ Second: It’s okay to talk with them. At least say Hi -- unless one or both of 
 
 Third: Honestly, you now have an unspoken vow and bond between you. “What happens in the bathhouse stays in the bathhouse.”
 
-Should you hook up with them? That's entirely up to you, sweetie. Just remember, though, that one of [[The Bathhouse Queen's Silly Rules of the Baths]] states, "It is considered embarrassing to have sex with someone you already know." jk
+Should you hook up with them? That's entirely up to you, sweetie. Just remember, though, that one of [[Silly Rules of the Baths]] states, "It is considered embarrassing to have sex with someone you already know." jk
 
 Seriously though, for most people the encounter ends up being way less awkward than they might have imagined.
 
@@ -102,9 +102,9 @@ Just remember: It's wise to check their website or call ahead to ask specific qu
 ---
 # Have more questions?
 
-- If you're really new to the bathhouse scene or want to brush up on the basics, check out [[Your first visit]]
-- I cover several other common questions in [[What is a bathhouse]]
-- If you're planning to pack your bag for a visit, check [[What to bring]]
+- If you're really new to the bathhouse scene or want to brush up on the basics, check out [[Field guide on that first visit]]
+- I cover several other common questions in [[Bathhouse basics]]
+- If you're planning to pack your bag for a visit, check [[Field guide on what to bring]]
 - [[Cruising in a bathhouse]] is important to check because it's different than cruising anywhere else
 - If you have a burning question that I haven't answered elsewhere, email me at queen@bathhousequeen.com
 
