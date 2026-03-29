@@ -1,5 +1,5 @@
 ---
-title: Some Silly "Rules"
+title: Want to read some silly "rules?"
 description: Let's have a chuckle about the baths
 ---
 I first encountered these "rules" many years ago. I first encountered them on some bathhouse websites back in the 1990s or so, but they had been floating around [Usenet](https://en.wikipedia.org/wiki/Usenet) prior to that. I know that I also read them on some webzines like *QNews* and *Bent* in the early 2000s. [Xtra Magazine](https://xtramagazine.com) mentioned them as recently as 2009 in an article about [Lady Bunny](https://www.ladybunny.net).

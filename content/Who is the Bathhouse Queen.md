@@ -1,6 +1,6 @@
 ---
-title: About Me
-description: The voice behind Bathhouse Queen
+title: Who is the Bathhouse Queen
+description: The voice behind this site
 ---
 Hi I’m the voice behind **Bathhouse Queen**. I am the queen of Bathhouse Queen.
 

@@ -1,5 +1,5 @@
 ---
-title: Bathhouse Etiquette
+title: Etiquette in the bathhouse
 ---
 # Be polite
 

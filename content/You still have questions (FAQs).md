@@ -84,7 +84,7 @@ Second: It’s okay to talk with them. At least say Hi -- unless one or both of 
 
 Third: Honestly, you now have an unspoken vow and bond between you. “What happens in the bathhouse stays in the bathhouse.”
 
-Should you hook up with them? That's entirely up to you, sweetie. Just remember, though, that one of [[Silly Rules of the Baths]] states, "It is considered embarrassing to have sex with someone you already know." jk
+Should you hook up with them? That's entirely up to you, sweetie. Just remember, though, that one of [[Want to read some silly rules]] states, "It is considered embarrassing to have sex with someone you already know." jk
 
 Seriously though, for most people the encounter ends up being way less awkward than they might have imagined.
 

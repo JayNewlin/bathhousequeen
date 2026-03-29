@@ -38,10 +38,19 @@ If you’re new, begin with these:
 - [[Bathhouse basics]]: What a bathhouse is, how it works, and what you'll see inside
 - [[Field guide on that first visit]]: A step-by-step walkthrough of your first time
 - [[Cruising in a bathhouse]]: How to signal interest and connect
-- [[Bathhouse etiquette]]: Unspoken rules that make everything work
+- [[Etiquette in the bathhouse]]: Unspoken rules that make everything work
 - [[Field guide on what to bring]]: Practical tips so you're prepared and comfortable
 
 I created this site because no one should have to guess their way through a visit to the baths. This guide is written from lived experience within bathhouse culture, not speculation.
+
+---
+## Stay Curious
+
+If you’ve ever wondered how bathhouses work, you’re not alone. 
+
+Start with the basics, take your time, and explore at your own pace.
+
+→ Start with [[Bathhouse basics]]
 
 ---
 ## What else is here and coming soon
@@ -63,16 +72,9 @@ I started this site in March 2026, and it is becoming a collection of guides and
 This site discusses **adult topics related to sexuality and queer spaces**. It is intended for readers **18 years of age or older**. The goal is not to sensationalize, but to inform, prepare, and demystify.
 
 ---
-## Stay Curious
-
-If you’ve ever wondered how bathhouses work, you’re not alone. 
-
-Start with the basics, take your time, and explore at your own pace.
-
-→ Start with [[Bathhouse basics]]
-
----
 ## Frequently Asked Questions (FAQ)
+
+Still wondering about something specific? Here are answers to some of the most common questions people have about gay bathhouses.
 
 ### What happens at a gay bathhouse?
 Learn more in [[Bathhouse basics]]
