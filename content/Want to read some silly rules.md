@@ -7,7 +7,7 @@ I first encountered these "rules" many years ago. I first encountered them on so
 They always make me chuckle, so I pass them on to you, hoping that you'll chuckle, too. (Note that I've updated them slightly, but not much.) Like all good jokes, there’s a bit of truth in them—but for actual guidance, stick with the rest of this site.
 
 ---
-# The Rules of the Baths
+## The Rules of the Baths
 
 - You can have a heart attack fucking in the hot tub.
 - It is _extremely_ hazardous to your health to attempt to inhale poppers while under water.
@@ -42,4 +42,4 @@ They always make me chuckle, so I pass them on to you, hoping that you'll chuckl
 - You can never be too rich, too muscular, or have too big a dick.
 - Believe it or not, good sex without poppers is possible. A man in New Jersey claims he does it all the time.
 
-**Footnote:** Remember that these aren't actual rules. They're longstanding jokes that capture some of the bathhouse culture.
+**Footnote:** Remember that these aren't actual rules. They're longstanding jokes that capture some of the bathhouse culture from the 60s through the 90s.

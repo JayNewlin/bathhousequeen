@@ -92,7 +92,7 @@ Bathhouses are generally safe environments, especially those that are well-maint
 No. You are always in control of what you do and who you interact with.
 
 ### Is it safe for a trans person?
-Learn about this in [[Trans people at the bathhouse]]
+Learn about this in [[Trans people at the gay bathhouse]]
 
 ---
 

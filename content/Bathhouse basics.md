@@ -166,4 +166,4 @@ Absolutely. Many people do, especially for their first visit.
 Check auntie queen's full guide here → [[Field guide on what to bring]] to make sure you're fully prepared for your visit.
 
 ### Is it safe for a trans person?
-Learn about this in [[Trans people at the bathhouse]]
+Learn about this in [[Trans people at the gay bathhouse]]

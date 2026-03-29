@@ -2,7 +2,7 @@
 title: "Field Guide: Going the first time"
 description: Demystifying going to the baths for the first time
 ---
-# It's Time!
+## It's Time!
 
 You've been reading all the posts on the bathhouse's listing on Sniffies and Squirt. Guys on Scruff and Grindr have been asking you to meet them there. You've watched one too many bathhouse porn scenes. You've decided: I'm going to do it! I'm going to the bathhouse!
 
@@ -13,7 +13,7 @@ Never fear. Auntie Bathhouse Queen is here to help ease those nerves! I've been 
 Pull up a seat, and let's chat about your first visit to the baths!
 
 ---
-# How do I prepare?
+## How do I prepare?
 
 Good question! You don't want to get there and find out that you could or should have done or brought something important.
 
@@ -29,7 +29,7 @@ Good question! You don't want to get there and find out that you could or should
 	- Some guys are naked the whole time they're there (auntie almost always is)
 	- You'll probably want to wear shower shoes or flip flops
 - If you're on PrEP or DoxyPEP, take your meds. You know the doctor's or pharmacist's instructions; follow them.
-## A word about a drink before the baths
+### A word about a drink before the baths
 
 If you're a drinker, a drink before visiting the baths can help calm your nerves, but don't overdo it. Drunkenness and the baths don't mix.
 - You don't want to accidentally stumble and fall in a dark space
@@ -37,16 +37,16 @@ If you're a drinker, a drink before visiting the baths can help calm your nerves
 - You almost definitely won't have a good time
 
 ---
-# What to expect in the bathhouse
+## What to expect in the bathhouse
 
-## All the feelings are normal
+### All the feelings are normal
 
 You're feeling nervous -- maybe even anxious. You might be a bit body-conscious. You don't know what you don't know.
 
 Breathe. That's all normal. Even I go through some of this before visiting a bathhouse that's new to me.
 
 When you get inside, you might feel anxious (again), confused, or overwhelmed. Those feelings usually go away after a few minutes as you settle in and remember that you're there to have fun.
-## Checking in at the front desk
+### Checking in at the front desk
 
 I cover a lot of this in [[Bathhouse basics#Entry Process]], but there are a few things I specifically recommend to newbies.
 
@@ -58,7 +58,7 @@ I cover a lot of this in [[Bathhouse basics#Entry Process]], but there are a few
 	3. It has to be the physical ID itself, not a picture or the electronic version on your phone.
 4. You need a way to pay to get in. Almost all bathhouses accept credit and debit cards. A few only accept cash, so you might want to double-check with their website or call them first.
 5. Let the person at the check-in desk know that this is your first visit. If the club allows, and if they're not too busy, they may give you a tour. Some clubs offer this as a "perk" of being new.
-## Once you're inside
+### Once you're inside
 
 **Explore**
 - Go to your room or locker and get undressed.
@@ -79,7 +79,7 @@ I cover a lot of this in [[Bathhouse basics#Entry Process]], but there are a few
 - Have fun!
 
 ---
-# Cruising Notes for Newbies
+## Cruising Notes for Newbies
 
 I said it above, but I'll say it again: [[Cruising in a bathhouse]] is very different than cruising almost anywhere else (except orgies, circle jerks, and sex parties). It's **very nonverbal** and **almost exclusively physical.** That's important to keep in mind for your first visit: You will be touched more than you would expect outside the baths. That's typical and usually expected in a bathhouse.
 
@@ -89,7 +89,7 @@ The most important thing to remember is that, no matter how physical the process
 - If you’re not interested, a simple No, stepping away, or gently moving someone’s hand is enough.
 - You are in charge of what you do and do not want to do and with whom.
 
-## Some things to know
+### Some things to know
 
 - While I mentioned that most cruising is nonverbal, it's still quite okay to insist on a bit of talking.
 	- If you want to have safer sex, be sure to say so or to ask your potential partner.
@@ -102,7 +102,7 @@ The most important thing to remember is that, no matter how physical the process
 - Once both parties have agreed, it's Game On, and things often progress very quickly. 
 - If you want to slow it down -- especially if you're enjoying what's happening right now and you don't want it to stop even in favor of something else -- say so or otherwise make it clear that you're really liking what's happening now.
 - If someone continues to pursue or touch you after you've rebuffed them, you can make your further rejections stronger, but don't respond to rudeness with rudeness. If it gets really bad and they simply won't stop, report them to the front desk. That's often cause for the bathhouse to warn them or to kick them out.
-## Bathhouse hygiene tips
+### Bathhouse hygiene tips
 
 - Many bathhouses have douching stations, in case you need to clean out. They might even sell douche at the desk or snack bar if you didn't bring any with you.
 - The showers are there for you to use as often as you'd like.
@@ -113,10 +113,10 @@ The most important thing to remember is that, no matter how physical the process
 - Some bathhouses even provide mouthwash stations. You'll know when you need to use it. It's best not to have to be reminded.
 
 ---
-# When it's time to leave
+## When it's time to leave
 
 It's important to know that it doesn't matter how long you stay at the bathhouse. Are you having a lot of fun? You might choose to renew your room or locker when time is up. Things aren't great, or you're feeling overwhelmed? It's quite all right to leave -- even after a short "visit" -- and maybe come back another time to try again.
-## The exit process
+### The exit process
 
 1. If you've been having a lot of fun, or if you're heading somewhere else right after the visit, take a shower -- or at least wash the parts that have your or someone else's DNA on them.
 2. Go to your room or locker and get dressed.
@@ -126,7 +126,7 @@ It's important to know that it doesn't matter how long you stay at the bathhouse
 6. Some clubs allow you to run a tab for snacks, or you might have stayed a little overtime. If you owe anything, pay for it.
 7. If you left your ID at check-in, be sure they return it before you leave the checkout area.
 8. Before you walk out the final door, triple check for everything. Yes, I mean it. This is what would have saved me from having to walk back from home to pick up my phone.
-## As you head home
+### As you head home
 
 Remember: It's not a Walk of Shame. You've just been to the baths for the first time. If you're walking funny, that's a sign that you had a great time!
 

@@ -2,7 +2,7 @@
 title: "Field Guide: What to bring"
 ---
 You might not have thought about it, but there are a few things worth bringing with you to the bathhouse. You'll find that planning in advance can make the visit even more fun.
-# The Essentials
+## The Essentials
 
 There are a few things you should have:
 1. **Your picture ID** because you're not getting in without it
@@ -21,7 +21,7 @@ You might be able to buy lube or poppers at the bathhouse, but they might sell o
 An important note: Of course you're going to bring your phone with you, but keep it put away while you're in public areas. Bathhouses have strict rules against pictures and videos, and using your phone openly can make others uncomfortable.
 
 ---
-# Your outfit
+## Your outfit
 
 It might sound silly to think about, "What am I going to wear in a place with nudity and sex?" but hear me out:
 - You might not want to wear your jockstrap before you get to the club, so if you want to wear one in the club, pack it in the bag that you bring with you.
@@ -31,7 +31,7 @@ It might sound silly to think about, "What am I going to wear in a place with nu
 	- You also might want to wear a bit of leather or latex if you're into it -- even if it's not a theme night
 - It's fine to wear a pup hood or a mask. Not everyone might be into the pup scene, and you might find it's a bit warm to wear all night. But bring it if you want to see how others respond.
 ---
-# Not as essential, but worth considering
+## Not as essential, but worth considering
 
 - If you're into certain types of toys or equipment, clean it first, then pack it in your bag. Some guys leave their toys or equipment on display in their room so that anyone joining them knows what they're into or hoping to do.
 - Your own towel. While the club will provide one, you might prefer your own or want an extra.
@@ -40,14 +40,14 @@ It might sound silly to think about, "What am I going to wear in a place with nu
 - A change of clothes (or maybe only socks and/or underwear) -- especially if some part of your "bathhouse outfit" might not be comfortable to wear home after wearing it while cruising all night.
 
 ---
-# A word about bags at the bathhouse
+## A word about bags at the bathhouse
 
 Bathhouses often have very strict rules about what type of bag you're allowed to bring in -- such as size or type. I've been to at least one where the rule was that the bag had to be clear or a wide-mesh string bag that they could see through. Make sure that you know the rules so that you don't bring something that isn't allowed.
 
 Also be prepared that they may inspect your bag. If they do, they are protecting themselves, you, and all their patrons. When you're asked to open your bag, do so. If you have something in your bag that is questionable or not allowed, you won't be allowed to go into the club.
 
 ---
-# What NOT to bring
+## What NOT to bring
 
 - While your locker or room will have a key/keys, and some clubs provide lockboxes for small valuables like a wallet or phone, don't bring valuables that you don't need.
 - Don't wear fancy or expensive jewelry -- especially if it can't get wet.

@@ -2,21 +2,21 @@
 title: Cruising in a bathhouse
 description: We cruise differently in the baths than elsewhere
 ---
-# Cruising Culture
+## Cruising Culture
 
 Queer folks have been cruising each other for generations. We've been doing it for millennia, but the world didn't have a term for it. It was one of the primary ways that we found each other (and some folks still do) in oppressive societies. The Bathhouse Queen believes that Cruising in western, less- or not-oppressive societies is almost an art form. 
 
 Even with that, cruising in a bathhouse isn't just a sub-genre of the art. It's its own thing entirely. If this all feels a little mysterious or even intimidating, that’s completely normal -- cruising in a bathhouse has its own rhythm, and it takes a few minutes to get used to. I'm here to help you be prepared for it.
 
 ---
-# What makes cruising in a bathhouse so different?
+## What makes cruising in a bathhouse so different?
 
-## It's mostly nonverbal
+### It's mostly nonverbal
 
 Yes, we all know The Look. We've seen it across the bar or dance floor. We've flashed it at someone on the sidewalk. Outside the baths (or sex clubs, orgies, and circle jerks), we switch to verbal communication quickly to determine interest, to give and obtain consent, and to figure out what we're going to do together.
 
 Most of that verbal communication is not used in the bathhouse -- especially in the dark, play spaces. In the bathhouse, we use a lot of **body language** and **touch** to communicate interest and to direct the action.
-## But first, consent
+### But first, consent
 
 Even in a place like a bathhouse, whose main purpose is queer people having sex together, **clear, unambiguous consent is still an imperative.**
 
@@ -29,7 +29,7 @@ They don't have to do something with you just because you're into them or very g
 Neither of you has to continue the encounter when it stops being fun or exciting.
 
 Throughout the entire encounter, both of you need to communicate that you are comfortable moving to the next stage. Or not.
-## So, what are the ways to cruise in the baths?
+### So, what are the ways to cruise in the baths?
 
 - It starts with The Look if you can see each other.
 - If you're interested, it's smart to move toward the other person. If they move toward you, you have your first good sign. (If they move away, that's the sign for you to move along.)
@@ -56,7 +56,7 @@ Throughout the entire encounter, both of you need to communicate that you are co
 Remember: You don't actually ever have to participate if you don't want to. It's perfectly fine to walk around, watch what's happening -- and maybe even leave without touching another person. Be you. Do what feels right, good, or fun *for you.*
 
 ---
-# How do I say No? What if they say No?
+## How do I say No? What if they say No?
 
 This is important territory: Each of us is allowed to decide what we do and don't want to do -- and with whom. That’s true in bathhouses just like everywhere else. And you can say it without words. 
 
@@ -66,11 +66,11 @@ This is important territory: Each of us is allowed to decide what we do and don'
 - Even when things are “hot and heavy,” you’re still allowed to say No or Stop and to move away from the situation
 
 ---
-# What about cruising multiple people at once?
+## What about cruising multiple people at once?
 
 This happens frequently in bathhouses: You’ll be cruising and realize that more than one person is picking up on — and responding to — your signals of interest. If you’re looking for a multiple-person encounter, go for it! Use all the same approaches as I mentioned above, but make sure that it’s mutual and cooperative amongst all of you.
 
-## What if a couple is playing and I want to join?
+### What if a couple is playing and I want to join?
 
 This also happens. You'll suddenly realize that one or both are really into you, and they start to give you signals. That's the easiest way to know that you're welcome to join the fun.
 
@@ -83,6 +83,6 @@ However, you can also initiate:
 If you approach and initiate contact, but they're not into it, make a quick apology, and move on. Nothing ventured, nothing gained.
 
 ---
-# The most important fact
+## The most important fact
 
 When you’re cruising the baths, you’re there hoping to have fun. You’re in charge of that for yourself — just like everyone else around you is in charge of it for themselves. Be polite, be clear, ensure you have the agreement of each partner, and have fun!
