@@ -28,7 +28,9 @@ This site exists to change that by offering clear, experience-based guidance you
 - How to interact with others  
 - How to feel comfortable in an unfamiliar environment  
 
-Whether you’re curious, planning your first visit, or just want to better understand the culture, you’re in the right place.This guide is designed to answer the questions most people have, don't know how or whom to ask, and rarely find the clear answers they deserve.
+Whether you’re curious, planning your first visit, or just want to better understand the culture, you’re in the right place.
+
+This guide is designed to answer the questions most people have -- but don’t know how or whom to ask -- and to offer the clear answers they deserve.
 
 ---
 ## Start Here: Bathhouse Guides for Beginners
@@ -36,40 +38,12 @@ Whether you’re curious, planning your first visit, or just want to better unde
 If you’re new, begin with these:
 
 - [[Bathhouse basics]]: What a bathhouse is, how it works, and what you'll see inside
-- [[Field guide on that first visit]]: A step-by-step walkthrough of your first time
+- [[Field guide to your first visit]]: A step-by-step walkthrough of your first time
 - [[Cruising in a bathhouse]]: How to signal interest and connect
-- [[Etiquette in the bathhouse]]: Unspoken rules that make everything work
+- [[Bathhouse etiquette]]: Unspoken rules that make everything work
 - [[Field guide on what to bring]]: Practical tips so you're prepared and comfortable
 
 I created this site because no one should have to guess their way through a visit to the baths. This guide is written from lived experience within bathhouse culture, not speculation.
-
----
-## Stay Curious
-
-If you’ve ever wondered how bathhouses work, you’re not alone. 
-
-Start with the basics, take your time, and explore at your own pace.
-
-→ Start with [[Bathhouse basics]]
-
----
-## What else is here and coming soon
-
-I started this site in March 2026, and it is becoming a collection of guides and reflections, including:
-
-- **Practical Guides**  
-  Step-by-step help -- whether it's your first visit or fiftieth  
-
-- **Etiquette & Culture**  
-  The unspoken rules and social dynamics  
-
-- **History**  
-  The role bathhouses have played in queer life  
-
----
-## A Note About Content
-
-This site discusses **adult topics related to sexuality and queer spaces**. It is intended for readers **18 years of age or older**. The goal is not to sensationalize, but to inform, prepare, and demystify.
 
 ---
 ## Frequently Asked Questions (FAQ)
@@ -92,7 +66,26 @@ Bathhouses are generally safe environments, especially those that are well-maint
 No. You are always in control of what you do and who you interact with.
 
 ### Is it safe for a trans person?
-Learn about this in [[Trans people at the gay bathhouse]]
+Learn more in [[Trans people at the gay bathhouse]]
+
+---
+## What else is here and coming soon
+
+I started this site in March 2026, and it is becoming a collection of guides and reflections, including:
+
+- **Practical Guides**  
+  Step-by-step help -- whether it's your first visit or fiftieth  
+
+- **Etiquette & Culture**  
+  The unspoken rules and social dynamics  
+
+- **History**  
+  The role bathhouses have played in queer life  
+
+---
+## A Note About Content
+
+This site discusses **adult topics related to sexuality and queer spaces**. It is intended for readers **18 years of age or older**. The goal is not to sensationalize, but to inform, prepare, and demystify.
 
 ---
 

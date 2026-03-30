@@ -102,7 +102,7 @@ Just remember: It's wise to check their website or call ahead to ask specific qu
 ---
 ## Have more questions?
 
-- If you're really new to the bathhouse scene or want to brush up on the basics, check out [[Field guide on that first visit]]
+- If you're really new to the bathhouse scene or want to brush up on the basics, check out [[Field guide to your first visit]]
 - I cover several other common questions in [[Bathhouse basics]]
 - If you're planning to pack your bag for a visit, check [[Field guide on what to bring]]
 - [[Cruising in a bathhouse]] is important to check because it's different than cruising anywhere else

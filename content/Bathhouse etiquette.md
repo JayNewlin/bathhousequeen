@@ -1,5 +1,6 @@
 ---
-title: Etiquette in the bathhouse
+title: Bathhouse etiquette
+description: The unwritten rules (until now) of how to act in a gay bathhouse
 ---
 ## Be polite
 
