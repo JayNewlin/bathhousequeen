@@ -1,6 +1,6 @@
 ---
 title: "Field Guide: Going the first time"
-description: Demystifying going to the baths for the first time
+description: What to expect on your first visit to a gay bathhouse
 ---
 ## It's Time!
 
@@ -51,7 +51,7 @@ When you get inside, you might feel anxious (again), confused, or overwhelmed. T
 I cover a lot of this in [[Bathhouse basics#Entry Process]], but there are a few things I specifically recommend to newbies.
 
 1. If possible, go with a friend -- or try to go with someone you connect with on a cruising site. It can be reassuring to have someone to cruise around with or to check in with occasionally. **This isn't a hard and fast rule.** It's perfectly fine to go alone, even the first visit. Most people do.
-2. Consider getting a room (unless money is an important consideration, then go with a locker because they're less expensive). It'll be good to have a place to relax when you feel overwhelmed. It's also good to be able to go somewhere with a new "friend" you want to play with, but you're not quite into playing in a public space.
+2. Consider getting a room (unless money is an important consideration, then choose a locker because they're less expensive). It'll be good to have a place to relax when you feel overwhelmed. It's also good to be able to go somewhere with a new "friend" you want to play with, but you're not quite into playing in a public space.
 3. You’re going to need to present picture ID. A few clubs will actually hang on to it while you’re inside.
 	1. It must be yours.
 	2. It must be valid.
