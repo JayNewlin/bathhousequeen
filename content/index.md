@@ -41,7 +41,7 @@ If you’re new, begin with these:
 - [[Field guide to your first visit]]: A step-by-step walkthrough of your first time
 - [[Cruising in a bathhouse]]: How to signal interest and connect
 - [[Bathhouse etiquette]]: Unspoken rules that make everything work
-- [[Field guide on what to bring]]: Practical tips so you're prepared and comfortable
+- [[How to pack for a visit]]: Practical tips so you're prepared and comfortable
 
 I created this site because no one should have to guess their way through a visit to the baths. This guide is written from lived experience within bathhouse culture, not speculation.
 
@@ -57,7 +57,7 @@ Learn more in [[Bathhouse basics]]
 Absolutely. Many people do, especially for their first visit.
 
 ### What should I bring to a bathhouse?
-Visit [[Field guide on what to bring]]
+Visit [[How to pack for a visit]]
 
 ### Are bathhouses safe?
 Bathhouses are generally safe environments, especially those that are well-maintained and follow local regulations. Like any social space, awareness and respect go a long way.
@@ -66,7 +66,7 @@ Bathhouses are generally safe environments, especially those that are well-maint
 No. You are always in control of what you do and who you interact with.
 
 ### Is it safe for a trans person?
-Learn more in [[Trans people at the gay bathhouse]]
+Learn more in [[Trans people at the bathhouse]]
 
 ---
 ## What else is here and coming soon

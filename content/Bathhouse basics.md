@@ -88,7 +88,7 @@ You can walk into a bathhouse, walk through the entire space, not engage with an
 - Visit the [[Field guide to your first visit]]
 - If you want to learn how to behave, visit [[Bathhouse etiquette]]
 - For more on how to cruise a bathhouse (which is very different than cruising anywhere else), visit [[Cruising in a bathhouse]]
-- Plus, to be really prepared, learn how to "pack" at the [[Field guide on what to bring]]
+- Plus, to be really prepared, learn how to "pack" at the [[How to pack for a visit]]
 
 ---
 ## Bathhouses are businesses
@@ -156,7 +156,7 @@ Clubs set their own rules. If you violate any of the "biggies" (including those 
 Still wondering about something specific? Here are answers to some of the most common questions people have about gay bathhouses.
 
 ### Do you have to be gay to go to a gay bathhouse?
-Not necessarily. While most bathhouses primarily serve gay, bi, and straight-curious men, policies vary by location. Some are men-only spaces, while others may have designated all-gender or trans-inclusive nights. It’s always best to check the specific club’s rules and events calendar before visiting.
+Not necessarily. While most bathhouses primarily serve gay, bi, and straight-curious men, other queer people go to bathhouses, and policies vary by location. Some are men-only spaces, while others may have designated all-gender or trans-inclusive nights. It’s always best to check the specific club’s rules and events calendar before visiting.
 
 ### What do you wear at a gay bathhouse?
 Bathhouses usually provide a towel, so most people wear that wrapped around their waist. Many guys wear a jock -- by itself or under their towel. Some people walk around naked all the time. What you wear (or don't) is entirely up to you and what makes you comfortable. (Just know that most bathhouses have a strict "No street clothes" rule.)
@@ -174,7 +174,7 @@ Absolutely. Many people do, especially for their first visit.
 No. You can walk through, relax, or just observe what everyone else is doing.
 
 ### What should I bring to a gay bathhouse?
-Check auntie queen's full guide here → [[Field guide on what to bring]] to make sure you're fully prepared for your visit.
+Check auntie queen's full guide here → [[How to pack for a visit]] to make sure you're fully prepared for your visit.
 
 ### Is it safe for a trans person?
-Learn about this in [[Trans people at the gay bathhouse]]
+Learn about this in [[Trans people at the bathhouse]]

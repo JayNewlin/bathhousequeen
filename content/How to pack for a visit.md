@@ -1,5 +1,6 @@
 ---
-title: "Field Guide: What to bring"
+title: How to pack for a visit
+description: What to bring for a visit to a gay bathhouse
 ---
 You might not have thought about it, but there are a few things worth bringing with you to the bathhouse. You'll find that planning in advance can make the visit even more fun.
 ## The Essentials

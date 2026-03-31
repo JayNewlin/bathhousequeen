@@ -131,3 +131,9 @@ It's important to know that it doesn't matter how long you stay at the bathhouse
 Remember: It's not a Walk of Shame. You've just been to the baths for the first time. If you're walking funny, that's a sign that you had a great time!
 
 Your first visit might be exciting, awkward, fun, overwhelming -- or all of those at once. That’s normal. You’ll learn quickly what you like, what you don’t, and how you want to experience the baths next time.
+
+---
+## Have more questions?
+
+If you've read this far and you still have questions, visit my page [[You have questions about the bathhouse (FAQs)]]. If you can't find an answer to your question, reach out to me at queen@bathhousequeen.com
+
