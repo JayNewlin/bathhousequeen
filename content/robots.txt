@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://bathhousequeen.com/sitemap.xml
