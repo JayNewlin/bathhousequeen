@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jaynewlin.com/sitemap.xml
+Sitemap: https://bathhousequeen.com/sitemap.xml
