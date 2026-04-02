@@ -11,7 +11,7 @@ I'm often asked the same questions about gay bathhouses by lots of different peo
 Not necessarily. While most bathhouses primarily serve gay, bi, and straight-curious men, other queer people go to bathhouses, and policies vary by location. Some are men-only spaces, while others may have designated all-gender or trans-inclusive nights. It’s always best to check the specific club’s rules and events calendar before visiting.
 
 ---
-## What do you wear at a gay bathhouse?
+## What do you wear at a bathhouse?
 Bathhouses usually provide a towel, so most people wear that wrapped around their waist. Many guys wear a jock -- by itself or under their towel. Some people walk around naked all the time. What you wear (or don't) is entirely up to you and what makes you comfortable. (Just know that most bathhouses have a strict "No street clothes" rule.)
 
 ---
@@ -19,7 +19,7 @@ Bathhouses usually provide a towel, so most people wear that wrapped around thei
 Absolutely. Many people do, especially for their first visit. 
 
 ---
-## What should I bring to a gay bathhouse?
+## What should I bring to a bathhouse?
 Check auntie queen's full guide here → [[How to pack for a visit]] to make sure you're fully prepared for your visit.
 
 ### Can you bring your phone into a gay bathhouse?
