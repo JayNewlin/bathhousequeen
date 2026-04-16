@@ -4,7 +4,7 @@ description: Will a trans person be welcome and comfortable at a gay bathhouse?
 ---
 ## First, a word from your auntie
 
-I'm one who believes that we spell Pride "LGBTQ+" You, my trans and genderqueer lovelies, are an important and essential part of our community. Trans people played a central role in the Stonewall uprising. Many of them nursed their gay brothers through the AIDS crisis when no one else would help. You remind us that we all need to learn to live into who we truly are -- and to be celebrated for doing so.
+I'm one who believes that we spell Pride "LGBTQ+" You, my trans, nonbinary, and genderqueer lovelies, are an important and essential part of our community. Trans people played a central role in the Stonewall uprising. Many of them nursed their gay brothers through the AIDS crisis when no one else would help. You remind us that we all need to learn to live into who we truly are -- and to be celebrated for doing so.
 
 However, the bathhouses and many bathhouse patrons still have a lot to learn about welcoming our trans siblings, friends, and neighbors into the clubs. Most of them are learning, and there is hope.
 

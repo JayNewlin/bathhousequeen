@@ -4,44 +4,50 @@ description: Frequently asked questions about gay bathhouses
 ---
 ## Background
 
-I'm often asked the same questions about gay bathhouses by lots of different people on cruising sites like Squirt and Sniffies. Here are some of them and the answers that I can provide. I'm sure I'll add more.
+I'm often asked the same questions about bathhouses by lots of different people on cruising sites like Squirt and Sniffies. Here are some of them and the answers that I can provide. I'm sure I'll add more.
 
 ---
 ## Do you have to be gay to go to a gay bathhouse?
+
 Not necessarily. While most bathhouses primarily serve gay, bi, and straight-curious men, other queer people go to bathhouses, and policies vary by location. Some are men-only spaces, while others may have designated all-gender or trans-inclusive nights. It’s always best to check the specific club’s rules and events calendar before visiting.
 
 ---
 ## What do you wear at a bathhouse?
+
 Bathhouses usually provide a towel, so most people wear that wrapped around their waist. Many guys wear a jock -- by itself or under their towel. Some people walk around naked all the time. What you wear (or don't) is entirely up to you and what makes you comfortable. (Just know that most bathhouses have a strict "No street clothes" rule.)
 
 ---
-## Can you go alone to a gay bathhouse?
+## Can you go alone to a bathhouse?
+
 Absolutely. Many people do, especially for their first visit. 
 
 ---
 ## What should I bring to a bathhouse?
-Check auntie queen's full guide here → [[How to pack for a visit]] to make sure you're fully prepared for your visit.
+
+Check auntie queen's full guide at [[How to pack for a visit]] to make sure you're fully prepared for your visit.
 
 ### Can you bring your phone into a gay bathhouse?
+
 Most bathhouses prohibit phone use inside to protect privacy. It’s best to leave your phone in your locker or room.
 
 ---
 ## What should you expect your first time at a bathhouse?
 
-You can expect a mix of socializing, relaxation, and sexual energy, with most interactions happening nonverbally through eye contact and body language. It’s normal to feel unsure at first, but most people settle in quickly. Learn more at the [[Field guide to your first visit]]
+You can expect a mix of socializing, relaxation, and sexual energy, with most interactions happening nonverbally through eye contact and body language. It’s normal to feel unsure at first, but most people settle in quickly. Learn more at the [[Field guide to your first visit]].
 
 ---
 ## What happens in a gay bathhouse?
 
-Most people spend their time cruising -- making eye contact, signaling interest, and connecting with others based on mutual attraction. You can find some more details here [[Bathhouse basics#What happens in a gay bathhouse?]]
+Most people spend their time cruising -- making eye contact, signaling interest, and connecting with others based on mutual attraction. You can find some more details in my notes on [[Bathhouse basics#What happens in a gay bathhouse?|What happens in a gay bathhouse?]]
 
 ### Do you have to have sex at a bathhouse?
+
 No. You can walk through, relax, or just observe what everyone else is doing.
 
 ---
 ## Who goes to the bathhouse?
 
-You’ll find a wide variety of people: a range of ages, lots of body types, and a racial mix that often reflects the bathhouse's local community. Increasingly, you’ll also find [[Trans people at the bathhouse]] — even on days and times that aren’t specifically designated as “trans night” or an “all-gender party.”
+You’ll find a wide variety of people: a range of ages, lots of body types, and a racial mix that often reflects the bathhouse's local community. Increasingly, you’ll also find [[Trans people at the bathhouse]] -- even on days and times that aren’t specifically designated as “trans night” or an “all-gender party.”
 
 It’s important to remember that not everyone at the bathhouse is going to be someone you find attractive. And not everyone who is there is going to be into you either. And it’s all fine. You’ll have fun, and so will they. 
 
@@ -76,11 +82,15 @@ The same idea applies to other substances: If you use them to help calm your ner
 ---
 ## Will it be busy?
 
-That always depends on the day and the time. For most bathhouses weekends are busier than weekdays, and nights are busier than daytime.
+That always depends on the day and the time. For most bathhouses, weekends are busier than weekdays, and nights are busier than daytime.
 
-Being busy increases the number of potential hookups. Quieter times often mean that the folks there are interested in one thing: having sex with each other.
+Being busy increases the number of potential hookups. Quieter times often mean that the folks who *are* there are more focused on actually connecting -- and yes, often that means having sex with each other.
 
 Busy doesn't always guarantee a good time. I know many guys who go when it's quieter **on purpose** because they're almost guaranteed to have more fun.
+
+There are a few ways to get a sense of how busy it might be before you go: The [Sniffies](https://sniffies.com/) map will let you know how many guys have checked in at the bathhouse. There are no hard-and-fast rules, but based on my observations, one check-in on Sniffies can represent a few people actually inside -- sometimes 2–5. So even a couple of check-ins can mean there’s more going on than it might appear. (Check out my thoughts about [[Sniffies and the Baths]])
+
+Bathhouses often publish their own calendars, too -- theme nights, discounts, or special events can significantly change how crowded it gets. It makes good sense to check their website for their calendar before a visit to see what might be going on when you get there.
 
 **Remember:** There's no "right" time to go. There's just different types of experiences. 
 
@@ -97,10 +107,12 @@ If you're not certain about the cleanliness of the floors, you'll want to wear s
 If cleanliness is a major concern with you, stick to your room or spaces where you feel comfortable. It's always up to you where you go, what you do, and who you do it with.
 
 ---
-### Are gay bathhouses safe?
+## Are gay bathhouses safe?
+
 Bathhouses are generally safe environments, especially those that are well-maintained and follow local regulations. Like any social space, awareness and respect go a long way. They usually post their rules on their website and/or very close to their front door. Be sure to check them out before you enter to make sure that you'll be comfortable.
 
 ### Is it safe for a trans person?
+
 Learn about this in [[Trans people at the bathhouse]]
 
 ---
@@ -123,7 +135,7 @@ Second: It’s okay to talk with them. At least say Hi -- unless one or both of 
 
 Third: Honestly, you now have an unspoken vow and bond between you. “What happens in the bathhouse stays in the bathhouse.”
 
-Should you hook up with them? That's entirely up to you, sweetie. Just remember, though, that one of the so-called “rules”states, "It is considered embarrassing to have sex with someone you already know." jk (See my “rules” page [[Want to read some silly rules]])
+Should you hook up with them? That's entirely up to you, sweetie. Just remember, though, that one of the so-called “rules” states, "It is considered embarrassing to have sex with someone you already know." jk (See it and other silly “rules” on [[Want to read some silly rules]])
 
 Seriously though, for most people the encounter ends up being way less awkward than they might have imagined.
 

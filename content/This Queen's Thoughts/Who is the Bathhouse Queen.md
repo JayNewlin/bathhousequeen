@@ -12,7 +12,7 @@ If you’re looking for credentials, here they are:
 - I still get nervous when visiting a new place -- and even sometimes when I'm going to my home club, Club Philly, for a fun night out
 
 ---
-## The Vibe
+## The vibe
 
 The easiest way to describe me?
 
@@ -29,9 +29,9 @@ No judgment. No weird gatekeeping. No “you should already know this.”
 Almost no other resources exist like this one, and I'm glad to be the one to bring it into existence!
 
 ---
-## Home Base
+## Homebase
 
-I’m based in **Philadelphia**, and yes, **Club Philly is my home club.** Like any good home base, it’s:
+I live in **Philadelphia**, and yes, **Club Philly is my home club.** Like any good home base, it’s:
 
 - Familiar  
 - Occasionally surprising  
@@ -40,7 +40,7 @@ I’m based in **Philadelphia**, and yes, **Club Philly is my home club.** Like 
 And it’s informed a lot of what you’ll read here.
 
 ---
-## Why I Started This
+## Why I started this
 
 Because I kept seeing the same thing happen:
 
@@ -54,7 +54,7 @@ That's just not right, so I started answering questions — casually at first on
 Bathhouse Queen grew out of that.
 
 ---
-## What You Can Expect From Me
+## What you can expect from me
 
 - Straightforward explanations  
 - Real-world perspective  
@@ -66,7 +66,7 @@ And above all:
 > **The assumption that you deserve to feel comfortable in a space before you enter it.**
 
 ---
-## One Last Thing
+## Auntie says
 
 If you’ve ever thought:
 
@@ -75,6 +75,8 @@ If you’ve ever thought:
 You’re not alone.
 
 And you’re exactly why I’m here. Even I was a newbie once (yes, it was ages ago, but it's true). Even I'm somewhat a newbie every time I go to a new bathhouse. Welcome! Let's explore together!
+
+Your best place to start is [[Bathhouse basics]].
 
 ---
 ## How to reach me

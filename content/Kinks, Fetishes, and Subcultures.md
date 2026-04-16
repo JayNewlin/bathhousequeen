@@ -7,7 +7,7 @@ description: Let your freak flag fly at the baths!
 
 First things first: We're going to discuss sexual activities between consenting queer adults, and it will be honest and straightforward. If any part of that sentence makes you uncomfortable, you'll want to head to other parts of the site.
 
-Second, you don't need to be into a particular kink or fetish or consider yourself part of a particular subculture to enjoy your visits to the baths. That said, each of us has that special something we **really** like or would love to try. The bathhouse is a great spot to try many of them!
+Second, you don't need to be into a particular kink or fetish or consider yourself part of a particular subculture to enjoy your visits to the baths. That said, each of us has that special something we **really** like or would love to try. The bathhouse is a great spot to try many of them! 
 
 ---
 ## The vanilla stuff
@@ -48,7 +48,7 @@ Many folks come to the clubs because they don't have anywhere else to be sexuall
 
 Here are my thoughts on some of these and how I've seen them experienced at the baths.
 
-**Remember:** No matter what I say, each bathhouse has its own rules. You'll want to check their website or rules posted around the club to be sure what is and isn't allowed. If you're uncertain, call or ask at the desk as you check in. Violating a club's rules might result in being warned, kicked out, or even banned from the club. (See [[Bathhouse basics#Banning]])
+**Remember:** No matter what I say, each bathhouse has its own rules. You'll want to check their website or rules posted around the club to be sure what is and isn't allowed. If you're uncertain, call or ask at the desk as you check in. Violating a club's rules might result in being warned, kicked out, or even banned from the club. (See my notes on [[Bathhouse basics#Banning|banning]].)
 
 ### Watersports
 
@@ -62,9 +62,11 @@ If you're into **heavy BDSM or extreme pain,** tread very cautiously. You're in 
 
 ### Scat or blood
 
-These two are almost always prohibited by a bathhouse's rules. Violating such rules in most places will result in being kicked out and a permanent ban. (See [[Bathhouse basics#Banning]]) If the rules don't mention them, I still think it's not wise: It's very hard to clean up -- even if you're the most conscientious customer possible. Remember that you're in a very public place, and the staff have to keep it as clean as possible.
+These two are almost always prohibited by a bathhouse's rules. Violating such rules in most places will result in being kicked out and a permanent ban. (See my notes on [[Bathhouse basics#Banning|banning]].) If the rules don't mention them, I still think it's not wise: It's very hard to clean up -- even if you're the most conscientious customer possible. Remember that you're in a very public place, and the staff have to keep it as clean as possible.
 
 ---
 ## The Kinky, Freaky Takeaway
 
 We all go to the baths to have fun. Many of us go to do things we can't do anywhere else. Some of us go to try something new and exciting. Together, we make the bathhouse an important part of queer culture. Let's be open to what is different from our own interests and experiences. And let's all remember to be mindful of the others around us as well.
+
+

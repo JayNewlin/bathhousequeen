@@ -1,5 +1,5 @@
 ---
-title: Bathhouse Guide for First-Time Visitors | Bathhouse Queen
+title: "Bathhouse Queen: A Guide for First-Time Visitors to Gay Bathhouses"
 description: A beginner-friendly guide to gay bathhouses. Learn what happens, what to expect, etiquette, and how to navigate your first visit with confidence.
 tags:
   - bathhouse
@@ -41,6 +41,7 @@ If you’re new, begin with these:
 - [[Field guide to your first visit]]: A step-by-step walkthrough of your first time
 - [[Cruising in a bathhouse]]: How to signal interest and connect
 - [[Bathhouse etiquette]]: Unspoken rules that make everything work
+- [[Bathhouse rules]]: Because yeah, there really are rules
 - [[How to pack for a visit]]: Practical tips so you're prepared and comfortable
 
 I created this site because no one should have to guess their way through a visit to the baths. This guide is written from lived experience within bathhouse culture, not speculation.
@@ -69,7 +70,7 @@ No. You are always in control of what you do and who you interact with.
 Learn more in [[Trans people at the bathhouse]]
 
 ---
-## What else is here and coming soon
+## What's new
 
 I started this site in March 2026, and it is becoming a collection of guides and reflections, including:
 
@@ -80,7 +81,13 @@ I started this site in March 2026, and it is becoming a collection of guides and
   The unspoken rules and social dynamics  
 
 - **History**  
-  The role bathhouses have played in queer life  
+  The role bathhouses have played in queer life
+
+### My newest page and section
+
+- In mid-April I added my first "thought piece," [[Sniffies and the Baths]], because I've noticed a trend on how popular some of my favorite baths are becoming on the Sniffies map.
+- I also started a new section, called "This Queen's Thoughts," where pages like [[Sniffies and the Baths]] will live. Keep coming back frequently to see what I think of next!
+
 
 ---
 ## A Note About Content
