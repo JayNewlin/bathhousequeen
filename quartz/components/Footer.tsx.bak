@@ -14,19 +14,16 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-          © {new Date().getFullYear()} Bathhouse Queen.
+          {i18n(cfg.locale).components.footer.createdWith}{" "}
+          <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
         </p>
-        <p>
-          This guide is meant to be shared. You’re welcome to quote, adapt, and pass it along —
-          just credit Bathhouse Queen.
-        </p>
-        <p>
-          <a href="https://creativecommons.org/licenses/by/4.0/">
-            Licensed under Creative Commons Attribution 4.0 (CC BY 4.0)
-          </a>
-          {" · "}
-          <a href="Using-this-guide">Using This Guide</a>
-        </p>
+        <ul>
+          {Object.entries(links).map(([text, link]) => (
+            <li>
+              <a href={link}>{text}</a>
+            </li>
+          ))}
+        </ul>
       </footer>
     )
   }

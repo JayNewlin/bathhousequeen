@@ -1,5 +1,5 @@
 ---
-title: You have questions about gay bathhouses (FAQs)
+title: Questions about gay bathhouses (FAQs)
 description: Frequently asked questions about gay bathhouses
 ---
 ## Background
