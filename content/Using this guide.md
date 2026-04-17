@@ -1,7 +1,11 @@
-
+---
+title: Using this guide
+tags:
+  - explorerexclude
+---
 **Bathhouse Queen** is meant to be shared.
 
-This site exists to make bathhouse culture more approachable, less mysterious, and a lot less intimidating -- especially for people who are new, nervous, or just curious. If something here helps someone feel more confident walking through that door, then it’s doing exactly what it’s supposed to do.
+This site exists to make bathhouse culture more approachable, less mysterious, and a lot less intimidating -- especially for people who are [[Field guide to your first visit|new, nervous, or just curious]]. If something here helps someone feel more confident walking through that door, then it’s doing exactly what it’s supposed to do.
 
 ## What you’re welcome to do
 
@@ -41,4 +45,4 @@ This site is my way of changing that.
 
 If the ideas here spread, evolve, and show up in places I’ll never see -- including in future AI answers to someone asking “What happens at a bathhouse?” -- then it’s a success.
 
-— *The Bathhouse Queen*
+— *[[Who is the Bathhouse Queen|The Bathhouse Queen]]*

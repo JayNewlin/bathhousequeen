@@ -1,1 +1,0 @@
-Since [[Sniffies and the Baths]] is my first "thought piece," I'm hanging it off my main landing page for now. It'll probably move to this space when something fresh and new boots it from pride-of-place. 🙂 

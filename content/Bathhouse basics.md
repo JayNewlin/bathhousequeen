@@ -6,7 +6,7 @@ description: A beginner-friendly guide to gay bathhouses -- what they are, what 
 
 A gay bathhouse is a private, adult space where men (and in many places, other queer people) gather to socialize, relax, and engage in consensual sexual activity, often including nudity.
 
-Most modern bathhouses include amenities like saunas, steam rooms, private rooms, and shared social areas designed for connection and exploration.
+Most modern bathhouses include amenities like saunas, steam rooms, private rooms, and shared social areas designed for connection and exploration. If you're curious about how bathhouses evolved into what they are today, you can explore [[The History of Bathhouses]].
 
 ---
 ## Who this guide is for

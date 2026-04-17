@@ -70,23 +70,27 @@ No. You are always in control of what you do and who you interact with.
 Learn more in [[Trans people at the bathhouse]]
 
 ---
-## What's new
+## New & Featured
+
+### This site is very new and still under construction
 
 I started this site in March 2026, and it is becoming a collection of guides and reflections, including:
 
 - **Practical Guides**  
-  Step-by-step help -- whether it's your first visit or fiftieth  
+  Step-by-step help -- whether it's your [[Field guide to your first visit|first visit]] or fiftieth  
 
 - **Etiquette & Culture**  
-  The unspoken rules and social dynamics  
+  The [[Bathhouse etiquette|unspoken rules]] and social dynamics  
 
 - **History**  
-  The role bathhouses have played in queer life
+  Bathhouses have a long and complex history -- one that explains why they still matter today → [[The History of Bathhouses]]
 
-### My newest page and section
+### My newest pages and section
 
-- In mid-April I added my first "thought piece," [[Sniffies and the Baths]], because I've noticed a trend on how popular some of my favorite baths are becoming on the Sniffies map.
-- I also started a new section, called "This Queen's Thoughts," where pages like [[Sniffies and the Baths]] will live. Keep coming back frequently to see what I think of next!
+- In mid-April I added my first "thought piece," [[Sniffies and the Baths]], because I've noticed that my favorite baths are becoming very popular on the app.
+- I added a new section, called "[[This Queen's Thoughts/index|This Queen's Thoughts]]" where I'll be doing some thinking out loud.
+
+Keep coming back frequently to see what I think of next!
 
 
 ---
@@ -94,6 +98,3 @@ I started this site in March 2026, and it is becoming a collection of guides and
 
 This site discusses **adult topics related to sexuality and queer spaces**. It is intended for readers **18 years of age or older**. The goal is not to sensationalize, but to inform, prepare, and demystify.
 
----
-
-**Bathhouse Queen** is an evolving guide. New pages and insights will continue to be added over time.
