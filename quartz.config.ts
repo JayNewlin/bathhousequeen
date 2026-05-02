@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Bathhouse Queen",
+    pageTitle: "Bathhouse Queen ",
     pageTitleSuffix: "The definitive guide to bathhouse culture, etiquette, and history",
     enableSPA: true,
     enablePopovers: true,
@@ -83,6 +83,7 @@ const config: QuartzConfig = {
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
+        includeDrafts: false,
       }),
       Plugin.Assets(),
       Plugin.Static(),

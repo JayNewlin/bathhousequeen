@@ -121,3 +121,7 @@ Yes. Breaking rules -- especially around consent or aggression -- can result in 
 
 **Are phones allowed in bathhouses?**
 Usually not, or only in limited areas. Always follow the club’s rules.
+
+---
+If you've read this far, you might want to check out how we used to think, talk, and joke about the baths back in the day. Jump into Auntie's Wayback Machine at [[Want to read some silly rules]]
+

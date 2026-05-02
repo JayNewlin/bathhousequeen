@@ -43,3 +43,10 @@ They always make me chuckle, so I pass them on to you, hoping that you'll chuckl
 - Believe it or not, good sex without poppers is possible. A man in New Jersey claims he does it all the time.
 
 **Footnote:** Remember that these aren't actual rules. They're longstanding jokes that capture some of the bathhouse culture from the 60s through the 90s. Read my real [[Bathhouse rules]] and [[Bathhouse etiquette]] to know how to act in a modern gay bathhouse.
+
+---
+## A little history of the Bathhouse Queen
+
+This site is all about [[Field guide to your first visit|first visits to the baths]], [[Bathhouse basics|bathhouse basics]], and [[Bathhouse etiquette|etiquette]] -- but the idea for it started with this list of "rules." I realized that they no longer had a home on the internet, and they always make me chuckle. I wanted to give them a home.
+
+I also realized that I was answering a lot of the same [[Questions about the bathhouse (FAQs)|questions]] on cruising sites and apps, so I began to think about how I could create a resource for folks who were new or who had a lot of questions. Voila! The Bathhouse Queen was born!
