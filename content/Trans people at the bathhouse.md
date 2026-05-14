@@ -1,6 +1,6 @@
 ---
 title: Trans people at the bathhouse
-description: Can trans people go to gay bathhouses? A practical, affirming guide to policies, inclusion, safety, consent, and what trans, nonbinary, and gender-diverse guests can expect.
+description: Can trans people go to gay bathhouses? A practical, affirming guide to policies, inclusion, safety, consent, and what trans and nonbinary guests can expect.
 ---
 ## First, a word from your auntie
 
