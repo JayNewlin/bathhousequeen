@@ -1,6 +1,6 @@
 ---
 title: "Field Guide: Going the first time"
-description: First time at a gay bathhouse? Auntie Bathhouse Queen explains what to expect, what to bring, how to cruise, stay safe, read the room, and enjoy your first visit with confidence.
+description: First time at a gay bathhouse? Auntie Bathhouse Queen explains what to expect, what to bring, how to stay safe, and how to enjoy your first visit with confidence.
 ---
 ## Your first time at a gay bathhouse
 
