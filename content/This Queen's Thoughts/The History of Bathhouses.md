@@ -1,4 +1,8 @@
-_From ancient times to today, they've almost always been about more than hot water and steam._
+---
+title: The history of bathhouses
+description: From ancient times to today, bathhouses have almost always been about more than hot water and steam.
+---
+## Bathhouses: more than just hot water and steam
 
 Bathhouses didn't begin as places for queer people -- or anyone -- to have sex. They also didn't spring into existence, fully formed from Bette Midler's mind, in the 1970s. They have a long and interesting history.
 
@@ -13,7 +17,7 @@ Understanding that history can help us figure out not just [[Bathhouse basics|wh
 
 ### Egypt and Early Civilizations
 
-In ancient Egypt (**long** before Cleopatra -- even before the pyramids), bathing was about **cleanliness and ritual purity.** The priestly and noble classes would use oils, perfumes, and water in basins to clean themselves.
+In ancient Egypt (so early that even the pyramids were still in the future), bathing was about **cleanliness and ritual purity.** The priestly and noble classes would use oils, perfumes, and water in basins to clean themselves.
 
 We even read in Exodus (the second book of the Hebrew Bible) that Pharaoh's daughter had come to the river **to bathe** when she discovered the baby Moses floating along in a basket. (You can check out that part of the Moses story [here](https://www.biblegateway.com/passage/?search=exodus%201%3A5-10&version=NRSVUE).)
 
@@ -34,7 +38,7 @@ Ancient Greek bathhouses weren't designed exclusively for sex, but the culture w
 
 ### Rome and the Golden Age of the Bathhouse
 
-Ancient Rome learned (and blatantly directly imported or stole) a lot from ancient Greece -- including the bathhouse. But the Roman Empire turned social bathing into an art form and bathhouses into temples (literally and figuratively).
+Ancient Rome borrowed… and occasionally flat-out stole a lot from ancient Greece -- including the bathhouse. But the Roman Empire turned social bathing into an art form and bathhouses into temples (literally and figuratively).
 
 If you've ever been to the ruins of an ancient Roman bathhouse, you know that they were:
 - Architecturally stunning, rivaling palaces and temples
@@ -60,7 +64,7 @@ Same-sex activity wasn't the *defining* feature -- but it wasn't unheard of eith
 
 In Japan, bathhouses evolved into *sento* (public baths) and *onsen* (hot springs).
 
-These spaces emphasized
+These spaces emphasized:
 - Relaxation
 - Ritual cleansing
 - Community
@@ -77,13 +81,13 @@ Korean *jimjilbangs* are large, modern bath complexes combining:
 Like Japan, the emphasis is on **wellness and community,** not sex. As in many such communal environments featuring nudity, subcultures emerged beneath the surface.
 
 ---
-## The Medieval Times: Decline and Disappearance
+## The Middle Ages: Decline and Disappearance
 
 After the fall of Rome, public bathing declined in Europe. (Honestly, so did private bathing, but that's a subject for a different day.)
 
 Why?
 - Roman infrastructure literally collapsed
-- Christianity took on a very negative approach to the human body -- especially in the nude
+- Western Christianity took on a very negative approach to the human body -- especially in the nude
 - Bathhouses became associated with disease and prostitution
 
 By the Middle Ages, bathhouses had largely disappeared in Western Europe -- and those that remained took on very bad reputations that pushed them to the margins of society.
@@ -91,7 +95,7 @@ By the Middle Ages, bathhouses had largely disappeared in Western Europe -- and 
 ---
 ## Modern Rebirth: Urbanization and Privacy
 
-Bathhouses re-emerged in the 19th and 20th Centuries, especially in large cities like:
+Bathhouses re-emerged in the 19th and 20th centuries, especially in large cities like:
 - New York City
 - London
 - Paris
@@ -119,7 +123,7 @@ In all honesty, the baths weren't just sexual spaces -- they were **refuges.**
 
 ### The 1970s: The Golden Era
 
-After the marches and riots of the 1950s and 1960s (and particularly after the Stonewall Riots), gay culture became more visible -- and bathhouses flourished. Even some rather small towns had a bathhouse.
+After the marches and riots of the 1950s and 1960s (and particularly after the Stonewall Riots), gay culture became more visible -- and bathhouses flourished. Even some surprisingly small towns had a bathhouse.
 
 In cities like San Francisco, Philadelphia, New York, and Toronto:
 - Bathhouses were large, busy, and socially vibrant
@@ -127,6 +131,12 @@ In cities like San Francisco, Philadelphia, New York, and Toronto:
 - For many men, they were a first experience of open, queer life
 
 The baths were also often entertainment spaces -- especially on busy nights. Many people might not remember, but Bette Midler often performed at the Continental Baths in New York City during her early career. Her pianist was another young artist: Barry Manilow.
+
+Some clubs, including Auntie's "home," Club Philly, were part of nationwide networks like the “Club Baths” chain. While these were more loose associations than "chain" usually implies (like when we talk about "chain restaurants" and "hotel chain"), they:
+- Standardized what bathhouses looked like and included (gym equipment, changing rooms, steam/sauna spaces, cruising areas)
+- Established a sense of familiarity and trust (almost all were named "Club + City Name")
+- Created a network of queer spaces across cities
+- Helped define what modern gay bathhouses would become
 
 But that "Golden Era" only lasted about a decade.
 

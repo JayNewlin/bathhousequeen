@@ -1,6 +1,6 @@
 ---
 title: Bathhouse basics
-description: A beginner-friendly guide to gay bathhouses -- what they are, what to expect, costs, rules, and how to feel comfortable on your first visit.
+description: What is a gay bathhouse? Learn what to expect on your first visit, including costs, rules, privacy, etiquette, and how to feel comfortable inside.
 ---
 ## What is a gay bathhouse?
 

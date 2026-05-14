@@ -14,10 +14,6 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-          The Bathhouse Queen: No hype. No shame. Just honest, experience-based guidance.
-          
-        </p>        
-        <p>
           © {new Date().getFullYear()} Bathhouse Queen.
         </p>
         <p>

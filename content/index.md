@@ -1,11 +1,10 @@
 ---
-title: "Bathhouse Queen: A Guide for First-Time Visitors to Gay Bathhouses"
-description: A beginner-friendly guide to gay bathhouses. Learn what happens, what to expect, etiquette, and how to navigate your first visit with confidence.
+title: Bathhouse Queen
+description: "A beginner-friendly guide to gay bathhouses: what happens, what to expect, and how to navigate your first visit with confidence."
 tags:
-  - bathhouse
-  - gay
-  - LGBTQ
 ---
+## A guide for first-time visitors to gay bathhouses
+
 This is a **beginner-friendly guide to gay bathhouses**, covering what happens, what to expect, and how to navigate your first visit with confidence.
 
 ---
@@ -19,7 +18,7 @@ The second question is often unspoken:
 
 **“How do I not embarrass myself when I go for the first time?”**
 
-Gay bathhouses have been part of queer culture for generations, but clear, straightforward information about how they work can be surprisingly hard to find.
+Gay bathhouses have been part of queer culture for generations, but straightforward information about how they work can be surprisingly hard to find.
 
 This site exists to change that by offering clear, experience-based guidance you can actually use. **Bathhouse Queen** is a practical, honest, and respectful guide to:
 
@@ -30,7 +29,7 @@ This site exists to change that by offering clear, experience-based guidance you
 
 Whether you’re curious, planning your first visit, or just want to better understand the culture, you’re in the right place.
 
-This guide is designed to answer the questions most people have -- but don’t know how or whom to ask -- and to offer the clear answers they deserve.
+This guide answers the questions most people have -- but don’t know how or whom to ask.
 
 ---
 ## Start Here: Bathhouse Guides for Beginners
@@ -52,13 +51,13 @@ I created this site because no one should have to guess their way through a visi
 Still wondering about something specific? Here are answers to some of the most common questions people have about gay bathhouses.
 
 ### What happens at a gay bathhouse?
-Learn more in [[Bathhouse basics]]
+Check out [[Bathhouse basics]]
 
 ### Is it okay to go to a bathhouse alone?
 Absolutely. Many people do, especially for their first visit.
 
 ### What should I bring to a bathhouse?
-Visit [[How to pack for a visit]]
+See [[How to pack for a visit]]
 
 ### Are bathhouses safe?
 Bathhouses are generally safe environments, especially those that are well-maintained and follow local regulations. Like any social space, awareness and respect go a long way.
@@ -67,14 +66,12 @@ Bathhouses are generally safe environments, especially those that are well-maint
 No. You are always in control of what you do and who you interact with.
 
 ### Is it safe for a trans person?
-Learn more in [[Trans people at the bathhouse]]
+Read my thoughts at [[Trans people at the bathhouse]]
 
 ---
 ## New & Featured
 
-### This site is very new and still under construction
-
-I started this site in March 2026, and it is becoming a collection of guides and reflections, including:
+This site is very new, and my goal is for it to be a collection of guides and reflections, including:
 
 - **Practical Guides**  
   Step-by-step help -- whether it's your [[Field guide to your first visit|first visit]] or fiftieth  
@@ -85,16 +82,13 @@ I started this site in March 2026, and it is becoming a collection of guides and
 - **History**  
   Bathhouses have a long and complex history -- one that explains why they still matter today → [[The History of Bathhouses]]
 
-### My newest pages and section
+- **[[This Queen's Thoughts/index|Reflections]]**
+  Bathhouse culture is a real thing, but it rarely has people who seriously think and write about it. Pieces like [[Sniffies and the Baths]] are my way of thinking out loud about what we learn about and from bathhouse culture.
 
-- In mid-April I added my first "thought piece," [[Sniffies and the Baths]], because I've noticed that my favorite baths are becoming very popular on the app.
-- I added a new section, called "[[This Queen's Thoughts/index|This Queen's Thoughts]]" where I'll be doing some thinking out loud.
-
-Keep coming back frequently to see what I think of next!
+I’m building this guide one lived experience, one question, and one conversation at a time. If you want to ask a question or contribute a thought, feel free to reach out at queen@bathhousequeen.com.
 
 
 ---
 ## A Note About Content
 
 This site discusses **adult topics related to sexuality and queer spaces**. It is intended for readers **18 years of age or older**. The goal is not to sensationalize, but to inform, prepare, and demystify.
-

@@ -1,6 +1,6 @@
 ---
 title: Bathhouse rules
-description: What you can and can't, should and shouldn't do at a gay bathhouse
+description: "Bathhouse rules explained: consent, privacy, phones, hygiene, smoking, house rules, and the common mistakes that can get you kicked out."
 ---
 ## The short version (tl;dr)
 
@@ -124,4 +124,3 @@ Usually not, or only in limited areas. Always follow the club’s rules.
 
 ---
 If you've read this far, you might want to check out how we used to think, talk, and joke about the baths back in the day. Jump into Auntie's Wayback Machine at [[Want to read some silly rules]]
-

@@ -1,6 +1,6 @@
 ---
 title: Bathhouse etiquette
-description: The unwritten (until now) guide on how to act in a gay bathhouse
+description: "Gay bathhouse etiquette for first-timers: The unspoken rules of eye contact, cruising, consent, hygiene, rejection. And how to have fun without being that guy."
 ---
 ## Be polite
 
@@ -15,15 +15,6 @@ If you're passing someone in a tight hallway or stairs, let them pass through fi
 It's especially important to be polite to the staff. They're in a customer service job, and we all know how stressful and potentially unpleasant that can be. Be a tiny ray of sunshine in their day. And when it's time to go, consider leaving them a tip -- even if it's just a dollar.
 
 ---
-## Clean up after yourself
-
-- If you've made a bit of a mess, clean it up.
-- If you've left some DNA evidence on your recent hook-up, use *your* towel to clean *them* up. Then go get a clean towel before you take your shower or rinse off.
-- When you leave:
-	- Take your trash with you -- unless a trash can is provided in your room
-	- Take your towel and bed linens to the front desk
-
----
 ## Handle rejection gracefully
 
 I can't stress this enough: Not everyone is into absolutely everyone else. Someone isn't attracted to the person that everyone else thinks is absolutely gorgeous. We're all there to have fun, but we also all have our own tastes and interests.
@@ -31,6 +22,15 @@ I can't stress this enough: Not everyone is into absolutely everyone else. Someo
 If you've been rebuffed, remember who said no, and don't try again later **unless they initiate it.** (Yes, we all also change our minds.)
 
 If you’re unsure how consent works in a bathhouse, see [[Bathhouse rules#The most important rule Consent|Bathhouse rules (Consent section)]]. It’s the most important thing to understand before you go.
+
+---
+## Clean up after yourself
+
+- If you've made a bit of a mess, clean it up.
+- If you've left some DNA evidence on your recent hook-up, use *your* towel to clean *them* up. Then go get a clean towel before you take your shower or rinse off.
+- When you leave:
+	- Take your trash with you -- unless a trash can is provided in your room
+	- Take your towel and bed linens to the front desk
 
 ---
 ## Auntie's advice again

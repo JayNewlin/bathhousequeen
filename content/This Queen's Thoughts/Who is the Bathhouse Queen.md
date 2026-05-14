@@ -8,7 +8,7 @@ If you’re looking for credentials, here they are:
 
 - Decades of experience in bathhouses across the US, Canada, and Puerto Rico -- and a few visits in other countries as well
 - More visits than I could possibly count (not as high as my body count, but I digress) 
-- Very few truly awkward moments — and a deep desire to help you avoid them, too 
+- Very few truly awkward moments -- and a deep desire to help you avoid them, too 
 - I still get nervous when visiting a new place -- and even sometimes when I'm going to my home club, Club Philly, for a fun night out
 
 ---

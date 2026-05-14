@@ -1,20 +1,20 @@
 ---
 title: How to pack for a visit
-description: What to bring for a visit to a gay bathhouse
+description: "What to bring to a gay bathhouse: ID, lube, condoms, sandals, water, outfits, toys, bags, valuables, and the common packing mistakes first-timers make."
 ---
 You might not have thought about it, but there are a few things worth bringing with you to the bathhouse. You'll find that planning in advance can make the visit even more fun.
 ## The Essentials
 
 There are a few things you should have:
-1. **Your picture ID** because you're not getting in without it
-	1. It must be yours.
-	2. It must be valid.
-	3. It has to be the physical ID itself, not a picture or the electronic version on your phone.
+1. **Your picture ID** because you're not getting in without it.
+	- It must be yours.
+	- It must be valid.
+	- It has to be the physical ID itself, not a picture or the electronic version on your phone.
 2. A **way to pay** for your room/locker, fees, and any incidentals. Most clubs accept credit and debit cards. If you carry cash, make sure that you have enough -- especially if you might buy some incidentals or have to pay an overtime charge.
 3. **Condoms** if you prefer to have protected sex. Most bathhouses these days provide them free-of-charge, and you can find them in many places throughout the club, but if you're not sure whether your club provides them, bring a few.
 4. **Lube** because, even if the club provides some, it's usually only a small packet.
 5. **Something for your feet** (sandals, flip-flops, or shower shoes) because the floors may not be as clean as your kitchen floor.
-6. A **bottle of water** because it can be warm, and you'll probably be having some sweaty fun. The baths all have sinks or fountains for refilling your bottle when you finish.
+6. A **bottle of water** because it can be warm, and you'll probably be having some sweaty fun. Most bathhouses have sinks or fountains for refilling your bottle when you finish.
 7. **Poppers** if you're into them.
 
 You might be able to buy lube or poppers at the bathhouse, but they might sell out, or you might pay a higher price than where you usually buy them. Some clubs sell, rent, or lend flip-flops/shower shoes (usually because they require that you wear something on your feet in their club), but bring your own so that you feel comfortable.

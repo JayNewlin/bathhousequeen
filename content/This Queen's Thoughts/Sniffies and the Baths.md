@@ -1,10 +1,10 @@
 ---
-title: Sniffies and the Bathhouse
-description: Sniffies is improving the bathhouse experience, not taking away from it
+title: Sniffies and the bathhouse
+description: Why Sniffies may be saving bathhouses instead of killing them.
 ---
 ## Digital cruising and the baths
 
-For as long as cruising apps and sites have existed, there’s been a persistent idea -- and some evidence -- that they might lead to the death of bathhouses, ABSes, and sex clubs. "The younger generations open an app and hook up there. Why do they need to go to the bathhouse?" For much of the last 10 or 15 years, I agree that bathhouse attendance went down and was often largely those of us 40 and older. I also agree that younger folks seemed to hook up way more often on apps than other ways.
+There’s long been a persistent idea -- and even some evidence -- that cruising apps might lead to the death of bathhouses, ABSes, and sex clubs. "The younger generations open an app and hook up there. Why do they need to go to the bathhouse?" For much of the last 10 or 15 years, I agree that bathhouse attendance went down and was often largely those of us 40 and older. I also agree that younger folks seemed to hook up way more often on apps than other ways.
 
 Then Sniffies arrived, and things are definitely changing.
 
@@ -13,16 +13,22 @@ Then Sniffies arrived, and things are definitely changing.
 
 With the arrival of [Sniffies](https://sniffies.com/) and its dynamic, live map, bathhouses become part of the digital cruising landscape in a way that they haven't before: They become *fixed locations* where people are actively hooking up. We can see if there might be a crowd there -- and we can interact in the chat related to each place to plan our visits and encounters in advance.
 
-Sniffies tends to appeal strongly to the under-40 crowd. It's web-first (and web-only so far), so an app download isn't required. The real-time map is designed for cruising and hook-ups, not for dating. Bathhouses being places on that map means that younger folks are starting to come to the baths -- often for the first time. Once they're there, like those of us who have been frequenting the baths for many years, many of them like the experience and keep coming back.
+Sniffies tends to appeal strongly to the under-40 crowd, but increasingly I’m seeing men of all ages using it as a real-time decision-making tool -- not just a hook-up site:
+- It's web-first (and web-only so far), so an app download isn't required.
+- The real-time map is designed for cruising and hook-ups, not for dating.
+- Bathhouses being places on that map means that younger folks are starting to come to the baths -- often for the first time. Once they're there, like those of us who have been frequenting the baths for many years, many of them like the experience and keep coming back.
+- The new "activity" heatmap at the top of every place allows us to decide whether we want to go now, or perhaps wait until a busier time.
 
 On Reddit and similar sites, the chatter lines up with this shift:
 - "I only go if I see people on Sniffies"
 - "Sniffies saved me from wasting trips"
-- "You can tell if it's worth going before you leave
+- "You can tell if it's worth going before you leave"
 
 Sniffies is providing classic network-effect behavior: visibility → curiosity → attendance → more visibility. This also leads to peaks in attendance at traditionally slow times.
 
-Historically bathhouses had their predictable peaks: "Weekends are better than weekdays, and nights are better than daytime." What I like to call **"The Sniffies Effect"** is changing that: Tuesdays are **packed** at Crew Club in DC, and there is a large percentage of those in their 20s and 30s. Club Philly recently had a very busy Wednesday morning, also with a preponderance of those under 40. (I'll admit that half-price specials during those times at both places helped, but we all know that neither Tuesdays nor Wednesdays have traditionally been all that busy -- especially during the day.) Sniffies is now creating "micro-peaks" in attendance, based on visible activity on the map and in the chat. If you’re trying to figure out whether it’s worth going at a given moment, see [[Questions about the bathhouse (FAQs)#Will it be busy?|Will it be busy?]] for some practical ways to gauge it.
+Historically bathhouses had their predictable peaks: "Weekends are better than weekdays, and nights are better than daytime." What I like to call **"The Sniffies Effect"** is changing that: Tuesdays are **packed** at Crew Club in DC, and many of them are in their 20s and 30s. Club Philly sometimes has very busy Wednesday mornings, also with a preponderance of those under 40. (I'll admit that half-price specials during those times at both places helped, but we all know that neither Tuesdays nor Wednesdays have traditionally been all that busy -- especially during the day.) Sniffies is now creating "micro-peaks" in attendance, based on visible activity on the map and in the chat.
+
+They recently doubled down on this by moving live attendance, venue features, and historical activity heatmaps to the very top of each venue listing. In other words, Sniffies is no longer just helping us find each other -- it’s actively helping us decide *when* to go. That’s gasoline on the “Sniffies Effect.”
 
 Before Sniffies:
 - Decision = guesswork
@@ -65,3 +71,20 @@ Bathhouses and their patrons benefit because the bathhouse is a *fixed location*
 Bathhouses aren’t disappearing -- they’re evolving, just like every business has to in the face of "digital disruption." And right now, Sniffies is one of the forces reshaping how, when, and why people show up.
 
 If you see me on Sniffies, say hi, and let's plan to meet at the baths!
+
+---
+## May 2026 Update: The "Straightification" Debate
+
+Auntie read the May 2026 article in WIRED about [the "straightification" of Sniffies](https://www.wired.com/story/sniffies-users-worry-about-straightification-gay-cruising-app/). If you've read my site, you know that I'm one who is careful about how I approach everything. In this case, I think a "wait and see" attitude is the best.
+
+Will Match Group ruin Sniffies? Probably not.
+
+Will things change now that Match Group invested in Sniffies? Possibly.
+
+Can we predict what will change and how? Nope -- unless we're members of the executive team at Sniffies or Match Group.
+
+My best advice? Let's watch and see what happens. 
+
+If Sniffies changes too much, we queers will find each other in another space. We've been doing that very same thing for generations (check out my [[The History of Bathhouses|history page]] if you're not familiar). 
+
+We'll do it again when we need to -- whether in bathhouses, bars, parks, websites, apps… or whatever virtual spaces come next.

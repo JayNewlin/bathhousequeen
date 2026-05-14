@@ -1,8 +1,21 @@
 ---
 title: "Field Guide: Going the first time"
-description: What to expect on your first visit to a gay bathhouse
+description: First time at a gay bathhouse? Auntie Bathhouse Queen explains what to expect, what to bring, how to cruise, stay safe, read the room, and enjoy your first visit with confidence.
 ---
-## It's Time!
+## Your first time at a gay bathhouse
+
+Visiting a gay bathhouse for the first time can be exciting, intimidating, and more than a little nerve-racking. If you're wondering what to expect on your first bathhouse visit, Auntie Bathhouse Queen is here to walk you through it.
+### Ready to go… right now?
+
+Here’s Auntie’s advice:
+- Shower first
+- Bring ID and payment
+- Leave valuables at home
+- Explore before you play
+- Consent always matters
+- You can leave anytime
+- Nobody knows you’re new unless you tell them
+### Want some more details before you go?
 
 You've been reading all the posts on the bathhouse's listing on Sniffies and Squirt. Guys on Scruff and Grindr have been asking you to meet them there. You've watched one too many bathhouse porn scenes. You've decided: I'm going to do it! I'm going to the bathhouse!
 
@@ -18,9 +31,9 @@ Pull up a seat, and let's chat about your first visit to the baths!
 Good question! You don't want to get there and find out that you could or should have done or brought something important.
 
 - It might be wise to shower at home if you're going to the bathhouse from home. While the club has showers, their soap probably isn't the brand you use at home, and they probably don't provide shampoo or conditioner.
-- If you think you might bottom, clean yourself out properly and thoroughly. Auntie isn't an expert in this area, so you may want to find other sources for how to do it well. There are good guides out there (including on YouTube) on bottoming.
+- If you think you might bottom, clean yourself out properly and thoroughly. There are plenty of excellent guides online (including on YouTube) if you're still learning what will work for you.
 - Most bathhouses provide condoms free of charge. Some provide a small packet of lube. But don't bet on it. You might want to bring a condom or three and your own lube if you use them.
-- If you use poppers, bring them with you. You can probably buy them from most bathhouses, but they might sell out, and their price is almost definitely higher than the other places you might buy them.
+- If you use poppers, don't assume that the club will have them available for sale -- or reasonably priced.
 - Your room or locker will have its own key, but it’s wise not to bring valuables that you don’t need. Definitely don’t wear any expensive jewelry or anything that can’t get wet.
 - Plan your "outfit." Bathhouses don't allow you to wear street clothes inside.
 	- Most guys wear the bathhouse's towel around their waist
@@ -85,7 +98,7 @@ I said it above, but I'll say it again: [[Cruising in a bathhouse]] is very diff
 
 The most important thing to remember is that, no matter how physical the process is, **consent must always be requested and granted.** 
 - Don't think that you have to give in to every person who approaches or touches you.
-- You don't have to allow someone that you're not into continue to touch or pursue you.
+- You don't have to allow someone that you're not into to continue to touch or pursue you.
 - If you’re not interested, a simple No, stepping away, or gently moving someone’s hand is enough.
 - You are in charge of what you do and do not want to do and with whom.
 
@@ -99,7 +112,7 @@ The most important thing to remember is that, no matter how physical the process
 - The first indication of wanting to have sex together is often a touch on the arm, leg, chest, or maybe elsewhere.
 	- If someone is touching you and you aren't into them, brush away their hand politely but firmly.
 	- If you touch or approach someone and they reject your advance, it's polite to apologize and to move away. I often apologize, leave the general area, and remember who wasn't interested so that I don't accidentally try again.
-- Once both parties have agreed, it's Game On, and things often progress very quickly. 
+- Once both parties have agreed, things often move very quickly. 
 - If you want to slow it down -- especially if you're enjoying what's happening right now and you don't want it to stop even in favor of something else -- say so or otherwise make it clear that you're really liking what's happening now.
 - If someone continues to pursue or touch you after you've rebuffed them, you can make your further rejections stronger, but don't respond to rudeness with rudeness. If it gets really bad and they simply won't stop, report them to the front desk. That's often cause for the bathhouse to warn them or to kick them out.
 ### Bathhouse hygiene tips
@@ -128,7 +141,7 @@ It's important to know that it doesn't matter how long you stay at the bathhouse
 8. Before you walk out the final door, triple check for everything. Yes, I mean it. This is what would have saved me from having to walk back from home to pick up my phone.
 ### As you head home
 
-Remember: It's not a Walk of Shame. You've just been to the baths for the first time. If you're walking funny, that's a sign that you had a great time!
+Remember: It's not a Walk of Shame. You've just been to the baths for the first time. If you're walking funny, smiling a little too much, or already planning your next visit… Auntie suspects you had a great time!
 
 Your first visit might be exciting, awkward, fun, overwhelming -- or all of those at once. That’s normal. You’ll learn quickly what you like, what you don’t, and how you want to experience the baths next time.
 
