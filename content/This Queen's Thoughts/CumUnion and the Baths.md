@@ -1,6 +1,6 @@
 ---
 title: CumUnion and the bathhouse
-description: "How CumUnion is changing gay bathhouses: its San Francisco origins, global growth, bigger crowds, first-time visitors, and why these branded party nights may help clubs thrive."
+description: "How CumUnion is changing gay bathhouses: San Francisco origins, global growth, bigger crowds, newcomers, and why branded party nights help clubs thrive."
 ---
 ## When a party changes the club
 
