@@ -1,6 +1,6 @@
 ---
 title: The Bathhouse and STIs
-description: Can you get an STI at a gay bathhouse? Honest, sex-positive guidance about HIV, PrEP, DoxyPEP, condoms, testing, and how bathhouses became part of queer health, not the problem.
+description: Can you get an STI at a gay bathhouse? Honest, sex-positive guidance about STI prevention and testing, and how bathhouses became part of queer health, not the problem.
 ---
 ## Can you get an STI at a gay bathhouse?
 
