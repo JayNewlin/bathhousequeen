@@ -1,51 +1,5 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-import { Options } from "./quartz/components/Explorer"
-
-// customized left nav sorting
-const sortFn: Options["sortFn"] = (a, b) => {
-  const navOrder = [
-    "Field-guide-to-your-first-visit",
-    "How-to-pack-for-a-visit",
-    "Trans-people-at-the-bathhouse",
-    "Bathhouse-basics",
-    "Bathhouse-FAQs",
-    "Bathhouse-etiquette",
-    "Bathhouse-rules",
-    "Cruising-in-a-bathhouse",
-    "Who-is-the-Bathhouse-Queen",
-
-    "Bathhouse Culture",
-    "Bathhouse-Culture/Glossary",
-    "Bathhouse-Culture/Kinks,-Fetishes,-and-Subcultures",
-    "Bathhouse-Culture/The-History-of-Bathhouses",
-    "Bathhouse-Culture/Disco-era-rules-of-the-baths",
-
-    "This Queen's Thoughts",
-    "This-Queen's-Thoughts/Sniffies-and-the-Baths",
-    "This-Queen's-Thoughts/CumUnion-and-the-Baths",
-    "This-Queen's-Thoughts/The-Bathhouse-and-STIs",
-
-  ]
-
-  const aSlug = a.data?.slug ?? a.displayName
-  const bSlug = b.data?.slug ?? b.displayName
-
-  const aIndex = navOrder.indexOf(aSlug)
-  const bIndex = navOrder.indexOf(bSlug)
-
-  if (aIndex !== -1 && bIndex !== -1) return aIndex - bIndex
-  if (aIndex !== -1) return -1
-  if (bIndex !== -1) return 1
-
-  if (!a.isFolder && b.isFolder) return -1
-  if (a.isFolder && !b.isFolder) return 1
-
-  return a.displayName.localeCompare(b.displayName, undefined, {
-    numeric: true,
-    sensitivity: "base",
-  })
-}
 
 // Hide any page tagged with `explorerexclude` from the left nav
 const explorerFilter = (node: any) => {
@@ -86,14 +40,12 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({
       filterFn: explorerFilter,
-      sortFn,
     }),
   ],
   right: [
-      // remove Graph View and Backlinks from right nav
-//    Component.Graph(),
+    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
-//    Component.Backlinks(),
+    Component.Backlinks(),
   ],
 }
 
@@ -114,7 +66,6 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer({
       filterFn: explorerFilter,
-      sortFn,
     }),
   ],
   right: [],

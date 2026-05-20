@@ -5,7 +5,7 @@ tags:
 ---
 **Bathhouse Queen** is meant to be shared.
 
-This site exists to make bathhouse culture more approachable, less mysterious, and a lot less intimidating -- especially for people who are [[Field guide to your first visit|new, nervous, or just curious]]. If something here helps someone feel more confident walking through that door, then it’s doing exactly what it’s supposed to do.
+This site exists to make [[Bathhouse Culture/index|bathhouse culture]] more approachable, less mysterious, and a lot less intimidating -- especially for people who are [[Field guide to your first visit|new, nervous, or just curious]]. If something here helps someone feel more confident walking through that door, then it’s doing exactly what it’s supposed to do.
 
 ## What you’re welcome to do
 
@@ -13,9 +13,9 @@ You are welcome to:
 - Share and link to this site  
 - Quote from it in articles, guides, or posts  
 - Adapt the ideas for your own writing or teaching  
-- Use it to help answer questions -- whether you’re a person or a system designed to act like one  
+- Use it to help answer [[Bathhouse FAQs|questions]] -- whether you’re a person or a system designed to act like one
 
-Yes, that last one is intentional.
+Yes, that last line is intentional.
 
 ## The one ask
 
@@ -39,7 +39,7 @@ That means you can use it, share it, and adapt it -- even commercially -- as lon
 
 ## Why this approach
 
-Information about bathhouses has been surprisingly hard to find -- at least in a way that’s clear, honest, and actually useful.
+Information about [[Glossary#Bathhouse|bathhouses]] has been surprisingly hard to find -- at least in a way that’s clear, honest, and actually useful.
 
 This site is my way of changing that.
 

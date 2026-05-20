@@ -2,7 +2,7 @@
 title: Who is the Bathhouse Queen?
 description: The voice behind this site
 ---
-Hi I’m the voice behind **Bathhouse Queen**. I am the queen of Bathhouse Queen.
+Hi I’m the voice behind **Bathhouse Queen**. I am the queen of Bathhouse Queen. Her Steaminess, The Oracle of the Baths.
 
 If you’re looking for credentials, here they are:
 
@@ -20,7 +20,7 @@ The easiest way to describe me?
 
 I’m here to:
 
-- Answer the questions you’re not sure how to ask  
+- Answer the [[Bathhouse FAQs|questions]] you’re not sure how to ask — especially for your [[Field guide to your first visit|first visit]]
 - Explain the things no one explains  
 - Help you walk in feeling confident instead of confused  
 
@@ -42,33 +42,44 @@ And it’s informed a lot of what you’ll read here.
 ---
 ## Why I started this
 
-Because I kept seeing the same thing happen:
+### Origin Story Part 1: Some Silly “Rules”
 
-People are curious about bathhouses, but they don’t have a place to learn the basics. So they either:
+Starting way back in the 1990s, I would see the “[[Disco-era rules of the baths|Rules of the Baths]]” occasionally floating around the early interwebs. They always made me chuckle.
 
+Then, they simply… disappeared.
+
+I wanted to give them a home on the web again so that others could have the same chuckles.
+
+### Origin Story Part 2: Answering the same questions about bathhouses frequently
+
+I see the same thing happen on cruising sites and apps at least once a day:
+
+People are curious about bathhouses, but they don’t have a place to learn the [[Bathhouse basics|basics]]. So they either:
 - Don’t go  
 - Or go in completely unprepared  (and often have a horrible time because they weren't prepared or in the right mindset or ...)
 
-That's just not right, so I started answering questions — casually at first on [Squirt](https://www.squirt.org) and [Sniffies](https://sniffies.com) — and realized just how much people were looking for **clear, honest guidance**.
+That's just not right, so I started answering questions -- casually at first on Squirt and [[Sniffies and the Baths|Sniffies]] -- and realized just how much people were looking for **clear, honest guidance**.
 
-Bathhouse Queen grew out of that.
+### Put #1 and #2 together…
+
+**Bathhouse Queen** was born.
 
 ---
 ## What you can expect from me
 
 - Straightforward explanations  
 - Real-world perspective  
-- Respect for the culture  
-- A little humor when it helps  
+- Respect for the [[Bathhouse Culture/index|culture]]
+- A little humor when it helps
 
 And above all:
 
 > **The assumption that you deserve to feel comfortable in a space before you enter it.**
 
 ---
-## Auntie says
+## Auntie says…
 
-If you’ve ever thought:
+If you ever thought:
 
 > *“I feel like I should know this already…”*
 

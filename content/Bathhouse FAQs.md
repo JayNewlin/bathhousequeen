@@ -1,20 +1,20 @@
 ---
-title: Questions about gay bathhouses (FAQs)
+title: Bathhouse FAQs
 description: "Gay bathhouse FAQs for first-timers: what to wear, what to bring, who goes, privacy, safety, hookups, nerves, phones, and what really happens inside."
 ---
 ## Background
 
-I'm often asked the same questions about bathhouses on cruising sites like Squirt and Sniffies. Here are some of the most common -- and my honest answers. I’ll probably add more over time.
+I'm often asked the same questions about bathhouses on cruising sites like Squirt and [[Sniffies and the Baths|Sniffies]]. Here are some of the most common questions and my honest answers.
 
 ---
 ## Do you have to be gay to go to a gay bathhouse?
 
-Not necessarily. While most bathhouses primarily serve gay, bi, and straight-curious men, other queer people go to bathhouses, and policies vary by location. Some are men-only spaces, while others may have designated all-gender or trans-inclusive nights. It’s always best to check the specific club’s rules and events calendar before visiting.
+The possibly surprising answer: **No.** While most bathhouses primarily serve gay, bi, and straight-curious men, other [[Glossary#Queer|queer]] people go to bathhouses, and policies vary by location. Some are men-only spaces, while others may have designated all-gender or [[Trans people at the bathhouse|trans]]-inclusive nights. It’s always best to check the specific club’s rules and events calendar before visiting.
 
 ---
 ## What do you wear at a bathhouse?
 
-Bathhouses usually provide a towel, so most people wear that wrapped around their waist. Many guys wear a jock -- by itself or under their towel. Some people walk around naked all the time. What you wear (or don't) is entirely up to you and what makes you comfortable. (Just know that most bathhouses have a strict "No street clothes" rule.)
+Bathhouses usually provide a [[Glossary#Towel|towel]], so most people wear that wrapped around their waist. Many guys wear a jock -- by itself or under their towel. Some people walk around naked all the time -- Auntie is one of them. What you wear (or don't) is entirely up to you. Be comfortable. (Just know that most bathhouses have a strict "No street clothes" rule.)
 
 ---
 ## Can you go alone to a bathhouse?
@@ -39,7 +39,7 @@ You can expect a mix of socializing, relaxation, and sexual energy, with most in
 ---
 ## What happens in a gay bathhouse?
 
-Most people spend their time cruising -- making eye contact, signaling interest, and connecting with others based on mutual attraction. You can find some more details in my notes on [[Bathhouse basics#What happens in a gay bathhouse?|What happens in a gay bathhouse?]]
+Most people spend their time [[Glossary#Cruising|cruising]] -- making eye contact, signaling interest, and connecting with others based on mutual attraction. You can find some more details in my notes on [[Bathhouse basics#What happens in a gay bathhouse?|What happens in a gay bathhouse?]]
 
 ---
 ## Do you have to have sex at a bathhouse?
@@ -55,7 +55,7 @@ It’s important to remember that not everyone at the bathhouse is going to be s
 
 Sometimes you’ll find that posts on cruising sites say that, “There’s only bottoms.” In reality, there are usually enough tops or truly vers guys to keep the action going.
 
-Like I've mentioned in other places: There's no single "type" of person who goes to the bathhouse.
+There's no single "type" of person who goes to the bathhouse.
 
 ---
 ## Will I have fun?
@@ -74,10 +74,10 @@ I've seen guys stay for an entire night because they were having a blast (me inc
 The baths and alcohol don't actually mix well (sorry, clubs that serve booze, but it's true). If you drink, one might help settle your nerves, but one is probably enough.
 
 If you've had too much:
-- you might not get and stay hard
-- you might get silly, or weepy, or confused, or sloppy, or whatever your drunk behavior is
-- you won't be able to give or remember to ask for real consent
-- you literally might fall asleep in the middle of all the fun
+- You might not get and stay hard
+- You might get silly, or weepy, or confused, or sloppy, or whatever your drunk behavior is
+- You won't be able to give or remember to ask for [[Glossary#Consent|consent]]
+- You literally might fall asleep in the middle of all the fun
 
 The same idea applies to other substances: If you use them to help calm your nerves, don't overdo it.
 
@@ -90,11 +90,12 @@ Being busy increases the number of potential hookups. Quieter times often mean t
 
 Busy doesn't always guarantee a good time. I know many guys who go when it's quieter **on purpose** because they're almost guaranteed to have more fun.
 
-Wondering how busy a bathhouse will be before you go? There's an easy way to get a sense: The [Sniffies](https://sniffies.com/) map will let you know how many guys have checked in at the bathhouse. There are no hard-and-fast rules, but based on my observations, one check-in on Sniffies can represent a few people actually inside -- sometimes 2–5. So even a couple of check-ins can mean there’s more going on than it might appear. (Check out my thoughts about [[Sniffies and the Baths]])
+Wondering how busy a bathhouse will be before you go? There's an easy way to get a sense: The [Sniffies](https://sniffies.com/) map will let you know how many guys have checked in at the bathhouse. There are no hard-and-fast rules, but based on my observations, one check-in on Sniffies can represent a few people actually inside -- sometimes 2–5. So even a couple of check-ins can mean there’s more going on than it might appear. (Check out the rest of my thoughts about [[Sniffies and the Baths]].)
 
-Bathhouses often publish their own calendars, too -- theme nights, discounts, or special events can significantly change how crowded it gets. It makes good sense to check their website for their calendar before a visit to see what might be going on when you get there.
+Bathhouses often publish their own calendars, too -- [[Glossary#Theme nights|theme nights]], discounts, or special events (like [[CumUnion and the Baths|CumUnion]]) can significantly change how crowded it gets. It makes good sense to check their website for a calendar before a visit to see what might be going on when you get there.
 
-**Remember:** There's no "right" time to go. There's just different types of experiences. 
+### Auntie says...
+>There's no "right" or "wrong" time to go. There's just different types of experiences. 
 
 ---
 ## Is it clean?
@@ -102,7 +103,7 @@ Bathhouses often publish their own calendars, too -- theme nights, discounts, or
 Sexual activity happens in a variety of spaces in the bathhouse (showers, public play areas, maybe the steam room or sauna). Sex between men usually ends with some liquid results 💦 That plus sweat means that some surfaces aren't always exactly the cleanest:
 - Try to remember to wipe up if you leave evidence of your fun somewhere
 - The bathhouse staff clean public spaces regularly (sometimes after especially busy shifts, sometimes only once a day)
-- Almost all bathhouses do a deep cleaning in the morning (when the club is usually the quietest)
+- Almost all bathhouses do a deep cleaning in the morning (when the [[Glossary#Club|club]] is usually the quietest)
 
 If you're not certain about the cleanliness of the floors, you'll want to wear shower shoes, flip flops, sandals, or shoes. Some people (this queen included) go barefoot, but that's up to each person.
 
@@ -121,7 +122,7 @@ I get it. Spaces that describe themselves as "for men" can automatically sound e
 ---
 ## The bathhouse is discreet, but what about other patrons?
 
-Remember that the other patrons don't want you to blab to your friends that you saw them there. Our "secrets" are safe between us. What happens in the bathhouse stays in the bathhouse.
+Remember that other patrons don't want you to blab to your friends that you saw them there. Our "secrets" are safe between us. What happens in the bathhouse stays in the bathhouse.
 
 I can attest to this firsthand: I have met literal friends in the baths. We not only knew we saw each other, we even talked to each other. We have **never** discussed our encounters outside those walls -- even in private conversations with each other.
 
@@ -132,13 +133,13 @@ It happens. You’re walking down a hall and think, “That looks like X,” and
 
 Auntie's been there. Multiple times with different friends and acquaintances. And I’ve lived to tell about it. And none of them ever “outed” me as having been at the bathhouse. 
 
-First: Don’t panic. They’re there, too. They don’t want you to blab about the encounter with friends either. You’re both in the same boat. And that puts you on equal footing. 
+**First:** Don’t panic. They’re there, too. They don’t want you to blab about the encounter with friends either. You’re both in the same boat. And that puts you on equal footing. 
 
-Second: It’s okay to talk with them. At least say Hi -- unless one or both of you is in a position or activity where chit chat is unwise. Or basically impossible. 
+**Second:** It’s okay to talk with them. At least say Hi -- unless one or both of you is in a position or activity where chit chat is unwise. Or basically impossible. 
 
-Third: Honestly, you now have an unspoken vow and bond between you. “What happens in the bathhouse stays in the bathhouse.”
+**Third:** Honestly, you now have an unspoken vow and bond between you. “What happens in the bathhouse stays in the bathhouse.”
 
-Should you hook up with them? That's entirely up to you, sweetie. Just remember, though, that one of the so-called “rules” states, "It is considered embarrassing to have sex with someone you already know." jk (See it and other silly “rules” on [[Want to read some silly rules]])
+Should you hook up with them? That's entirely up to you, sweetie. Just remember, though, that one of the so-called “rules” states, "It is considered embarrassing to have sex with someone you already know." jk (See it and other silly “rules” on [[Disco-era rules of the baths]].)
 
 Seriously though, for most people the encounter ends up being way less awkward than they might have imagined.
 
@@ -156,9 +157,9 @@ Just remember: It's wise to check their website or call ahead to ask specific qu
 ---
 ## Still have questions about gay bathhouses?
 
-- If you're really new to the bathhouse scene or want to brush up on the basics, check out [[Field guide to your first visit]]
-- I cover several other common questions in [[Bathhouse basics]]
-- If you're planning to pack your bag for a visit, check [[How to pack for a visit]]
-- [[Cruising in a bathhouse]] is important to check because it's different than cruising anywhere else
+- If you're new to the bathhouse scene, check out [[Field guide to your first visit]]
+- I answer several other common questions in [[Bathhouse basics]]
+- If you're planning to pack a bag for your visit, check [[How to pack for a visit]]
+- [[Cruising in a bathhouse]] is important to check because it's different than [[Glossary#Cruising|cruising]] anywhere else
 - If you have a burning question that I haven't answered elsewhere, email me at queen@bathhousequeen.com
 

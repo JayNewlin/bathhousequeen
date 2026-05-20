@@ -10,7 +10,7 @@ export default {
       note: "Note",
       abstract: "Abstract",
       info: "Info",
-      todo: "To-Do",
+      todo: "Todo",
       tip: "Tip",
       success: "Success",
       question: "Question",
@@ -54,7 +54,7 @@ export default {
       searchBarPlaceholder: "Search for something",
     },
     tableOfContents: {
-      title: "Page Map",
+      title: "Table of Contents",
     },
     contentMeta: {
       readingTime: ({ minutes }) => `${minutes} min read`,

@@ -6,13 +6,13 @@ description: "How CumUnion is changing gay bathhouses: San Francisco origins, gl
 
 Bathhouses have always had busy nights:
 * Fridays and Saturdays
-* Leather Nights
+* Leather Nights or other [[Glossary#Theme nights|Theme Nights]]
 * Weeknights with a half-price special
 * That unusual Monday evening when Mercury is in the House of the Unicorn and the whole town is horny at the same time
 
 And for a few years now, another night has been drawing large crowds to gay bathhouses around the world: **CumUnion**.
 
-You may have seen the name on the apps, sites like [[Sniffies and the Baths|Sniffies]], gay calendars, and even queer newspapers (yes! they exist!) and wondered, "What in the world is **CumUnion**?"
+You may have seen the name on the apps, sites like [[Sniffies and the Baths|Sniffies]], gay calendars, and even queer newspapers (yes! they still exist!) and wondered, "What in the world is **CumUnion**?"
 
 ---
 ## So... What's _CumUnion_?
@@ -30,24 +30,27 @@ Their goal is pretty clear: Dedicate one night to a sex-positive, body-positive 
 ---
 ## A quick history lesson
 
-The CumUnion site tells us that they "started as a small sex party after the 2010 Dore Alley Street Fair in San Francisco. The success of the first party spawned the second, held two months later following Folsom Street Fair. Due to the overwhelming popularity of these two events we began to have the party on a regular basis. It wasn’t long before word spread and guys started to request that a CumUnion party be held in their city."
+The CumUnion site tells us that they
+
+>started as a small sex party after the 2010 Dore Alley Street Fair in San Francisco. The success of the first party spawned the second, held two months later following Folsom Street Fair. Due to the overwhelming popularity of these two events we began to have the party on a regular basis. It wasn’t long before word spread and guys started to request that a CumUnion party be held in their city.
 
 There’s also an echo of a similarly themed and named party at Lab.oratory, the infamous fetish and sex club in Berlin, dating back to the early 2000s.
 
 That’s typical of queer culture: ideas spark in multiple places, sometimes independently, sometimes influenced by each other, and often without anyone worrying too much about who was “first.”
+
 ### Auntie's history with CumUnion
 
-CumUnion arrived at my "home club," Club Philly, a few years after it developed in San Francisco. I actually went to the very first one, curious to see what it would be like. I quickly became a regular because I liked the vibe and always had a lot of fun.
+CumUnion arrived at my "home club," Club Philly, a few years after it developed in San Francisco. I actually went to the very first one that they held, curious to see what it would be like. I quickly became a regular because I liked the vibe and always had a lot of fun.
 
-In 2020, just like everything else, bathhouse culture and CumUnion came to a crashing stop during the pandemic shutdown. To their credit, CumUnion and their sponsors raised money to distribute among their participating bathhouses and clubs, hoping to ease the burden of nonexistent revenues. Auntie remembers receiving a couple emails encouraging private donations.
+In 2020, just like everything else, [[Glossary#Subculture|bathhouse culture]] and CumUnion came to a crashing stop during the pandemic shutdown. To their credit, CumUnion and their sponsors raised money to distribute among their participating bathhouses and clubs, hoping to ease the burden of nonexistent revenues. Auntie remembers receiving a couple emails encouraging private donations.
 
 Once the pandemic restrictions reduced to allow businesses to open, CumUnion also came back -- with facemasks, temperature checks, and hand sanitizer. CumUnion has always encouraged each participant's health and safety, and that was on full display during those "come back cautiously and wisely" days.
 
-And Auntie was right there... hanging out at my favorite gloryhole in the basement slurp ramp on that first night back at Club Philly for CumUnion.
+And Auntie was right there... hanging out at my favorite gloryhole in the basement [[Glossary#Slurp ramp|slurp ramp]] on that first night back at Club Philly for CumUnion.
 
 Since then, CumUnion (and Club Philly) resurged quickly:
 - The parties are now held twice each month (on the first and third Saturday nights)
-- The crowds have grown so much that rooms always sell out early, and lockers even sell out at least once each party night.
+- The crowds have grown so much that [[Glossary#Room|rooms]] always sell out early, and [[Glossary#Locker|lockers]] sell out on particularly busy nights.
 
 CumUnion is definitely the busiest time at Club Philly -- and you can almost always find Auntie there.
 
@@ -70,7 +73,7 @@ Auntie suspects that there are several reasons.
 
 #### It removes decision fatigue
 
-Instead of asking: “Should I go to the baths tonight?”
+Instead of asking: “Should I go to the [[Glossary#Baths|baths]] tonight?”
 
 People ask: “Is tonight CumUnion?”
 
@@ -131,15 +134,15 @@ That's neither good nor bad. It's **different**.
 And bathhouses need both quiet nights **and** the high-energy, efficient nights. Because different customers like each. And some of us are looking for one or the other, depending on our mood.
 
 ---
-## Auntie's thoughts
+## Auntie says…
 
-CumUnion doesn't change **what happens at a bathhouse**. Bathhouses were already designed to encourage sexually charged encounters between consenting adults.
-
-What CumUnion changes is **how people decide when to go**.
-
-In today's world of apps, streaming, home hookups, and countless digital distractions competing for our attention...
-
-That matters.
+> CumUnion doesn't change **what happens at a bathhouse**. Bathhouses were already designed to encourage sexually charged encounters between consenting adults.
+> 
+> What CumUnion changes is **how people decide when to go**.
+> 
+> In today's world of apps, streaming, home hookups, and countless digital distractions competing for our attention...
+> 
+> That matters.
 
 **CumUnion doesn't change what happens at the bathhouse.
 It changes how -- and when -- and how many people show up for it.**

@@ -4,7 +4,7 @@ description: Why Sniffies may be saving bathhouses instead of killing them.
 ---
 ## Digital cruising and the baths
 
-There’s long been a persistent idea -- and even some evidence -- that cruising apps might lead to the death of bathhouses, ABSes, and sex clubs. "The younger generations open an app and hook up there. Why do they need to go to the bathhouse?" For much of the last 10 or 15 years, I agree that bathhouse attendance went down and was often largely those of us 40 and older. I also agree that younger folks seemed to hook up way more often on apps than other ways.
+There’s long been a persistent idea -- and even some evidence -- that [[Glossary#Cruising|cruising]] apps might lead to the death of bathhouses, ABSes, and sex clubs. "The younger generations open an app and hook up there. Why do they need to go to the bathhouse?" For much of the last 10 or 15 years, I agree that bathhouse attendance went down and was often largely those of us 40 and older. I also agree that younger folks seemed to hook up way more often on apps than other ways.
 
 Then Sniffies arrived, and things are definitely changing.
 
@@ -13,10 +13,10 @@ Then Sniffies arrived, and things are definitely changing.
 
 With the arrival of [Sniffies](https://sniffies.com/) and its dynamic, live map, bathhouses become part of the digital cruising landscape in a way that they haven't before: They become *fixed locations* where people are actively hooking up. We can see if there might be a crowd there -- and we can interact in the chat related to each place to plan our visits and encounters in advance.
 
-Sniffies tends to appeal strongly to the under-40 crowd, but increasingly I’m seeing men of all ages using it as a real-time decision-making tool -- not just a hook-up site:
+Sniffies tends to appeal strongly to the under-40 crowd, but increasingly I’m seeing people of all ages using it as a real-time decision-making tool -- not just a hook-up site:
 - It's web-first (and web-only so far), so an app download isn't required.
 - The real-time map is designed for cruising and hook-ups, not for dating.
-- Bathhouses being places on that map means that younger folks are starting to come to the baths -- often for the first time. Once they're there, like those of us who have been frequenting the baths for many years, many of them like the experience and keep coming back.
+- Bathhouses being places on that map means that younger folks are starting to come to the baths -- often for the [[Field guide to your first visit|first time]]. Once they're there, like those of us who have been frequenting the baths for many years, many of them like the experience and keep coming back.
 - The new "activity" heatmap at the top of every place allows us to decide whether we want to go now, or perhaps wait until a busier time.
 
 On Reddit and similar sites, the chatter lines up with this shift:
@@ -48,8 +48,8 @@ Let's look at this from various angles.
 
 - Increased visibility on a popular app is essentially "free marketing"
 - Higher off-peak attendance means new or increased revenue for the bathhouse
-- Younger users of Sniffies are discovering (and becoming loyal to) the baths
-- Increased discovery of bathhouses by other queer adults (trans people, more bi and straight-curious people)
+- Younger users of Sniffies are discovering (and becoming loyal to) the [[Glossary#Baths|baths]]
+- Increased discovery of bathhouses by other [[Glossary#Queer|queer]] adults ([[Trans people at the bathhouse|trans]] people, more bi and straight-curious people)
 - Reduced perception of "if it's Tuesday, it's slow" -- increasing the likelihood that others will come out at "non-traditional" times
 ### Potential trade-offs
 
@@ -85,6 +85,6 @@ Can we predict what will change and how? Nope -- unless we're members of the exe
 
 My best advice? Let's watch and see what happens. 
 
-If Sniffies changes too much, we queers will find each other in another space. We've been doing that very same thing for generations (check out my [[The History of Bathhouses|history page]] if you're not familiar). 
+If Sniffies changes too much, we queers will find each other in another space. We've been doing that very same thing for [[The History of Bathhouses|generations]].
 
 We'll do it again when we need to -- whether in bathhouses, bars, parks, websites, apps… or whatever virtual spaces come next.

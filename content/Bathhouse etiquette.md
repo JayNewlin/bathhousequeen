@@ -4,11 +4,11 @@ description: "Gay bathhouse etiquette for first-timers: The unspoken rules of ey
 ---
 ## Be polite
 
-Everyone goes to the bathhouse to have fun. Nothing ruins the fun faster than rudeness. Please remember your auntie's advice: Be kind and polite to everyone you meet. Sometimes "politeness" means quietly moving along and not engaging with someone who’s being rude.
+Everyone goes to the bathhouse to have fun. Nothing ruins the fun faster than rudeness. **Auntie says:** Be kind and polite to everyone you meet. Sometimes "politeness" means quietly moving along and not engaging with someone who’s being rude.
 
 When you need to decline someone's invitation to play, do it nicely. If you're the one being turned down, apologize and move along.
 
-A simple smile goes a long way -- even with people you're not into or going to "have fun with."
+A simple smile goes a long way -- even with people you're not into or going to have fun with.
 
 If you're passing someone in a tight hallway or stairs, let them pass through first unless you're already almost all the way through, up, or down.
 
@@ -19,9 +19,9 @@ It's especially important to be polite to the staff. They're in a customer servi
 
 I can't stress this enough: Not everyone is into absolutely everyone else. Someone isn't attracted to the person that everyone else thinks is absolutely gorgeous. We're all there to have fun, but we also all have our own tastes and interests.
 
-If you've been rebuffed, remember who said no, and don't try again later **unless they initiate it.** (Yes, we all also change our minds.)
+If you've been rebuffed, remember who said no, and don't try again later **unless they initiate it.** (Yes, we all can change our minds.)
 
-If you’re unsure how consent works in a bathhouse, see [[Bathhouse rules#The most important rule Consent|Bathhouse rules (Consent section)]]. It’s the most important thing to understand before you go.
+If you’re unsure how consent works in a bathhouse, see the  [[Bathhouse rules#The most important rule Consent|"Consent" section of my "Bathhouse rules" page)]]. It’s the most important thing to understand before you go.
 
 ---
 ## Clean up after yourself
@@ -33,10 +33,10 @@ If you’re unsure how consent works in a bathhouse, see [[Bathhouse rules#The m
 	- Take your towel and bed linens to the front desk
 
 ---
-## Auntie's advice again
+## Auntie says...
 
 - Be kind and polite to everyone you encounter
 - Smile
 - Follow the [[Bathhouse rules]]
 
-Auntie promises that you'll be glad you did!
+You'll be glad you did!

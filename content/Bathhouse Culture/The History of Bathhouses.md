@@ -4,7 +4,7 @@ description: From ancient times to today, bathhouses have almost always been abo
 ---
 ## Bathhouses: more than just hot water and steam
 
-Bathhouses didn't begin as places for queer people -- or anyone -- to have sex. They also didn't spring into existence, fully formed from Bette Midler's mind, in the 1970s. They have a long and interesting history.
+Bathhouses didn't begin as places for [[Glossary#Queer|queer]] people -- or anyone -- to have sex. They also didn't spring into existence, fully formed from Bette Midler's mind, in the 1970s. They have a long and interesting history.
 
 A bathhouse is a shared space built around communal bathing -- often including saunas, steam rooms, gym equipment, and social areas -- and its purpose has changed dramatically throughout history and across cultures.
 
@@ -38,7 +38,7 @@ Ancient Greek bathhouses weren't designed exclusively for sex, but the culture w
 
 ### Rome and the Golden Age of the Bathhouse
 
-Ancient Rome borrowed… and occasionally flat-out stole a lot from ancient Greece -- including the bathhouse. But the Roman Empire turned social bathing into an art form and bathhouses into temples (literally and figuratively).
+Ancient Rome borrowed — and occasionally flat-out stole — a lot from ancient Greece, including the bathhouse. But the Roman Empire turned social bathing into an art form and bathhouses into temples (literally and figuratively).
 
 If you've ever been to the ruins of an ancient Roman bathhouse, you know that they were:
 - Architecturally stunning, rivaling palaces and temples
@@ -78,16 +78,16 @@ Korean *jimjilbangs* are large, modern bath complexes combining:
 - Saunas
 - Relaxation spaces
 
-Like Japan, the emphasis is on **wellness and community,** not sex. As in many such communal environments featuring nudity, subcultures emerged beneath the surface.
+Like Japan, the emphasis is on **wellness and community,** not sex. As in many such communal environments featuring nudity, [[Glossary#Subculture|subcultures]] emerged beneath the surface.
 
 ---
 ## The Middle Ages: Decline and Disappearance
 
-After the fall of Rome, public bathing declined in Europe. (Honestly, so did private bathing, but that's a subject for a different day.)
+After the fall of Rome, public bathing declined in Europe. (Honestly, so did private bathing, but that's a smelly subject for a different day.)
 
 Why?
 - Roman infrastructure literally collapsed
-- Western Christianity took on a very negative approach to the human body -- especially in the nude
+- Western Christianity took on a very negative approach to the human body -- especially nudity
 - Bathhouses became associated with disease and prostitution
 
 By the Middle Ages, bathhouses had largely disappeared in Western Europe -- and those that remained took on very bad reputations that pushed them to the margins of society.
@@ -100,7 +100,7 @@ Bathhouses re-emerged in the 19th and 20th centuries, especially in large cities
 - London
 - Paris
 
-Since most homes didn't have private bathrooms, the bathhouse served a practical purpose: Hygiene and cleanliness.
+Since most homes didn't have private bathrooms, the bathhouse served a practical purpose: Hygiene and cleanliness. (Sound familiar? History doesn’t exactly repeat itself, but it does echo and rhyme.)
 
 As these cities grew into modern metropolises, anonymous social spaces took on a life of their own -- and the baths took on new roles.
 
@@ -128,13 +128,13 @@ After the marches and riots of the 1950s and 1960s (and particularly after the S
 In cities like San Francisco, Philadelphia, New York, and Toronto:
 - Bathhouses were large, busy, and socially vibrant
 - They functioned like community centers -- as well as sexual spaces
-- For many men, they were a first experience of open, queer life
+- For many men, they were a first experience of open, [[Glossary#Queer|queer]] life
 
-The baths were also often entertainment spaces -- especially on busy nights. Many people might not remember, but Bette Midler often performed at the Continental Baths in New York City during her early career. Her pianist was another young artist: Barry Manilow.
+The baths were also often entertainment spaces -- especially on busy nights. Many people might not remember, but Bette Midler often performed at the Continental Baths in New York City during her early career. Her pianist was another young artist, Barry Manilow.
 
 Some clubs, including Auntie's "home," Club Philly, were part of nationwide networks like the “Club Baths” chain. While these were more loose associations than "chain" usually implies (like when we talk about "chain restaurants" and "hotel chain"), they:
-- Standardized what bathhouses looked like and included (gym equipment, changing rooms, steam/sauna spaces, cruising areas)
-- Established a sense of familiarity and trust (almost all were named "Club + City Name")
+- Standardized what bathhouses looked like and included (gym equipment, changing rooms, steam/sauna spaces, [[Glossary#Cruising|cruising]] areas)
+- Established a sense of familiarity and trust (almost all were named "Club + _City Name_")
 - Created a network of queer spaces across cities
 - Helped define what modern gay bathhouses would become
 

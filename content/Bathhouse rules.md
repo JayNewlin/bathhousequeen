@@ -4,14 +4,14 @@ description: "Bathhouse rules explained: consent, privacy, phones, hygiene, smok
 ---
 ## The short version (tl;dr)
 
-- Respect consent at all times
+- Respect [[Glossary#Consen|consent]] at all times
 - Don’t touch without permission
-- “No” always means no
+- No **always** means No
 - Follow the bathhouse’s rules
 - Be aware of your surroundings
 - When in doubt, slow down and observe
 
-Yes, this is a space designed for sexual activity between consenting adults -- but it’s not a free-for-all. There are clear expectations, and following them will make your experience (and everyone else’s) much better.
+Yes, this is a space designed for sexual activity between consenting adults -- but it’s not a free-for-all. There are clear [[Bathhouse etiquette|expectations]], and following them will make your experience (and everyone else’s) much better.
 
 These rules aren’t about limiting your experience. They’re what make the space work -- and safer -- for everyone.
 
@@ -23,18 +23,16 @@ I can't say this clearly enough: You must always have the consent of each person
 **Everything else on this page flows from this rule.**
 
 Consent in a gay bathhouse boils down to:
-- "No" always means no. Full stop. If someone says "no," accept it gracefully and move along to have fun with someone else.
-- Silence ≠ consent. People don't talk a lot in the bathhouse, but you can ask for -- and receive -- consent with a quick whisper or clear, non-verbal cues (like a nod, moving closer to each other to make physical contact more possible).
+- No **always** means No. Full stop. If someone says No, accept it gracefully and move along to have fun with someone else.
+- Silence ≠ consent. People don't talk a lot in the bathhouse, but you can ask for -- and receive -- consent with a quick whisper or clear, non-verbal cues (like a nod or moving closer to each other to make physical contact more possible).
 - Touching requires permission -- either explicit or clearly invited. While touch is a means of communication in very dark spaces, be respectful and start with a gentle touch (on the arm, leg, or chest).
 - Anyone can change their mind at any time. You might be going "hot and heavy," but if your comfort level changes, you can stop whatever is happening and move along. If someone stops while you're having fun, respect that they have changed their mind, and move on to your next encounter.
-- Respect boundaries immediately and without drama. If someone makes it clear that they aren't into you or aren't inviting you to join them for fun, politely acknowledge the boundary that they have established and move on. This includes someone moving to put some distance between you and them (e.g. in a video room); you can remain in the same general area, but please don't try to get too close again.
-
-If this will be your first visit to a gay bathhouse, visit my [[Field guide to your first visit]].
+- Respect boundaries immediately and without drama. If someone makes it clear that they aren't into you or aren't inviting you to join them for fun, politely acknowledge the boundary that they have established and move on. This includes someone moving to put some distance between you and them (e.g. in a video room, sauna, or steam room); you can remain in the same general area, but please don't try to get too close again.
 
 ---
 ## How to behave (and not stand out)
 
-There is a "code of conduct" and a "social contract" involved in cruising at a gay bathhouse, and it boils down to, "Treat others with the respect and dignity you would like them to show you." It really is that simple.
+There is a "code of conduct" and a "social contract" involved in [[Cruising in a bathhouse|cruising at a gay bathhouse]], and it boils down to, "Treat others with the respect and dignity you would like them to show you." It really is that simple.
 
 A few quick examples:
 - Don't stare aggressively or follow people around. (Some bathhouses will actually kick out patrons who are being too aggressive. No, they won't give a refund.)
@@ -53,7 +51,7 @@ Gay bathhouses have a wide variety of spaces and amenities, and each has its own
 
 - Some folks go in specifically to relax or to warm up. No, really. It's smart to observe their body language before you try to hook up with someone who is lying down or sitting with their eyes closed. Believe me, you'll know quickly if they're interested in more than just the steam, heat, and water.
 - About that lying down: If it's busy, remember it isn't, "I was here first, and I'll do what I want." If you're lying down and the room starts to get crowded, it's polite to sit up to make more room for others.
-- Glass (your bottle of poppers as an example) can be dangerous, so be very careful. Some clubs actually prohibit them in the steam room, sauna, or hot tub.
+- Glass (your bottle of [[Glossary#Poppers|poppers]] as an example) can be dangerous, so be very careful. Some clubs actually prohibit them in the steam room, sauna, or hot tub.
 - The poppers themselves also can be really unwise in hot spaces. Use with caution. Also remember those around you: If you do use them in a small space, do it sparingly and cap the bottle between huffs.
 - Since steam can make it difficult to see, touch is used more often to express interest than in other places. You should move someone's hand away if you're not interested, and respect if someone moves your hand away.
 
@@ -78,7 +76,7 @@ Gay bathhouses have a wide variety of spaces and amenities, and each has its own
 
 ### Private rooms
 
-- Someone has rented the room, so it's their space while they are there. Be respectful of that fact. Make sure that there's a clear invitation to come in, and leave if they ask you to.
+- Someone has rented the [[Glossary#Room|room]], so it's their space while they are there. Be respectful of that fact. Make sure that there's a clear invitation to come in, and leave if they ask you to.
 - Open doors are a sign of invitation, but unless the person inside is face down, it's smart to ask before you come in and definitely before you start any physical interaction.
 - If it's your room, you're allowed to ask someone to leave when you want them to. It's quite all right to change your mind.
 
@@ -93,34 +91,42 @@ Every bathhouse sets their own rules. You'll usually find them posted near the e
 - No photos or video
 - Whether or where smoking and vaping are allowed
 - Keys and locks belong to the club, and they may charge a fee if you lose them
-- Towel procedures like only having one at a time
-- Safer sex expectations, which can vary by location or be based on local laws
+- [[Glossary#Towel|Towel]] procedures like having only one at a time
+- [[Glossary#Safer sex|Safer sex]] expectations, which can vary by location or be based on local laws
 - Staff instructions must be followed
+
+For more of Auntie’s insights into other common rules, check out [[Bathhouse rules]].
 
 ---
 ## What happens if you break the rules?
 
-Actions have their consequences -- and bathhouses are no exception. If you've broken a minor rule (perhaps like fooling around in a toilet stall), you may be warned, and you shouldn't get caught doing it again. Breaking other rules could result in being kicked out -- and no, they won't give you a refund. If you break a major rule (usually related to non-consensual behavior, aggression, or crime), you may be kicked out permanently. (See my section on [[Bathhouse basics#Banning|Banning]].)
+Actions have their consequences -- and bathhouses are no exception. If you've broken a minor rule (perhaps like fooling around in a toilet stall), you may be warned, and you shouldn't get caught doing it again. Breaking other rules could result in being kicked out -- and no, they won't give you a refund. If you break a major rule (usually related to non-consensual behavior, aggression, or crime), you may be [[Glossary#Banning|banned]] from the club.
 
 ---
-## Final thought: You don’t have to get everything right
+## Auntie says…
 
-No one expects you to know everything your first time. But if you understand consent, pay attention to the room, and treat people with respect, you'll do just fine. If you do break a rule, heed the warning, and don't do it again.
+>You don’t have to get everything right
+>
+>No one expects you to know everything your first time. But if you understand consent, pay attention to the room, and treat people with respect, you'll do just fine. If you do break a rule, heed the warning, and don't do it again.
+
+If you’re planning to go to a bathhouse for the first time, check out my [[Field guide to your first visit]].
 
 ---
 ## Common questions about bathhouse rules
 
-**Can you touch people in a bathhouse?**
+### Can you touch people in a bathhouse?
 Only with permission -- either clearly invited or explicitly given.
+#### Auntie says…
+>Even in a bathhouse, clear and unambiguous consent is a must!
 
-**What happens if someone says no?**
+### What happens if someone says no?
 You stop immediately and move on. No exceptions.
 
-**Can you get kicked out of a bathhouse?**
-Yes. Breaking rules -- especially around consent or aggression -- can result in removal or a permanent ban.
+### Can you get kicked out of a bathhouse?
+Yes. Breaking rules -- especially around consent or aggression -- can result in removal or a permanent [[Glossary#Banning|ban]].
 
-**Are phones allowed in bathhouses?**
+### Are phones allowed in bathhouses?
 Usually not, or only in limited areas. Always follow the club’s rules.
 
 ---
-If you've read this far, you might want to check out how we used to think, talk, and joke about the baths back in the day. Jump into Auntie's Wayback Machine at [[Want to read some silly rules]]
+If you've read this far, you might want to check out how we used to think, talk, and joke about the baths back in the day. Jump into Auntie's Wayback Machine at [[Disco-era rules of the baths]]
