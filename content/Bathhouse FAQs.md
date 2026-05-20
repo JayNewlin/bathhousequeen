@@ -1,5 +1,5 @@
 ---
-title: Bathhouse FAQs
+title: Questions about Bathhouses (FAQs)
 description: "Gay bathhouse FAQs for first-timers: what to wear, what to bring, who goes, privacy, safety, hookups, nerves, phones, and what really happens inside."
 ---
 ## Background
