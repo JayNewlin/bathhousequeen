@@ -26,6 +26,7 @@ If you’re unsure how consent works in a bathhouse, see the  [[Bathhouse rules#
 ---
 ## Clean up after yourself
 
+It’s always smart to offer [[Glossary#Maid service|maid service]]
 - If you've made a bit of a mess, clean it up.
 - If you've left some DNA evidence on your recent hook-up, use *your* towel to clean *them* up. Then go get a clean towel before you take your shower or rinse off.
 - When you leave:

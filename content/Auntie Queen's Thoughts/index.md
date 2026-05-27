@@ -1,5 +1,5 @@
 ---
-title: This Queen’s Thoughts
+title: Auntie Queen’s Thoughts
 description: Observations, reflections, and the occasional strong opinion about bathhouses, bathhouse culture, cruising culture, and how things are changing.
 ---
 Not everything about bathhouses fits into a neat “how-to.”

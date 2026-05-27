@@ -185,7 +185,7 @@ And to be very clear: Auntie feels that **everyone** is welcome in the list and 
 - **T**rans
 - **Q**ueer or **Q**uestioning
 - **I**ntersex
-- **A**sexual
+- **A**sexual or **A**romantic
 - **+** for those who don't fit in any of the other categories but identify as part of the community
 
 In some contexts (especially in Canada), you may also see **2S** included somewhere in the list. That stands for **Two-Spirit** people (a Native American term).
@@ -199,6 +199,25 @@ A couple things to keep in mind:
 - Unless the bathhouse requires you to bring your own lock (very, very rare these days), the staff probably has a spare key to the lock. Your items are safe there, but you're not the only person who can access your locker.
 - It's a gym locker, not a closet. Don't bring a lot of extra clothes or other items with you. If you need some suggestions on what to bring, visit [[How to pack for a visit]].
 - There's almost certainly no privacy in the locker room. If you don't want to strip completely naked when you get to the club, wear your "[[Bathhouse basics#What do you wear at a bathhouse|bathhouse outfit]]" (jock, underwear, etc.) under your street clothes -- or wrap your [[#Towel|towel]] around your waist before you remove your undershorts.
+
+---
+## Maid service
+
+This one was new to Auntie, too, because it’s a somewhat older term, and it tended to be a bit more regional than widespread.
+
+In bathhouse culture, **maid service** was sometimes used jokingly or euphemistically to refer to “cleaning up” after sexual activity — whether literally (fresh towels and cleaning the bathhouse spaces) or with a much more mischievous meaning intended.
+
+Depending on the club, city, era, or person using the phrase, “maid service” might refer to:
+
+- Actual bathhouse staff doing their regular duties
+- Someone eager to help “clean up” (big theatrical wink wink)
+- Post-play cleanup humor or fetish play
+- Campy innuendo that was never meant to be fully explained out loud
+
+Like many older bathhouse expressions, the phrase often relied on everybody understanding the joke without spelling it out directly. And now Auntie has gone and done just that — explained that which everyone was supposed to “just understand.”
+### Auntie says…
+
+If somebody in a bathhouse says “maid service,” pay close attention to whether they’re holding fresh towels, grinning mischievously, or both.
 
 ---
 ## PnP

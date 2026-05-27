@@ -5,7 +5,7 @@ tags:
 ---
 ## A guide for first-time visitors to gay bathhouses
 
-This site is a **beginner-friendly guide to [[Glossary#Bathhouse|gay bathhouses]]**, covering what happens, what to expect, and how to navigate your [[Field guide to your first visit|first visit]] with confidence.
+A lot of folks walk into a [[Glossary#Bathhouse|gay bathhouse]] for the first time wondering if everyone else there had a handbook to explain what happens, what to expect, and how to navigate a [[Field guide to your first visit|first visit]] to the [[Glossary#Baths|baths]]. Auntie created this site to be that handbook. You’re welcome!
 
 ---
 ## Welcome
@@ -20,7 +20,7 @@ The second question is often unspoken:
 
 Gay bathhouses have been part of [[Bathhouse Culture/index|queer culture]] for generations, but straightforward information about how they work can be surprisingly hard to find.
 
-This site exists to change that by offering clear, experience-based guidance you can actually use. **Bathhouse Queen** is a practical, honest, and respectful guide to:
+**Bathhouse Queen** is a practical, honest, and respectful guide — based on lots of [[Who is the Bathhouse Queen|personal experience]] — to:
 
 - What to expect  
 - How to navigate the space  
@@ -43,7 +43,7 @@ If you’re new, begin with these:
 - [[Bathhouse rules]]: Because yeah, there really are rules
 - [[How to pack for a visit]]: Practical tips so you're prepared and comfortable
 
-I created this site because no one should have to guess their way through a visit to the [[Glossary#Baths|baths]]. This guide is written from lived experience within [[Bathhouse Culture/index|bathhouse culture]], not speculation.
+Auntie created this site because no one should have to guess their way through a visit to the [[Glossary#Baths|baths]]. This guide is written from lived experience within [[Bathhouse Culture/index|bathhouse culture]], not speculation.
 
 ---
 ## Frequently Asked Questions (FAQ)
@@ -88,7 +88,6 @@ This site is very new, and my goal is for it to be a collection of guides and re
 	- Pieces like [[Sniffies and the Baths]] and [[CumUnion and the Baths]] are my way of thinking out loud about what we learn about and from bathhouse culture.
 
 I’m building this guide one lived experience, one question, and one conversation at a time. If you want to ask a question or contribute a thought, feel free to reach out at queen@bathhousequeen.com.
-
 
 ---
 ## A Note About Content

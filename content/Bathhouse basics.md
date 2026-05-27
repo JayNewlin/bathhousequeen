@@ -6,7 +6,7 @@ description: What is a gay bathhouse? Learn what to expect on your first visit, 
 
 A gay bathhouse is a private, adult space where gay and bi men (and in many places, other [[Glossary#Queer|queer]] people) gather to socialize, relax, and engage in consensual sexual activity, often including nudity.
 
-Most modern bathhouses include amenities like saunas, steam rooms, private rooms, and shared social areas designed for connection and exploration. If you're curious about how bathhouses evolved into what they are today, you can explore [[The History of Bathhouses]].
+Most modern bathhouses include amenities like saunas, steam rooms, private [[Glossary#Room|rooms]], and shared social areas designed for connection and exploration. If you're curious about how bathhouses evolved into what they are today, you can explore [[The History of Bathhouses]].
 
 ---
 ## Who this guide is for
@@ -34,9 +34,9 @@ Modern, gay bathhouses (sometimes called **gay saunas**) are a mix of four thing
 **Sex club:** You'll find a variety of play areas (like video lounges, [[Glossary#Gloryhole|gloryhole]] rooms, dark rooms) and equipment ([[Glossary#sling|slings]], benches, tables) where folks engage in public play.
 
 The layout of each club is different. For example:
-* [Club Philly](https://www.clubphilly.com/) has four floors and a basement
-* [Crew Club](https://crewclub.net/) in DC has two floors, but the "action area" is only on the upper level
-* [Entourage](https://vegasgayspa.com/) in Las Vegas is spread throughout a space like a large warehouse -- and it includes an indoor pool
+* [[Club Philly]] has four floors and a basement
+* [[Crew Club DC|Crew Club]] in DC has two floors, but the "action area" is only on the upper level
+* [[Entourage Las Vegas]] is spread throughout a space like a large warehouse -- and it includes an indoor pool
 
 ---
 ## What can I expect when I go in?

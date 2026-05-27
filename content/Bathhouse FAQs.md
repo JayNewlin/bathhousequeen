@@ -102,7 +102,10 @@ Bathhouses often publish their own calendars, too -- [[Glossary#Theme nights|the
 
 Sexual activity happens in a variety of spaces in the bathhouse (showers, public play areas, maybe the steam room or sauna). Sex between men usually ends with some liquid results 💦 That plus sweat means that some surfaces aren't always exactly the cleanest:
 - Try to remember to wipe up if you leave evidence of your fun somewhere
-- The bathhouse staff clean public spaces regularly (sometimes after especially busy shifts, sometimes only once a day)
+- The [[Glossary#Maid service|bathhouse staff clean]]:
+	- Rooms after each patron checks out
+	- Wet areas ([[Glossary#Gang showers|showers]], steam rooms, etc.) usually once per shift
+	- Other public spaces regularly (sometimes after especially busy shifts, sometimes only once a day)
 - Almost all bathhouses do a deep cleaning in the morning (when the [[Glossary#Club|club]] is usually the quietest)
 
 If you're not certain about the cleanliness of the floors, you'll want to wear shower shoes, flip flops, sandals, or shoes. Some people (this queen included) go barefoot, but that's up to each person.

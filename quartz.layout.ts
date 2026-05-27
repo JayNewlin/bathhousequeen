@@ -15,16 +15,22 @@ const sortFn: Options["sortFn"] = (a, b) => {
     "Cruising-in-a-bathhouse",
     "Who-is-the-Bathhouse-Queen",
 
+    "Auntie Queen's Thoughts",
+    "Auntie-Queen's-Thoughts/Sniffies-and-the-Baths",
+    "Auntie-Queen's-Thoughts/CumUnion-and-the-Baths",
+    "Auntie-Queen's-Thoughts/The-Bathhouse-and-STIs",
+
     "Bathhouse Culture",
     "Bathhouse-Culture/Glossary",
     "Bathhouse-Culture/Kinks,-Fetishes,-and-Subcultures",
     "Bathhouse-Culture/The-History-of-Bathhouses",
+    "Bathhouse-Culture/Steamworks-and-Bathhouse-Culture",
     "Bathhouse-Culture/Disco-era-rules-of-the-baths",
 
-    "This Queen's Thoughts",
-    "This-Queen's-Thoughts/Sniffies-and-the-Baths",
-    "This-Queen's-Thoughts/CumUnion-and-the-Baths",
-    "This-Queen's-Thoughts/The-Bathhouse-and-STIs",
+    "Bathhouse Reviews",
+    "Bathhouse-Reviews/Club-Philly",
+    "Bathhouse-Reviews/Crew-Club-DC",
+    "Bathhouse-Reviews/Entourage-Las-Vegas",
 
   ]
 
@@ -47,7 +53,7 @@ const sortFn: Options["sortFn"] = (a, b) => {
   })
 }
 
-// Hide any page tagged with `explorerexclude` from the left nav
+// Hide any page tagged with explorerexclude from the left nav
 const explorerFilter = (node: any) => {
   return node.data?.tags?.includes("explorerexclude") !== true
 }
@@ -87,6 +93,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer({
       filterFn: explorerFilter,
       sortFn,
+      folderDefaultState: "open",
+      useSavedState: false,
     }),
   ],
   right: [
@@ -115,6 +123,8 @@ export const defaultListPageLayout: PageLayout = {
     Component.Explorer({
       filterFn: explorerFilter,
       sortFn,
+      folderDefaultState: "open",
+      useSavedState: false,
     }),
   ],
   right: [],
