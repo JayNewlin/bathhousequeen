@@ -19,3 +19,5 @@ Bathhouse Culture includes:
 **Bathhouse Queen** came into existence to observe and document that culture -- particularly in a way that is clear and accessible for [[Field guide to your first visit|first-time visitors]] to the bathhouse.
 
 Join me on this journey!
+
+---

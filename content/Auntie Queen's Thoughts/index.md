@@ -16,3 +16,5 @@ Some of these are observations.
 Some are opinions.  
 Most are a bit of both.
 With plenty of my usual wit and tongue-in-cheek humor.
+
+---

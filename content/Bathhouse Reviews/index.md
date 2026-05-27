@@ -18,3 +18,5 @@ If you’ve landed on this page but haven’t checked other parts of my site, yo
 - Or if you’re a seasoned bathhouse aficionado like Auntie, check out my [[Bathhouse Culture/index|Bathhouse Culture]] folder
 
 Whether this is your first or ninetieth visit to a bathhouse, welcome! Have fun!
+
+---
