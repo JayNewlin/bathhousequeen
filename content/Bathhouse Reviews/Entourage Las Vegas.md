@@ -1,5 +1,5 @@
 ---
-title: Entourage Las Vegas
+title: Entourage Las Vegas Review
 description: "Auntie’s review of Entourage Las Vegas: A practical guide to the rooms, pool, crowd, prices, cruising areas, and atmosphere at this longtime Vegas bathhouse."
 ---
 ## The traditional bathhouse in Las Vegas

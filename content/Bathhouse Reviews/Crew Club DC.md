@@ -1,5 +1,5 @@
 ---
-title: Crew Club DC
+title: Crew Club DC Review
 description: "Auntie’s review of Crew Club DC in Washington’s Logan Circle neighborhood: Layout, prices, atmosphere, amenities, and what to expect."
 ---
 ## A traditional bathhouse in Logan Circle
