@@ -65,6 +65,18 @@ The typical process looks like this:
 6. Go in (usually an inner door), get undressed, and cruise around ready to have fun
 7. Leave your phone or smart glasses in your room or locker. Most clubs have a strict rule against videos and pictures, and many have [[Bathhouse rules|rules]] about not using your phone while you're there.
 
+### Should I get a room or a locker?
+
+This is one of the most common questions that new visitors ask. And the answer is a bit nuanced:
+
+- For a first visit, Auntie recommends a [[Glossary#Room|room]]. Not because they're luxurious (they aren't). Most basic rooms are about 6' x 10' with a small bed and maybe a shelf. Renting a room gives you a space to:
+	- Go back to relax if you've been having a lot of fun and just need a breather
+	- Retreat to if the whole experience feels a bit overwhelming (totally normal reaction)
+	- Bring a new "friend" for private play rather than playing in open areas
+- If cost matters, a [[Glossary#Locker|locker]] is absolutely fine:
+	- Most [[Glossary#Club|clubs]] have quieter spaces if you need to relax or step away from the action for a bit
+	- Lots of "regulars" rent a locker all the time (Auntie has been known to rent a locker quite frequently)
+	- You can always try a room on your next visit
 ### What happens in a bathhouse?
 
 Most people spend their time [[Cruising in a bathhouse|cruising]] and connecting with others based on mutual attraction:
