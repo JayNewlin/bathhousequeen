@@ -18,7 +18,7 @@ There are also clubs that are hosting trans or "all-gender" nights regularly. My
 ---
 ## Will I be welcome?
 
-Auntie can't guarantee that yet. It's probably wise to call the club (no matter what their website says or doesn't say) and ask them about being a trans person in their space. Read the reviews and comments on sites like Squirt or [[Sniffies and the Baths|Sniffies]] -- even ask a question to see if a regular will respond to you. If you're satisfied that you can go as your whole self and feel comfortable -- do it, and have fun!
+Auntie can't guarantee that yet. It's probably wise to call the club (no matter what their website says or doesn't say) and ask them about being a trans person in their space. Read the reviews and comments on sites like Squirt or [[Sniffies and the Baths|Sniffies]] -- even ask a question to see if a [[Glossary#Regular|regular]] will respond to you. If you're satisfied that you can go as your whole self and feel comfortable -- do it, and have fun!
 
 When you do, everything in [[Cruising in a bathhouse]] still applies: eye contact, body language, and mutual interest and [[Glossary#Consent|consent]]. Some people will be excited to engage. Others may not be. Both are part of the experience.
 ### Auntie says…

@@ -31,7 +31,7 @@ Modern, gay bathhouses (sometimes called **gay saunas**) are a mix of four thing
 
 **Roman bathhouse:** Bathhouses have small changing/lounging rooms (think like 6' x 10') for rent, and many have a pool (indoor or outdoor -- although I don't recommend that you use the outdoor pool at Club Columbus in the middle of winter!).
 
-**Sex club:** You'll find a variety of play areas (like video lounges, [[Glossary#Gloryhole|gloryhole]] rooms, dark rooms) and equipment ([[Glossary#sling|slings]], benches, tables) where folks engage in public play.
+**Sex club:** You'll find a variety of [[Glossary#Play|play]] areas (like video lounges, [[Glossary#Gloryhole|gloryhole]] rooms, dark rooms) and equipment ([[Glossary#sling|slings]], benches, tables) where folks engage in public sexual activity.
 
 The layout of each club is different. For example:
 * [[Club Philly]] has four floors and a basement
@@ -75,7 +75,7 @@ This is one of the most common questions that new visitors ask. And the answer i
 	- Bring a new "friend" for private play rather than playing in open areas
 - If cost matters, a [[Glossary#Locker|locker]] is absolutely fine:
 	- Most [[Glossary#Club|clubs]] have quieter spaces if you need to relax or step away from the action for a bit
-	- Lots of "regulars" rent a locker all the time (Auntie has been known to rent a locker quite frequently)
+	- Lots of "[[Glossary#Regular|regulars]]" rent a locker all the time (Auntie has been known to rent a locker quite frequently)
 	- You can always try a room on your next visit
 ### What happens in a bathhouse?
 
@@ -87,7 +87,11 @@ Most people spend their time [[Cruising in a bathhouse|cruising]] and connecting
 
 ### What should you expect your first time at a bathhouse?
 
-You can expect a mix of socializing, relaxation, and sexual energy, with most interactions happening nonverbally through eye contact and body language. It’s normal to feel unsure at first, but most people settle in quickly. Learn more in my [[Field guide to your first visit]].
+You can expect a mix of socializing, relaxation, and sexual energy, with most interactions happening nonverbally through eye contact and body language. It’s normal to feel unsure at first, but most people settle in quickly. 
+
+Soon after you arrive, walk through the entire bathhouse, seeing what -- and who -- is where. As you enter each public space, [[Glossary#Read the room|read the room]] to to get a feel for the vibe and what’s happening there. Make some mental notes of the places -- and the people -- you want to come back to after your first tour.
+
+For more guidance, check out my [[Field guide to your first visit]].
 
 ### An important note
 
@@ -180,10 +184,10 @@ Most bathhouses prohibit phone use inside to protect privacy. It’s best to lea
 ### Are gay bathhouses safe?
 Bathhouses are generally safe environments, especially those that are well-maintained and follow local regulations. Like any social space, awareness and respect go a long way. They usually post their rules on their website and/or very close to their front door. Be sure to check out the rules before you enter to make sure that you'll be comfortable.
 
-### Can you go alone to a bathhouse?
+### Can I go alone to a bathhouse?
 Absolutely. Many people do, especially for their first visit.
 
-### Do you have to have sex at a bathhouse?
+### Do I have to have sex at a bathhouse?
 No. You can walk through, relax, or just observe what everyone else is doing.
 
 ### What should I bring to a bathhouse?

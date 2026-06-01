@@ -22,7 +22,7 @@ The Steamworks chain prides itself on a particular aesthetic, promising that eac
 
 - Steel, concrete, and aluminum as a design system
 - Black as a primary color
-- “Caution-tape yellow” used not as warning but as an invitation to play
+- “Caution-tape yellow” used not as warning but as an invitation to [[Glossary#Play|play]]
 - A belief that bathhouse towels can be luxurious
 - [[Glossary#Locker|Lockers]] that actually are large enough for your clothes, shoes, and bag (and some that are slightly larger than a few Manhattan sublets)
 - The belief that cleanliness actually is next to godliness

@@ -55,7 +55,7 @@ Gay bathhouses have a wide variety of spaces and amenities, and each has its own
 - The poppers themselves also can be really unwise in hot spaces. Use with caution. Also remember those around you: If you do use them in a small space, do it sparingly and cap the bottle between huffs.
 - Since steam can make it difficult to see, touch is used more often to express interest than in other places. You should move someone's hand away if you're not interested, and respect if someone moves your hand away.
 
-### Dark rooms and play spaces
+### Dark rooms and [[Glossary#Play|play]] spaces
 
 - Nonverbal communication is the norm, and touch will be more frequent. Remember: Gently but firmly move a hand away when you're not interested, and respect anyone who moves your hand away.
 - Even if it's a place dedicated to lots of sexual activity, consent is still a must. In some spaces, consent may be more assumed (such as gloryhole rooms), but it still matters. In other dark areas, you can whisper or speak lowly to confirm interest, intent, and consent.
@@ -81,6 +81,9 @@ Gay bathhouses have a wide variety of spaces and amenities, and each has its own
 - If it's your room, you're allowed to ask someone to leave when you want them to. It's quite all right to change your mind.
 
 For even more insight, visit [[Cruising in a bathhouse]].
+### Auntie says...
+
+>Every time that you visit a space in the bathhouse, be sure to [[Glossary#Read the room|read the room]]. Even if you were just there a few minutes ago, the vibe of a space can change _quickly._ What seemed like a sleepy corner 15 minutes ago could have become the busiest spot in the club.
 
 ---
 ## House rules you’ll encounter

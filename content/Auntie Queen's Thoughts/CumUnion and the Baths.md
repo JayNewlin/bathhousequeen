@@ -116,7 +116,7 @@ Thinking of making your first visit to a gay bathhouse? Start with my [[Field gu
 ## Are there any downsides?
 
 Probably:
-- Some regulars prefer quieter nights
+- Some [[Glossary#Regular|regulars]] prefer quieter nights
 - Some people still prefer the slower rhythm of [[Cruising in a bathhouse|cruising in a bathhouse]]:
 	- Slow walks through the space
 	- Long eye contact

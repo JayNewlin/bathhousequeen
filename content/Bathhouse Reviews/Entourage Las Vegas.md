@@ -10,7 +10,7 @@ Auntie travels to ~~Sin City~~ Las Vegas once each year for work-related confere
 ## Quick facts (tl;dr)
 
 - **Type:** Large gay bathhouse near The Strip
-- **Atmosphere:** Mixed crowd, neighborhood regulars, visitors to Las Vegas
+- **Atmosphere:** Mixed crowd, neighborhood [[Glossary#Regular|regulars]], visitors to Las Vegas
 - **Best known for:** Long local history; jacuzzi; indoor swimming pool
 - **Accessibility:** Fairly accessible
 	- Most cruising spaces are on one level
@@ -56,7 +56,7 @@ Entourage occupies a large space like a warehouse or converted “box store.” 
 - Sauna
 - Steam room
 
-#### Play areas
+#### [[Glossary#Play|Play]] areas
 - Large room just beyond the pool with benches of various sizes and porn TVs
 - A couple dark rooms among the rentable rooms, including gloryholes between
 - The “Cook County Jail,” featuring a [[Glossary#Slurp ramp|slurp ramp]] and other spots for public play

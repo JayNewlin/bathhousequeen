@@ -63,6 +63,11 @@ While the name -- and description -- can sound alarming to newcomers, most peopl
 >CBT is probably not the ideal place to begin your personal “experimental physics” career without doing a bit of research first -- and a bathhouse might provide a willing partner or two to explore with.
 
 ---
+## Chemsex
+
+**Chemsex** is a term for using various types of drugs during sexual activity. The queer community tends to use the term **[[#PnP]]** more frequently, so Auntie's thoughts can be found under that term.
+
+---
 ## Consent
 
 **Consent** means asking for and receiving a clear Yes before and during each sexual encounter -- in a bathhouse or anywhere. There are some cases where the word Yes is less feasible, but we still need to ensure that our partner(s) is/are comfortable with starting or continuing/changing up each activity. 
@@ -217,12 +222,17 @@ Depending on the club, city, era, or person using the phrase, “maid service”
 Like many older bathhouse expressions, the phrase often relied on everybody understanding the joke without spelling it out directly. And now Auntie has gone and done just that — explained that which everyone was supposed to “just understand.”
 ### Auntie says…
 
-If somebody in a bathhouse says “maid service,” pay close attention to whether they’re holding fresh towels, grinning mischievously, or both.
+>If somebody in a bathhouse says “maid service,” pay close attention to whether they’re holding fresh towels, grinning mischievously, or both.
+
+---
+## Play
+
+Auntie uses the word **play** throughout the site as a substitute for "sexual activity of all sorts." I'm not alone: You'll see and hear this word often throughout bathhouse and cruising culture meaning the exact same thing. Makes sense: "play" is way shorter.
 
 ---
 ## PnP
 
-**PnP** is an abbreviation for “party-and-play,” and you’ll often see it on cruising apps, hookup sites, and online profiles. It usually indicates someone who is into drug use before or during sexual activity. Auntie lives by the adage, “to each their own” and reminds you:
+**PnP** is an abbreviation for “party-and-play,” and you’ll often see it on cruising apps, hookup sites, and online profiles. It usually indicates someone who is into drug use before or during sexual activity. Some others will use the term **chemsex.** Auntie lives by the adage “to each their own” and reminds you:
 - If you’re into PnP, be sure that you can still give and receive clear, informed, enthusiastic consent before engaging in sexual activity.
 - If you’re not into it, it’s quite okay for you to decline politely and move along to Mr. Next. 
 
@@ -268,6 +278,34 @@ Today you'll hear many people in the community using it as a substitute for the 
 ### Auntie says...
 
 >If you're here, and you're **queer** (no matter how you define it): Welcome!
+
+---
+## Read the room
+
+Some people will think, "Really, Auntie, who doesn't know how to **read the room**?" But I'm not sure **everyone** knows every word and phrase and exactly how it's used in [[Bathhouse Culture/index|bathhouse culture]].
+
+Reading the room involves paying attention to your surroundings -- not just the decor, furniture, and wallpaper, but also the people in the space, what they're doing, how they're behaving, and the overall energy of the space. Have you ever gone to a party where the decorations, food, cocktails, and music are great -- but it's obvious that no one is having a good time? You read that room.
+
+In a bathhouse, it can be important to read a room (or any public space) quickly as you enter:
+- Who is around?
+- What are they doing?
+- Is the room giving off "let's all have fun together" energy?
+- Or is this a space that seems to be dedicated to relaxing?
+### Auntie says...
+
+>Once you have a sense of the vibe of the space, then you'll be able to figure out whether you want to stay there and how to engage.
+
+---
+## Regular
+
+Someone who visits the same bathhouse often enough may eventually  consider themselves a **regular.**  Auntie is a regular at [[Club Philly]] and [[Crew Club DC]]. There aren't hard-and-fast rules about what constitutes being a "regular:" Each of us chooses to label ourselves as such.
+
+What is important to know is that most bathhouses have memberships. Almost all charge a "day pass" fee if you're only there once in a while. If you'll be going more frequently, it's worth considering a membership because they're usually less expensive than paying for the day pass for every visit.
+
+Back in the day, memberships were indicated by a card -- a lot like a physical library card. Auntie has a friend who works at Club Philly, and they found one of my old cards when they were cleaning behind the check-in desk. Auntie also still has a physical membership card for [[Steamworks and Bathhouse Culture|Steamworks.]]
+
+### Auntie says...
+>Having multiple bathhouse memberships is neither good nor bad for your reputation -- but it might mean that you are famous, infamous, or notorious in those cities.
 
 ---
 ## Room

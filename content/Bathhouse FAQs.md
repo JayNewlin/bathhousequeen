@@ -17,7 +17,7 @@ The possibly surprising answer: **No.** While most bathhouses primarily serve ga
 Bathhouses usually provide a [[Glossary#Towel|towel]], so most people wear that wrapped around their waist. Many guys wear a jock -- by itself or under their towel. Some people walk around naked all the time -- Auntie is one of them. What you wear (or don't) is entirely up to you. Be comfortable. (Just know that most bathhouses have a strict "No street clothes" rule.)
 
 ---
-## Can you go alone to a bathhouse?
+## Can I go alone to a bathhouse?
 
 **Absolutely. Many people go to a bathhouse alone -- especially for their first visit.** In fact, solo visits are probably more common than first-timers realize.
 
@@ -34,7 +34,7 @@ This is one of the most common questions that new visitors ask. And the answer i
 - For a first visit, Auntie recommends a [[Glossary#Room|room]]. Not because they're luxurious (they aren't). Most basic rooms are about 6' x 10' with a small bed and maybe a shelf. Renting a room gives you a space to:
 	- Go back to relax if you've been having a lot of fun and just need a breather
 	- Retreat to if the whole experience feels a bit overwhelming (totally normal reaction)
-	- Bring a new "friend" for private play rather than playing in open areas
+	- Bring a new "friend" for private [[Glossary#Play|play]] rather than playing in open areas
 - If cost matters, a [[Glossary#Locker|locker]] is absolutely fine:
 	- Most [[Glossary#Club|clubs]] have quieter spaces if you need to relax or step away from the action for a bit
 	- Lots of "regulars" rent a locker all the time (Auntie has been known to rent a locker quite frequently)
@@ -56,7 +56,7 @@ You can expect a mix of socializing, relaxation, and sexual energy, with most in
 Most people spend their time [[Glossary#Cruising|cruising]] -- making eye contact, signaling interest, and connecting with others based on mutual attraction. You can find some more details in my notes on [[Bathhouse basics#What happens in a gay bathhouse?|What happens in a gay bathhouse?]]
 
 ---
-## Do you have to have sex at a bathhouse?
+## Do I have to have sex at a bathhouse?
 
 No. You can walk through, relax, or just observe what everyone else is doing.
 

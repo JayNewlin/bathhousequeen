@@ -4,7 +4,7 @@ description: "Gay bathhouse cruising explained: eye contact, body language, touc
 ---
 ## Cruising Culture
 
-Queer folks have been cruising each other for generations. We've been doing it for millennia, but the world didn't have a term for it. It was one of the primary ways that we found each other (and some folks still do) in oppressive societies. Auntie Bathhouse Queen believes that cruising in western, less- or not-oppressive societies is almost an art form. 
+Queer folks have been [[Glossary#Cruising|cruising]] each other for generations. We've been doing it for millennia, but the world didn't have a term for it. It was one of the primary ways that we found each other (and some folks still do) in oppressive societies. Auntie Bathhouse Queen believes that cruising in western, less- or not-oppressive societies is almost an art form. 
 
 Even with that, cruising in a bathhouse isn't just a sub-genre of the art. It is its own thing entirely. If this all feels a little mysterious or even intimidating, that’s completely normal -- cruising in a bathhouse has its own rhythm, and it takes a few minutes to get used to. I'm here to help you feel prepared for it.
 
@@ -15,7 +15,7 @@ Even with that, cruising in a bathhouse isn't just a sub-genre of the art. It is
 
 Yes, we all know The Look. We've seen it across the bar or dance floor. We've flashed it at someone on the sidewalk. Outside the [[Glossary#Baths|baths]] (or sex clubs, orgies, and circle jerks), we switch to verbal communication quickly to determine interest, to give and obtain [[Glossary#Consent|consent]], and to figure out what we're going to do together.
 
-Most of that verbal communication is not used in the bathhouse -- especially in the dark play spaces. In the bathhouse, we use a lot of **body language** and **touch** to communicate interest and to direct the action.
+Most of that verbal communication is not used in the bathhouse -- especially in the dark [[Glossary#Play|play]] spaces. In the bathhouse, we use a lot of **body language** and **touch** to communicate interest and to direct the action.
 ### First and foremost: give and receive consent
 
 Even in a place like a bathhouse, whose main purpose is queer people having sex together, **clear, unambiguous consent is still required.**

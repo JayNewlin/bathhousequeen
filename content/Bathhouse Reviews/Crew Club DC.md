@@ -4,7 +4,7 @@ description: "Auntie’s review of Crew Club DC in Washington’s Logan Circle n
 ---
 ## A traditional bathhouse in Logan Circle
 
-Whenever I’m in Washington, DC, or its environs, Auntie tries to make at least one visit to [Crew Club DC](https://crewclub.net/) — especially on a Tuesday night, one of the busiest nights of the week. I’m in the area about four times per year, so I consider myself pretty much a “regular.” It also happens to be managed by the same person who owns my home club, Club Philly. It’s like my “[[Glossary#Club|club]] away from home.”
+Whenever I’m in Washington, DC, or its environs, Auntie tries to make at least one visit to [Crew Club DC](https://crewclub.net/) — especially on a Tuesday night, one of the busiest nights of the week. I’m in the area about four times per year, so I consider myself pretty much a “[[Glossary#Regular|regular]].” It also happens to be managed by the same person who owns my home club, Club Philly. It’s like my “[[Glossary#Club|club]] away from home.”
 
 ---
 ## Quick facts (tl;dr)
@@ -121,7 +121,7 @@ Club management keeps the facility pretty well-maintained, and the staff do a go
 
 Auntie is always surprised that the dark room with the “stage”/[[Glossary#Slurp ramp|slurp ramp]] is busy on the lower level, but only a few guys go up above to feed those who might be interested. Slurp ramps are Auntie’s specialty, so when I’m there, you’ll probably find me in the dark room.
 
-The bench among the rooms with the two porn TVs gets more action than you might expect. If you’re not shy, it’s a fun place to play!
+The bench among the rooms with the two porn TVs gets more action than you might expect. If you’re not shy, it’s a fun place to [[Glossary#Play|play]]!
 
 ---
 ## Important rules to keep in mind

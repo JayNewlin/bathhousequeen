@@ -17,7 +17,7 @@ Second, you don't need to be into a particular [[Glossary#Kink|kink]] or [[Gloss
 Bathhouses are about sex between consenting adults, and many encounters feel very different from what you might experience at home with a hook-up or partner:
 
 - **Anonymous/low-conversation encounters** which tend to be the bulk of the encounters in any bathhouse; most of the interaction is guided by body language
-- **Showing off and public play:** Having your fun out in the open, with the knowledge and even express goal that others might watch or join
+- **Showing off and public [[Glossary#Play|play]]:** Having your fun out in the open, with the knowledge and even express goal that others might watch or join
 - **Voyeurism:** Some folks watch while others play
 - **Threesomes, foursomes, and moresomes:** People start to play, and others are invited to join in the fun
 - **Gloryholes,** where the guys on either side have a great time and others might watch or encourage

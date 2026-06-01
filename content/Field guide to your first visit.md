@@ -12,7 +12,7 @@ Here’s Auntie’s advice:
 - If you’re on it, take your [[Glossary#PrEP|PrEP]] and/or [[Glossary#DoxyPEP|DoxyPEP]]
 - Bring ID and payment
 - Leave valuables at home
-- Explore before you play
+- Explore before you [[Glossary#Play|play]]
 - [[Glossary#Consent|Consent]] always matters
 - You can leave anytime
 - Nobody knows you’re new unless you tell them

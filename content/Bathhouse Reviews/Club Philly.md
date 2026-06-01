@@ -10,8 +10,8 @@ description: "Auntie’s review of Club Philly in Philadelphia’s Gayborhood: l
 ## Quick facts (tl;dr)
 
 - **Type:** Traditional urban [[Glossary#Bathhouse|gay bathhouse]]
-- **Atmosphere:** Mixed crowd, neighborhood regulars, event-driven weekends
-- **Best known for:** Long local history; event nights; comfortable, varied [[Glossary#Cruising|cruising]] and play spaces
+- **Atmosphere:** Mixed crowd, neighborhood [[Glossary#Regular|regulars]], event-driven weekends
+- **Best known for:** Long local history; event nights; comfortable, varied [[Glossary#Cruising|cruising]] and [[Glossary#Play|play]] spaces
 - **Accessibility:** Limited (many stairs)
 - **Open:** 24/7/365
 - **Auntie’s vibe check:** Friendly, lived-in, and reliably busy on event nights
