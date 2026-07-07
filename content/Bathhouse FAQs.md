@@ -27,6 +27,13 @@ Bathhouses usually provide a [[Glossary#Towel|towel]], so most people wear that 
 Check Auntie Queen's full guide at [[How to pack for a visit]] to make sure you're fully prepared for your visit.
 
 ---
+## I’m a big guy. Will people laugh me out of the place?
+
+Auntie wants to remind you that there is no “perfect type” who is guaranteed to be attractive to everyone else. And there is no body type that won’t be exactly what someone else is looking for. In the 40 or so years I’ve been going to the [[Glossary#Baths|baths]], I’ve seen twinks chase silver-haired daddies, smooth muscle hunks go for big, burly bears, and practically every combination you can imagine. Spend enough time at a bathhouse, and you’ll see first-hand that someone finds every type attractive, and every type can have fun at the bathhouse. 
+
+I talk more about body positivity and changing attitudes at the baths on my [[Bigger bodies at gay bathhouses]] page. 
+
+---
 ## Should I get a room or a locker?
 
 This is one of the most common questions that new visitors ask. And the answer is a bit nuanced:

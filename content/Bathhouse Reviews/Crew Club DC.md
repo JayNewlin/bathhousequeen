@@ -4,7 +4,7 @@ description: "Auntie’s review of Crew Club DC in Washington’s Logan Circle n
 ---
 ## A traditional bathhouse in Logan Circle
 
-Whenever I’m in Washington, DC, or its environs, Auntie tries to make at least one visit to [Crew Club DC](https://crewclub.net/) — especially on a Tuesday night, one of the busiest nights of the week. I’m in the area about four times per year, so I consider myself pretty much a “[[Glossary#Regular|regular]].” It also happens to be managed by the same person who owns my home club, Club Philly. It’s like my “[[Glossary#Club|club]] away from home.”
+Whenever I’m in Washington, DC, or its environs, Auntie tries to make at least one visit to [Crew Club DC](https://crewclub.net/ Review) — especially on a Tuesday night, one of the busiest nights of the week. I’m in the area about four times per year, so I consider myself pretty much a “[[Glossary#Regular|regular]].” It also happens to be managed by the same person who owns my home club, Club Philly. It’s like my “[[Glossary#Club|club]] away from home.”
 
 ---
 ## Quick facts (tl;dr)
@@ -131,6 +131,7 @@ Like all bathhouses, Crew Club has their [[Bathhouse rules|rules]]. They are lis
 - No alcohol and drugs on the premises
 - The club is clothing-free: You can wear the [[Glossary#Towel|towel]] that they give you around your waist, a jock, boxers, harness — or you can be like Auntie and just be naked most of the time
 - Photography is not permitted in public areas
+- When checking out, bring your key, [[Glossary#Towel|towel]], sheet, and pillowcase to the front desk
 - When checking out, bring your key, [[Glossary#Towel|towel]], sheet, and pillowcase to the front desk
 - Anyone participating in illegal activity, or racist or hostile actions will be forced to leave
 

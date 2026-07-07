@@ -1,5 +1,5 @@
 ---
-title: Club Philly Review
+title: Club Philly Review Review
 description: "Auntie’s review of Club Philly in Philadelphia’s Gayborhood: layout, prices, events, atmosphere, amenities, and what to expect."
 ---
 ## Club, Sweet Club

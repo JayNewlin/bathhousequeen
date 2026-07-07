@@ -75,6 +75,18 @@ This is one of the most common questions that new visitors ask. And the answer i
 	- Bring a new "friend" for private play rather than playing in open areas
 - If cost matters, a [[Glossary#Locker|locker]] is absolutely fine:
 	- Most [[Glossary#Club|clubs]] have quieter spaces if you need to relax or step away from the action for a bit
+	- Lots of "regulars" rent a locker all the time (Auntie has been known to rent a locker quite frequently)
+	- You can always try a room on your next visit
+### Should I get a room or a locker?
+
+This is one of the most common questions that new visitors ask. And the answer is a bit nuanced:
+
+- For a first visit, Auntie recommends a [[Glossary#Room|room]]. Not because they're luxurious (they aren't). Most basic rooms are about 6' x 10' with a small bed and maybe a shelf. Renting a room gives you a space to:
+	- Go back to relax if you've been having a lot of fun and just need a breather
+	- Retreat to if the whole experience feels a bit overwhelming (totally normal reaction)
+	- Bring a new "friend" for private play rather than playing in open areas
+- If cost matters, a [[Glossary#Locker|locker]] is absolutely fine:
+	- Most [[Glossary#Club|clubs]] have quieter spaces if you need to relax or step away from the action for a bit
 	- Lots of "[[Glossary#Regular|regulars]]" rent a locker all the time (Auntie has been known to rent a locker quite frequently)
 	- You can always try a room on your next visit
 ### What happens in a bathhouse?
