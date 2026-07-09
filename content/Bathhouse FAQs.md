@@ -111,7 +111,7 @@ Being busy increases the number of potential hookups. Quieter times often mean t
 
 Busy doesn't always guarantee a good time. I know many guys who go when it's quieter **on purpose** because they're almost guaranteed to have more fun.
 
-Wondering how busy a bathhouse will be before you go? There's an easy way to get a sense: The [Sniffies](https://sniffies.com/) map will let you know how many guys have checked in at the bathhouse. There are no hard-and-fast rules, but based on my observations, one check-in on Sniffies can represent a few people actually inside -- sometimes 2–5. So even a couple of check-ins can mean there’s more going on than it might appear. (Check out the rest of my thoughts about [[Sniffies and the Baths]].)
+Wondering how busy a bathhouse will be before you go? There's an easy way to get a sense: The [Sniffies](https://sniffies.com/join/63dee15e69a7d9001c45111c) map will let you know how many guys have checked in at the bathhouse. There are no hard-and-fast rules, but based on my observations, one check-in on Sniffies can represent a few people actually inside -- sometimes 2–5. So even a couple of check-ins can mean there’s more going on than it might appear. (Check out the rest of my thoughts about [[Sniffies and the Baths]].)
 
 Bathhouses often publish their own calendars, too -- [[Glossary#Theme nights|theme nights]], discounts, or special events (like [[CumUnion and the Baths|CumUnion]]) can significantly change how crowded it gets. It makes good sense to check their website for a calendar before a visit to see what might be going on when you get there.
 
