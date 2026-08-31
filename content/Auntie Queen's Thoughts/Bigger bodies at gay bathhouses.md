@@ -22,7 +22,7 @@ Social media has also had an influence on body positivity. Some of that influenc
 
 Auntie was recently at [[Crew Club DC]] on a typically busy Tuesday evening, and some of the guys there were larger-than-average. They were definitely having fun. One of them became quite popular in the largest dark [[Glossary#Play|play]] space, drawing a crowd of appreciative observers (and several participants). 
 
-At my home club, [[Club Philly]], I’ve been noticing more big guys, and they engage — and are chased -- just about as much as anyone else in the [[Glossary#Club|club]]. While I’m not doing census-style research, my impression is that the number of bigger guys coming to the club has increased since Club Philly started hosting [BearUnion](https://www.bearcumunion.com/) on the first Friday night of every month.
+At my home club, [[Club Philly]], I’ve been noticing more big guys, and they engage -- and are chased -- just about as much as anyone else in the [[Glossary#Club|club]]. While I’m not doing census-style research, my impression is that the number of bigger guys coming to the club has increased since Club Philly started hosting [BearUnion](https://www.bearcumunion.com/) on the first Friday night of every month.
 
 ---
 ## The BearUnion effect?

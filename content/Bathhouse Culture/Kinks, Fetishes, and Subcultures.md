@@ -17,7 +17,7 @@ Second, you don't need to be into a particular [[Glossary#Kink|kink]] or [[Gloss
 Bathhouses are about sex between consenting adults, and many encounters feel very different from what you might experience at home with a hook-up or partner:
 
 - **Anonymous/low-conversation encounters** which tend to be the bulk of the encounters in any bathhouse; most of the interaction is guided by body language
-- **Showing off and public [[Glossary#Play|play]]:** Having your fun out in the open, with the knowledge and even express goal that others might watch or join
+- **Showing off and public [[Glossary#Play|play]]:** Having your fun out in the open, with the knowledge and even the express goal that others might watch or join
 - **Voyeurism:** Some folks watch while others play
 - **Threesomes, foursomes, and moresomes:** People start to play, and others are invited to join in the fun
 - **Gloryholes,** where the guys on either side have a great time and others might watch or encourage
@@ -60,7 +60,7 @@ Subject to the club's rules, it's probably wisest to keep piss play to the "wet 
 
 These require the full consent of everyone involved. It's also probably wisest if you keep it all pretty light in public spaces because the crowd around you might not be into all the things that turn you on. My home club, Club Philly used to have a St. Andrew's cross with some light rope. It didn't really get much use, so they removed it after a couple years.
 
-If you're into **heavy BDSM or extreme pain,** tread very cautiously. You're in a very public place (even if you're doing it behind the closed door of your room). Remember that the others in the club will hear all the sounds, and that will make many of them uncomfortable. If you're considered a nuisance, the staff will probably ask you to stop or force you to leave.
+If you're into **heavy BDSM or extreme pain,** tread very cautiously. You're in a very public place (even if you're doing it behind the closed door of your room). Remember that others in the club will hear all the sounds, and that will make many of them uncomfortable. If you're considered a nuisance, the staff will probably ask you to stop or force you to leave.
 
 ### Scat or blood
 

@@ -7,6 +7,11 @@ description: "Auntie’s review of Club Philly in Philadelphia’s Gayborhood: l
 [Club Philly](https://www.clubphilly.com/) is Auntie’s “home club.” You can find me there a couple times each month. That fact is neither good nor bad for my reputation. However, it’s also where I get a lot of the knowledge that I share here on my site. It’s where I’ve experienced a lot of the [[Bathhouse Culture/index|bathhouse culture]] that I write about.
 
 ---
+## Late August 2026 Update
+
+Many folks might know that sometime on Friday, August 28, many of Club Philly's first-floor windows were smashed by someone. Out of an abundance of caution, they closed for a bit to allow for the windows to be boarded over and to make sure that the first floor is safe. They reopened as soon as they could, and they remain open now. Source: Auntie was there Saturday evening, 8/29, like many other Saturdays.
+
+---
 ## Quick facts (tl;dr)
 
 - **Type:** Traditional urban [[Glossary#Bathhouse|gay bathhouse]]
@@ -34,12 +39,12 @@ Auntie walks to the [[Glossary#Club|club]], but I know that a lot of folks will 
 - There is some street parking on the surrounding streets. Pay attention to the signs about how long you can leave your car in one spot, and how to pay.
 - There are a lot of nearby garages and parking lots, with some of the closest being:
 	- On Walnut, between 12th and 13th, right across from Camac Street
-	- 13th & Locust Street
-	- 13th & Walnut Street
+	- 13th & Locust Streets
+	- 13th & Walnut Streets
 	- Juniper & Locust Streets
 
 #### Auntie says…
->If you’re driving to the club, parking in a garage or lot — while a pricey choice — is less stressful than street parking.
+>If you’re driving to the club, parking in a garage or lot -- while a pricey choice -- is less stressful than street parking.
 
 ### Is the neighborhood safe?
 
@@ -62,7 +67,7 @@ Club Philly is what I describe as a “fairly standard American [[Glossary#Bathh
 	- Outdoor smoking deck
 - Second floor
 	- [[Glossary#Room|Rooms]]
-	- Four of the rooms are “doubles” (larger bed and feature a TV)
+	- Four of the rooms are “doubles” (larger bed and featuring a TV)
 	- A video area with modified “bleacher” seating
 	- Restroom
 	- Outdoor smoking balcony
@@ -134,20 +139,21 @@ Club Philly hosts three events each month. They charge regular prices for event 
 - **[BearUnion](https://www.bearcumunion.com)** on the first Friday night of every month, 9 PM to 3 AM. This is an all-inclusive, body-positive event that attracts a lot of bears, otters, big guys, daddies, and their admirers.
 - **[CumUnion](https://www.cumunion.com/)**, an international bathhouse party that is held in about 40 cities around the world. Club Philly hosts on the first and third Saturday nights of every month, 9 PM to 3 AM. People come from all over (including regular visitors from New York and Washington, DC) to attend. The crowd is a wide variety of ages, body types, and races. These are the busiest nights at the club every month. You can check out more Auntie’s thoughts about [[CumUnion and the Baths]].
 - Transgressions on the second Monday and fourth Thursday night of every month, 8 PM to 2 AM. This party started in January 2026 and is open to all genders, gender identities, and expressions. Auntie has a couple “bathhouse buddies” who prefer these nights over all others because the crowd is so open, inclusive, and friendly.
+- Bark Rooms is their pet-themed event, held on the third Wednesday of every month, 9 PM to 3 AM. This is their newest event, which started in July 2026. All genders, handlers, pups, pets, curious critters, and their admirers are welcome.
 
 ---
 ## Auntie’s thoughts about Club Philly
 
 I’m certainly a fan of Club Philly because it’s so close to home (only a 10-minute walk). That’s one of the reasons that you can find me there about two times per month, usually on weekend nights — almost always on CumUnion nights.
 
-I also like the fact that the crowd is usually diverse: There’s almost always a wide array of body types, ages, and skin tones. More and more, some [[Trans people at the bathhouse|trans]] people are showing up — and my observation is that they find plenty of folks to have fun with during their visit.
+I also like the fact that the crowd is usually diverse: There’s almost always a wide array of body types, ages, and skin tones. More and more, some [[Trans people at the bathhouse|trans]] people are showing up -- and my observation is that they find plenty of folks to have fun with during their visit.
 
 As I mentioned above, club management keeps the facility pretty well-maintained, and the staff do a good job of cleaning. The sauna was recently completely rebuilt. The steam room can occasionally go offline, but they work to fix the issues as quickly as possible.
 
 One of my pet peeves is their website:
-- They only list the basics about prices but provide no details about the fees — which are an important consideration for many people when deciding if they would like to visit the club. That’s why I went into great detail about the prices on this page.
+- They only list the basics about prices but provide no details about the fees -- which are an important consideration for many people when deciding if they would like to visit the club. That’s why I went into great detail about the prices on this page.
 - They also don’t mention their price specials, which are all weekly. They haven’t changed the specials that much over the years, so one would hope that it wouldn’t be too difficult to mention them on the site.
-- There isn’t a list of events — even though the events tend to be when the club is the busiest. I wish that they provided the list so that those who search for the club could know when there is an event that they might want to attend.
+- There isn’t a list of events -- even though the events tend to be when the club is the busiest. I wish that they provided the list so that those who search for the club could know when there is an event that they might want to attend.
 
 ---
 ## Important rules to keep in mind
@@ -156,7 +162,7 @@ Like all bathhouses, Club Philly has their [[Bathhouse rules|rules]]. They are l
 - Absolutely no smoking or vaping anywhere inside the building. They provide a large patio at street level and a balcony on the second and third floors. You can smoke or vape outdoors in these spaces. Their smoke alarms are very sensitive and will detect even a single cigarette or joint/blunt. If you are caught smoking indoors, you will be kicked out and probably [[Glossary#Banning|banned]]. Permanently.
 - Same for alcohol and drugs: If you’re caught drinking or using, expect to be kicked out and probably banned.
 - On busy nights (weekends, event nights, etc.) they have a person inspecting bags. They’re mostly looking for drugs, alcohol, and weapons. Leave those things at home or in your car.
-- The club is clothing-free: You can wear the [[Glossary#Towel|towel]] that they give you around your waist, a jock, boxers — or you can be like Auntie and just be naked most of the time.
+- The club is pants-free (their term): You can wear the [[Glossary#Towel|towel]] that they give you around your waist, a jock, boxers, a t-shirt -- or you can be like Auntie and just be naked most of the time.
 
 ---
 ## Some notes about Club Philly’s history
@@ -204,6 +210,7 @@ Each event changes the feel of the club slightly:
 - CumUnion almost guarantees a big crowd who are ready to have fun
 - BearUnion has improved body positivity in general
 - Transgressions reminds us that bathhouses aren’t just for gay men
+- Bark Nights makes sure that the pet crowd has a safe place to play
 
 ---
 ## Auntie says…

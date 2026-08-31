@@ -106,9 +106,9 @@ Entourage occupies a large space like a warehouse or converted “box store.” 
 ---
 ## Auntie’s thoughts about Entourage
 
-Auntie used to visit Kuma when it was open and had fun there. I’ve also tried Adonis, but it was fairly new when I did, and it still felt like the corporate offices that it had converted from. The chatter on [[Sniffies and the Baths|Sniffies]] makes it seem like Adonis has some busy times but that Entourage is usually busier in general.
+Auntie used to visit Kuma when it was open and had fun there. I’ve also tried Adonis, but it was fairly new when I did, and it still felt like the corporate offices that it had converted from. The activity on [[Sniffies and the Baths|Sniffies]] makes it seem like Adonis has some busy times, but Entourage is usually busier in general.
 
-Entourage is also a fairly standard American gay bathhouse. That’s the type that I prefer, so that’s the other attraction. When I’m in Vegas, I’ll usually go at least once — and usually more than that.
+Entourage is also a fairly standard American gay bathhouse. That’s the type that I prefer, so that’s the other attraction. When I’m in Vegas, I’ll usually go at least once -- and often more than that.
 
 The crowd seems to be pretty diverse with a variety of body types, ages, and skin tones. 
 
@@ -126,7 +126,6 @@ Like all bathhouses, Entourage has their [[Bathhouse rules|rules]]. They are lis
 - Smoking is only allowed in the designated area near the hot tub
 - They’re picky about the credit/debit cards that they accept (see my list above or call to check)
 - They’re very specific about being a club for “men,” so folks of other gender identities might want to call before visiting
-
 
 ---
 ## Some quick notes about Entourage’s history

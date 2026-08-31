@@ -38,7 +38,7 @@ It might sound silly to think about, "What am I going to wear in a place with nu
 - If you're into certain types of toys or equipment, clean it first, then pack it in your bag. Some guys leave their toys or equipment on display in their room so that anyone joining them knows what they're into or hoping to do.
 - Your own towel. While the club will provide one, you might prefer your own or want an extra.
 - Your own soap, shampoo, or conditioner since the club probably only provides fairly inexpensive soap for their showers.
-- If you plan to be there fairly late or need to go somewhere right after your visit (seriously, some folks go to the [[Glossary#Baths|baths]] between meetings, during lunch, or before work), consider a toothbrush and toothpaste, hair product, or maybe even a razor and shave gel.
+- If you plan to be there fairly late or need to go somewhere right after your visit (seriously, some folks go to the [[Glossary#Baths|baths]] between meetings, during lunch, or before work), consider a toothbrush and toothpaste, hair product, or maybe even a razor and shave gel. Auntie has often seen guys in the bathhouse restroom with their shaving kit, taking care of essential grooming before leaving.
 - A change of clothes (or maybe only socks and/or underwear) -- especially if some part of your "bathhouse outfit" might not be comfortable to wear home after wearing it while cruising all night.
 
 ---

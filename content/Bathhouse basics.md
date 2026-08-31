@@ -16,7 +16,7 @@ This guide is for:
 - Curious newcomers who want to know what to expect
 - Anyone feeling unsure or nervous about going
 
-If that’s you -- you’re in exactly the right place. You'll also want to visit the [[Field guide to your first visit]] if you're planning to go soon.
+If that’s you, you’re in exactly the right place. You'll also want to visit the [[Field guide to your first visit]] if you're planning to go soon.
 
 This guide is based on extensive real-world experience visiting bathhouses across the U.S., Canada, and beyond.
 
@@ -77,18 +77,7 @@ This is one of the most common questions that new visitors ask. And the answer i
 	- Most [[Glossary#Club|clubs]] have quieter spaces if you need to relax or step away from the action for a bit
 	- Lots of "regulars" rent a locker all the time (Auntie has been known to rent a locker quite frequently)
 	- You can always try a room on your next visit
-### Should I get a room or a locker?
 
-This is one of the most common questions that new visitors ask. And the answer is a bit nuanced:
-
-- For a first visit, Auntie recommends a [[Glossary#Room|room]]. Not because they're luxurious (they aren't). Most basic rooms are about 6' x 10' with a small bed and maybe a shelf. Renting a room gives you a space to:
-	- Go back to relax if you've been having a lot of fun and just need a breather
-	- Retreat to if the whole experience feels a bit overwhelming (totally normal reaction)
-	- Bring a new "friend" for private play rather than playing in open areas
-- If cost matters, a [[Glossary#Locker|locker]] is absolutely fine:
-	- Most [[Glossary#Club|clubs]] have quieter spaces if you need to relax or step away from the action for a bit
-	- Lots of "[[Glossary#Regular|regulars]]" rent a locker all the time (Auntie has been known to rent a locker quite frequently)
-	- You can always try a room on your next visit
 ### What happens in a bathhouse?
 
 Most people spend their time [[Cruising in a bathhouse|cruising]] and connecting with others based on mutual attraction:
@@ -101,7 +90,7 @@ Most people spend their time [[Cruising in a bathhouse|cruising]] and connecting
 
 You can expect a mix of socializing, relaxation, and sexual energy, with most interactions happening nonverbally through eye contact and body language. It’s normal to feel unsure at first, but most people settle in quickly. 
 
-Soon after you arrive, walk through the entire bathhouse, seeing what -- and who -- is where. As you enter each public space, [[Glossary#Read the room|read the room]] to to get a feel for the vibe and what’s happening there. Make some mental notes of the places -- and the people -- you want to come back to after your first tour.
+Soon after you arrive, walk through the entire bathhouse, seeing what -- and who -- is where. As you enter each public space, [[Glossary#Read the room|read the room]] to get a feel for the vibe and what’s happening there. Make some mental notes of the places -- and the people -- you want to come back to after your first tour.
 
 For more guidance, check out my [[Field guide to your first visit]].
 
@@ -147,7 +136,7 @@ If money is tight, consider going at a time when they have specials:
 
 ### When are they open?
 
-Most bathhouses in the U.S. are 24/7, and many of them are open 365 days a year. In some European and Mexican cities, the [[Glossary#Baths|baths]] are only open certain hours. Do your research online (most clubs have a website with such basics), or call the club directly if you don't know their hours. (I know, I know. I don't like to make actual phone calls either, but one does what one must.)
+Most bathhouses in the U.S. are 24/7, and many of them are open 365 days a year. In some European and Mexican cities, the [[Glossary#Baths|baths]] are only open certain hours. Do your research online (most clubs have a website with such basics), or call the club directly if you don't know their hours. (I know, I know: I don't like to make actual phone calls either, but one does what one must.)
 
 ### Is there a bar?
 
@@ -173,7 +162,7 @@ It should go without saying (but I'll say it anyway): The same is true for prost
 ---
 ## Banning 
 
-I've mentioned "kicked out or banned" a few times. It's very real. Actions have consequences, and bad actions on some people's part could have a really bad effect on the club -- including causing them to be shut down by "the authorities." 
+I've mentioned "kicked out or banned" a few times. It's very real. Actions have consequences, and bad actions on some people's part could have a really bad effect on the club -- including causing them to be shut down by the authorities. 
 
 Every gay bathhouse sets its own rules. There are also some common [[Bathhouse rules|rules]] that apply almost everywhere. Even though they are spaces for consensual sexual activity between adults, there is also real [[Bathhouse etiquette|bathhouse etiquette]] as well.
 

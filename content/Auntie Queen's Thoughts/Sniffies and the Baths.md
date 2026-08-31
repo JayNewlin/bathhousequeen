@@ -4,7 +4,7 @@ description: Why Sniffies may be saving bathhouses instead of killing them.
 ---
 ## Digital cruising and the baths
 
-There’s long been a persistent idea -- and even some evidence -- that [[Glossary#Cruising|cruising]] apps might lead to the death of bathhouses, ABSes, and sex clubs. "The younger generations open an app and hook up there. Why do they need to go to the bathhouse?" For much of the last 10 or 15 years, I agree that bathhouse attendance went down, and those in attendance were those of us 40 and older. I also agree that younger folks seemed to hook up way more often on apps than other ways.
+There’s long been a persistent idea -- and even some evidence -- that [[Glossary#Cruising|cruising]] apps might lead to the death of bathhouses, adult bookstores (ABSes), and sex clubs. "The younger generations open an app and hook up there. Why do they need to go to the bathhouse?" For much of the last 10 or 15 years, I agree that bathhouse attendance went down, and most of those in attendance were guys, like me, who are 40 and older. I also agree that younger folks seemed to hook up way more often on apps than other ways.
 
 Then Sniffies arrived, and things are definitely changing.
 
@@ -17,7 +17,7 @@ Sniffies tends to appeal strongly to the under-40 crowd, but increasingly I’m 
 - It's web-first (and web-only so far), so an app download isn't required.
 - The real-time map is designed for cruising and hook-ups, not for dating.
 - Bathhouses being places on that map means that younger folks are starting to come to the baths -- often for the [[Field guide to your first visit|first time]]. Once they're there, like those of us who have been frequenting the baths for many years, many of them like the experience and keep coming back.
-- The new "activity" heatmap at the top of every Place allows us to decide whether we want to go now, or perhaps wait until a busier time.
+- The "activity" heatmap at the top of every Place allows us to decide whether we want to go now, or perhaps wait until a busier time.
 
 On Reddit and similar sites, the chatter lines up with this shift:
 - "I only go if I see people on Sniffies"
@@ -26,7 +26,7 @@ On Reddit and similar sites, the chatter lines up with this shift:
 
 Sniffies is providing classic network-effect behavior: visibility → curiosity → attendance → more visibility. This can also lead to peaks in attendance at traditionally slow times.
 
-Historically bathhouses had their predictable peaks: "Weekends are better than weekdays, and nights are better than daytime." What I like to call **"The Sniffies Effect"** is changing that: Tuesdays are **packed** at Crew Club in DC, and many of them are in their 20s and 30s. Club Philly sometimes has very busy Thursday afternoons, also with a preponderance of those under 40. (I'll admit that half-price specials during those times at both places helped, but we all know that neither Tuesdays nor Thursdays have traditionally been all that busy -- especially during the day.) Sniffies is now creating "micro-peaks" in attendance, based on visible activity on the map.
+Historically bathhouses had their predictable peaks: "Weekends are better than weekdays, and nights are better than daytime." What I like to call **"The Sniffies Effect"** is changing that: Tuesdays are **packed** at Crew Club in DC, and many of them are in their 20s and 30s. Club Philly sometimes has very busy Thursday afternoons, also with a preponderance of those under 40. (I'll admit that half-price specials during those times at both places help, but we all know that neither Tuesdays nor Thursdays have traditionally been all that busy -- especially during the day.) Sniffies is now creating "micro-peaks" in attendance, based on visible activity on the map.
 
 They recently doubled down on this by moving live attendance, venue features, and historical activity heatmaps to the very top of each venue listing. In other words, Sniffies is no longer just helping us find each other -- it’s actively helping us decide *when* to go. That’s gasoline on the “Sniffies Effect.”
 
@@ -49,7 +49,7 @@ Let's look at this from various angles.
 - Increased visibility on a popular app is essentially "free marketing"
 - Higher off-peak attendance means new or increased revenue for the bathhouse
 - Younger users of Sniffies are discovering (and becoming loyal to) the [[Glossary#Baths|baths]]
-- Increased discovery of bathhouses by other [[Glossary#Queer|queer]] adults ([[Trans people at the bathhouse|trans]] people, more bi and straight-curious people)
+- Increased discovery of bathhouses by other [[Glossary#Queer|queer]] adults (like [[Trans people at the bathhouse|trans]] people, bi, and straight-curious people)
 - Reduced perception of "if it's Tuesday, it's slow" -- increasing the likelihood that others will come out at "non-traditional" times
 ### Potential trade-offs
 
@@ -75,7 +75,7 @@ If you see me on Sniffies, say hi, and let's plan to meet at the baths!
 ---
 ## May 2026 Update: The "Straightification" Debate
 
-Auntie read the May 2026 article in WIRED about [the "straightification" of Sniffies](https://www.wired.com/story/sniffies-users-worry-about-straightification-gay-cruising-app/). If you've read my site, you know that I'm one who is careful about how I approach everything. In this case, I think a "wait and see" attitude is the best.
+Auntie read the May 2026 article in WIRED about [the "straightification" of Sniffies](https://www.wired.com/story/sniffies-users-worry-about-straightification-gay-cruising-app/). If you've read other parts of my site, you know that I'm one who is careful about how I approach everything. In this case, I think a "wait and see" attitude is the best.
 
 Will Match Group ruin Sniffies? Probably not.
 
@@ -90,11 +90,11 @@ If Sniffies changes too much, we queers will find each other in another space. W
 We'll do it again when we need to -- whether in bathhouses, bars, parks, websites, apps… or whatever virtual spaces come next.
 
 ---
-## July 2026 Update: Places become directory entries
+## Summer 2026 Update: Places become directory entries
 
-Auntie checks Sniffies regularly -- usually at least a couple times a day. It often sits open on a device while I'm working so that I can glance over (often during a boring meeting) to see who's where and doing what with whom. One of the things that I've often done when I have a few minutes is to check my favorite Places (almost always the bathhouses that I know well) to check the chat.
+Auntie checks Sniffies regularly -- usually at few times a week. Sometimes the map is open on a device while I'm working so that I can glance over (often during a boring meeting) to see who's where and doing what with whom. One of the things that I've often done when I have a few minutes is to check my favorite Places (almost always the bathhouses that I know well) to check the chat.
 
-Imagine my surprise right after the July 4th holiday weekend to find that Sniffies has now completely eliminated the chat feature from Place listings! Now we have the avatars of the guys "checked in" at the place, the activity heatmap, and a new "Cruisers say..." section that provides a description of what the place is and the type of interactions that one might have there.
+Imagine my surprise right after the July 4th holiday weekend to find that Sniffies completely eliminated the chat feature from Place listings! Now we have the avatars of the guys "checked in" at the place, the activity heatmap, and a new "Cruisers say..." section that provides a description of what the place is and the type of interactions that one might have there.
 
 I gave it a few hours, then a day, hoping that a recent update might have accidentally removed or disabled the chat in Places, but it never came back. What really surprised me wasn't simply that a feature had disappeared. The chat in Places was often where people coordinated their visits, announced that they were on their way, or simply let others know that the place was active. It was another signal about what was happening there right now. I often found myself answering questions about a place -- and especially for being able to help newbies understand more about a specific place, bathhouses [[Bathhouse basics|in general]], or "[[Cruising in a bathhouse|rules for cruising]]." Removing the chat changes how Places feel -- shifting them away from community conversation and more toward a directory of information.
 

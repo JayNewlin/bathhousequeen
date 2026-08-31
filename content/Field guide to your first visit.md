@@ -74,19 +74,17 @@ I cover a lot of this in my notes on the [[Bathhouse basics#Entry Process|entry 
 5. Let the person at the check-in desk know that this is your first visit. If the club allows, and if they're not too busy, they may give you a tour. Some clubs offer this as a "perk" of being new.
 ### Once you're inside
 
-**Explore**
+#### Explore
 - Go to your room or locker and get undressed.
 - Leave your phone or smart glasses in your room or locker. Phone usage is usually limited to your room, the locker room, or a lounge. Pictures and videos are almost always prohibited.
-- If you've been dancing in a club before the baths, or it's particularly hot outside, take a shower. Not everyone is into sweat and musk.
+- If you've been dancing in a club before the baths, or if it's particularly hot outside, take a shower. Not everyone is into sweat and musk.
 - Even if you took a tour, walk around to see what and who is where.
 - Bathhouses can often feel like a maze, so walk around a couple times until you remember where important places are (like the restroom, your room, and that really cool space where you might want to play later).
-
-**Observe**
+#### Observe
 - [[Cruising in a bathhouse]] is different than it is in a bar/club or on the street -- and definitely very different than the apps. Take a few minutes to see how others are doing it.
 - If a piece of equipment looks interesting or unfamiliar, hang around to see how others use it. No one is born knowing exactly what a [[Glossary#Gloryhole|gloryhole]] or [[Glossary#Sling|sling]] is and how to use it.
 - Remember that guys playing in public spaces realize that others might watch. That's part of why they're doing it. Don't be embarrassed to let your inner voyeur enjoy the show!
-
-**Cruise**
+#### Cruise
 - Decide if you want to stay in your room, wander the halls, hang out at a gloryhole or other play space, or some combination of all those choices.
 - Be on the lookout for who interests you -- and who is interested in you.
 - Decide what you want to do and with whom. (You're in charge of this. No one can force you into anything that you don't want to do or with whom you do it.) Hanging around, watching, and playing with yourself for a while -- or even for your whole visit -- is just fine.
@@ -103,7 +101,6 @@ The most important thing to remember is that, no matter how physical the process
 - If you’re not interested, a simple No, stepping away, or gently moving someone’s hand is enough.
 - If someone is being a nuisance and ignoring your No and rejection, report them to the desk. They very well may be kicked out or [[Glossary#Banning|banned]].
 - You are in charge of what you do and do not want to do and with whom.
-
 ### Some things to know
 
 - While I mentioned that most cruising is nonverbal, it's still quite okay to insist on a bit of talking.

@@ -2,7 +2,7 @@
 title: Disco-era rules of the baths
 description: "Vintage gay bathhouse humor: the legendary “Rules of the Baths,” their cultural history, and the jokes that circulated from Usenet to early queer webzines."
 ---
-I first encountered these bathhouse "rules" many years ago. You could find them on some bathhouse websites in the 1990s, but they had been floating around [Usenet](https://en.wikipedia.org/wiki/Usenet) in earlier years . I know that I also read them on some webzines like *QNews* and *Bent* in the early 2000s. [Xtra Magazine](https://xtramagazine.com) mentioned them as recently as 2009 in an article about [Lady Bunny](https://www.ladybunny.net).
+I first encountered these bathhouse "rules" many years ago. You could find them on some bathhouse websites in the 1990s, but they had been floating around [Usenet](https://en.wikipedia.org/wiki/Usenet) in earlier years. I know that I also read them on some webzines like *QNews* and *Bent* in the early 2000s. [Xtra Magazine](https://xtramagazine.com) mentioned them as recently as 2009 in an article about [Lady Bunny](https://www.ladybunny.net).
 
 They always make me chuckle, so I pass them on to you, hoping that you'll chuckle, too. (Note that I've updated them slightly, but not much.) Like all good jokes, there’s a bit of truth in them -- but for actual guidance, visit [[Bathhouse rules]] and [[Bathhouse etiquette]].
 
@@ -18,7 +18,7 @@ They always make me chuckle, so I pass them on to you, hoping that you'll chuckl
 - If you're looking for a wonderfully spiritual union with a kindred spirit, you're in the wrong place.
 - Do not assume that the guys walking into walls are on some weird new drug; most likely, they have just left their glasses in their lockers. Better to look good than to see good.
 - Bathrooms have legitimate purposes. A blowjob in a toilet stall while seven guys are holding their legs crossed outside won't make you popular.
-- If you see a man in a room with Crisco, a thick belt, and a bottle of poppers… know what they’re for before entering.
+- If you see a man in a room with Elbow Grease, a thick belt, and a bottle of poppers… know what they’re for before entering.
 - It's okay to bring your own rope. It's not okay to tie yourself up.
 - Spending 72 consecutive hours at the baths will neither destroy your reputation nor greatly enhance it.
 - If you're cheating on your lover at the baths, don't make a scene if you [[Bathhouse FAQs#What if I run into someone I know?|run into them there]].

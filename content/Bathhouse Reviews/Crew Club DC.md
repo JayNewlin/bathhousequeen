@@ -67,7 +67,7 @@ Crew Club has two levels, and currently all the “fun places” are on the seco
 - When the club is busy, there will be a line to get in. Yes, it can take a while for you to check in. It’s worth the wait.
 - It’s an older building, and one end of the hall seems to leak every time it rains hard enough. If you see water dripping from the ceiling, report it to the desk so that they can do something about it.
 - Yes, the steam room does seem to be out of service often. Yes, you can still have fun at the club when it’s not working.
-- Speaking of the steam room, it’s the largest steam room that Auntie has seen anywhere — bathhouse or otherwise! While it’s ”like a maze,” you won’t get lost. Unless you want to.
+- Speaking of the steam room, it’s the largest steam room that Auntie has seen anywhere -- bathhouse or otherwise! While it’s ”like a maze,” you won’t get lost. Unless you want to.
 - Crew Club has an elevator, and there are no extra steps throughout the facility. There’s also a ramp to enter from the street. It’s one of the most accessible bathhouses Auntie knows of.
 
 ---
@@ -115,7 +115,7 @@ I like to visit Crew Club anytime I’m in DC or a nearby community. I arrive by
 
 Since I’m usually in the area for business meetings, Tuesdays are my favorite night to be there. I’m sure that Tuesdays are popular because rooms are half-price all day. But there’s some other magic in the air on Tuesdays because it’s **WAY** busier than most weeknights at most bathhouses in the USA and Canada.
 
-The crowd is usually pretty diverse: There’s almost always a wide array of body types, ages, and skin tones. The Tuesday evening crowd tends to include more folks who are 30 and under. Quite frequently, some [[Trans people at the bathhouse|trans]] people are showing up — and my observation is that they find plenty of folks to have fun with during their visit.
+The crowd is usually pretty diverse: There’s almost always a wide array of body types, ages, and skin tones. The Tuesday evening crowd tends to include more folks who are 30 and under. Quite frequently, some [[Trans people at the bathhouse|trans]] people are showing up -- and my observation is that they find plenty of folks to have fun with during their visit.
 
 Club management keeps the facility pretty well-maintained, and the staff do a good job of cleaning. The steam room recently underwent some extensive renovations.
 
@@ -132,17 +132,16 @@ Like all bathhouses, Crew Club has their [[Bathhouse rules|rules]]. They are lis
 - The club is clothing-free: You can wear the [[Glossary#Towel|towel]] that they give you around your waist, a jock, boxers, harness — or you can be like Auntie and just be naked most of the time
 - Photography is not permitted in public areas
 - When checking out, bring your key, [[Glossary#Towel|towel]], sheet, and pillowcase to the front desk
-- When checking out, bring your key, [[Glossary#Towel|towel]], sheet, and pillowcase to the front desk
 - Anyone participating in illegal activity, or racist or hostile actions will be forced to leave
 
 ---
 ## Some notes about Crew Club’s history
 
-Crew Club has been around for a while: It started in 1995 under the ownership/management of DC Allen and his husband Ken Flick. They actively participated and sponsored events in Washington’s LGBTQ+ community — so much so that the club still displays honors and awards that the community has given Allen over the years.
+Crew Club has been around for a while: It started in 1995 under the ownership/management of DC Allen and his husband Ken Flick. They actively participated and sponsored events in Washington’s LGBTQ+ community -- so much so that the club still displays honors and awards that the community has given Allen over the years.
 
 In 2020 Allen and Flick closed the business before the COVID-19 pandemic shutdown. They were planning to retire and had entered an agreement to sell the building to a developer, but that deal apparently [fell through](https://www.washingtonblade.com/2021/07/19/crew-club-plans-to-reopen-in-existing-14th-street-building/). In mid-2021 they announced that they had entered an agreement with some new partners to reopen the club.
 
-Crew Club continues to operate 24/7/365 under the new management arrangement — serving the LGBTQ+ community for more than 30 years!
+Crew Club continues to operate 24/7/365 under the new management arrangement -- serving the LGBTQ+ community for more than 30 years!
 
 ---
 ## Auntie says…

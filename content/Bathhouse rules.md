@@ -49,15 +49,15 @@ Gay bathhouses have a wide variety of spaces and amenities, and each has its own
 ### Steam room / sauna / hot tub
 
 - Some folks go in specifically to relax or to warm up. Yes, really. It's smart to observe their body language before you try to hook up with someone who is lying down or sitting with their eyes closed. Believe me, you'll know quickly if they're interested in more than just the steam, heat, and water.
-- About that lying down: If it's busy, remember it isn't, "I was here first, and I'll do what I want." If you're lying down and the room starts to get crowded, it's polite to sit up to make more room for others.
+- About lying down: If it's busy, remember it isn't, "I was here first, and I'll do what I want." If you're lying down and the room starts to get crowded, it's polite to sit up to make more room for others.
 - Glass (your bottle of [[Glossary#Poppers|poppers]] as an example) can be dangerous, so be very careful. Some clubs actually prohibit them in the steam room, sauna, or hot tub.
 - The poppers themselves also can be really unwise in hot spaces. Use with caution. Also remember those around you: If you do use them in a small space, do it sparingly and cap the bottle between huffs.
 - Since steam can make it difficult to see, touch is used more often to express interest than in other places. You should move someone's hand away if you're not interested, and respect if someone moves your hand away.
 ### Dark rooms and [[Glossary#Play|play]] spaces
 
 - Nonverbal communication is the norm, and touch will be more frequent. Remember: Gently but firmly move a hand away when you're not interested, and respect anyone who moves your hand away.
-- Even if it's a place dedicated to lots of sexual activity, consent is still a must. In some spaces, consent may be more assumed (such as gloryhole rooms), but it still matters. In other dark areas, you can whisper or speak lowly to confirm interest, intent, and consent.
-- Dark rooms are dark on purpose. Set your watch to its lowest light setting -- or set it to be dark until you lift your wrist. If you bring your phone into the room (if phones are allowed in the club at all), don't use it like a flashlight. If you've lost something (like your keys), you can use your phone, but apologize for doing so to everyone nearby.
+- Even though it's a place dedicated to lots of sexual activity, consent is still a must. In some spaces, consent may be more assumed (such as gloryhole rooms), but it still matters. In other dark areas, you can whisper or speak lowly to confirm interest, intent, and consent.
+- Dark rooms are dark on purpose. Set your watch to its lowest light setting -- or set it to be dark until you lift your wrist. If you bring your phone into the room (if phones are allowed in the club at all), don't use it like a flashlight. If you've lost something (like your keys), you can use your phone flashlight, but apologize for doing so to everyone nearby.
 - Dark rooms also tend to be quieter. This is definitely not the place to talk about the weather or how the Phillies are doing this season.
 ### Hallways, locker room, gym area, and other open spaces
 
@@ -89,11 +89,9 @@ Every bathhouse sets their own rules. You'll usually find them posted near the e
 - No photos or video
 - Whether or where smoking and vaping are allowed
 - Keys and locks belong to the club, and they may charge a fee if you lose them
-- [[Glossary#Towel|Towel]] procedures like having only one at a time
+- [[Glossary#Towel|Towel]] procedures, like having only one at a time
 - [[Glossary#Safer sex|Safer sex]] expectations, which can vary by location or based on local laws
 - Staff instructions must be followed
-
-For more of Auntie’s insights into other common rules, check out [[Bathhouse rules]].
 
 ---
 ## What happens if you break the rules?

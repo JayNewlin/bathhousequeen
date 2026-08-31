@@ -34,13 +34,11 @@ The CumUnion site tells us that they
 
 >started as a small sex party after the 2010 Dore Alley Street Fair in San Francisco. The success of the first party spawned the second, held two months later following Folsom Street Fair. Due to the overwhelming popularity of these two events we began to have the party on a regular basis. It wasn’t long before word spread and guys started to request that a CumUnion party be held in their city.
 
-There’s also an echo of a similarly themed and named party at Lab.oratory, the infamous fetish and sex club in Berlin, dating back to the early 2000s.
-
-That’s typical of queer culture: ideas spark in multiple places, sometimes independently, sometimes influenced by each other, and often without anyone worrying too much about who was “first.”
+There’s also an echo of a similarly themed and named party at Lab.oratory, the infamous fetish and sex club in Berlin, dating back to the early 2000s. That’s typical of queer culture: ideas spark in multiple places, sometimes independently, sometimes influenced by each other, and often without anyone worrying too much about who was “first.”
 
 ### Auntie's history with CumUnion
 
-CumUnion arrived at my "home club," Club Philly, a few years after it developed in San Francisco. I actually went to the very first one that they held, curious to see what it would be like. I quickly became a regular because I liked the vibe and always had a lot of fun.
+CumUnion arrived at my "home club," Club Philly, a few years after it developed in San Francisco. I actually went to the very first one that they held, curious to see what it would be like. I quickly became a CumUnion regular because I liked the vibe and always had a lot of fun.
 
 In 2020, just like everything else, [[Glossary#Subculture|bathhouse culture]] and CumUnion came to a crashing stop during the pandemic shutdown. To their credit, CumUnion and their sponsors raised money to distribute among their participating bathhouses and clubs, hoping to ease the burden of nonexistent revenues. Auntie remembers receiving a couple emails encouraging private donations.
 

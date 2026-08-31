@@ -13,7 +13,7 @@ To answer it quickly: The likelihood is higher than it is for most everyday acti
 	- If you're having condomless sex regularly, you should discuss [[Glossary#PrEP|PrEP]]
 	- If you're hooking up regularly, also ask whether [[Glossary#DoxyPEP|DoxyPEP]] makes sense for you
 - Make sure your vaccinations are current, especially for hepatitis, HPV, and mpox if your healthcare provider recommends them
-- Most bathhouses provide free condoms and lube, along with testing information or referrals to local clinics
+- Most [[Glossary#Bathhouse|bathhouses]] provide free condoms and lube, along with testing information or referrals to local clinics
 - Practice the same hygiene you would at home
 	- Wash your hands regularly
 	- Clean up after/between encounters (including taking a shower)
@@ -57,7 +57,7 @@ Through two different health crises for the LGBTQ+ community and world at large,
 ---
 ## Auntie says...
 
-Were bathhouses responsible for the spread of HIV/AIDS in the 1970s and 1980s? Not single-handedly, of course not. They certainly weren't the primary driver of the epidemic.
+Were bathhouses responsible for the spread of HIV/AIDS in the 1970s and 1980s? Not single-handedly. Of course not. They certainly weren't the primary driver of the epidemic.
 
 Our bathhouses have worked hard over the years to provide safe, clean, and healthy environments for us to get naked and have sexually charged fun. They bring in healthcare professionals and advocates to help us learn more:
 - About our current [[Glossary#Status|statuses]] by providing regular STI/HIV testing
@@ -65,4 +65,4 @@ Our bathhouses have worked hard over the years to provide safe, clean, and healt
 	- How to overcome drug use/abuse
 	- Information about PrEP and DoxyPEP
 
-Auntie spends most working days thinking about and managing risk. I apply the same thoughts about risk and mitigation to each visit to the bathhouse: If we make the sensible, health-conscious decisions, we can be pretty sure that each visit will be both safe and healthy -- and that we'll be back soon, ready for some more naked, sexy (and usually sweaty) fun!
+Auntie spends most working days thinking about and managing risk. I apply the same thoughts about risk and mitigation to each visit to the bathhouse: If we make sensible, health-conscious decisions, we can be pretty sure that each visit will be both safe and healthy -- and that we'll be back soon, ready for some more naked, sexy (and usually sweaty) fun!

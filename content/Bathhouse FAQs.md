@@ -9,7 +9,7 @@ I'm often asked the same questions about bathhouses on cruising sites like Squir
 ---
 ## Do you have to be gay to go to a gay bathhouse?
 
-The possibly surprising answer: **No.** While most bathhouses primarily serve gay, bi, and straight-curious men, other [[Glossary#Queer|queer]] people go to bathhouses, and policies vary by location. Some are men-only spaces, while others may have designated all-gender or [[Trans people at the bathhouse|trans]]-inclusive nights. It’s always best to check the specific club’s rules and events calendar before visiting.
+You might be surprised to find out that the answer is **No.** While most bathhouses primarily serve gay, bi, and straight-curious men, other [[Glossary#Queer|queer]] people go to bathhouses, and policies vary by location. Some are men-only spaces, while others may have designated all-gender or [[Trans people at the bathhouse|trans]]-inclusive nights. It’s always best to check the specific club’s rules and events calendar before visiting.
 
 ---
 ## What do you wear at a bathhouse?
@@ -113,7 +113,7 @@ Busy doesn't always guarantee a good time. I know many guys who go when it's qui
 
 Wondering how busy a bathhouse will be before you go? There's an easy way to get a sense: The [Sniffies](https://sniffies.com/join/63dee15e69a7d9001c45111c) map will let you know how many guys have checked in at the bathhouse. There are no hard-and-fast rules, but based on my observations, one check-in on Sniffies can represent a few people actually inside -- sometimes 2–5. So even a couple of check-ins can mean there’s more going on than it might appear. (Check out the rest of my thoughts about [[Sniffies and the Baths]].)
 
-Bathhouses often publish their own calendars, too -- [[Glossary#Theme nights|theme nights]], discounts, or special events (like [[CumUnion and the Baths|CumUnion]]) can significantly change how crowded it gets. It makes good sense to check their website for a calendar before a visit to see what might be going on when you get there.
+Bathhouses often publish their own calendars, too. [[Glossary#Theme nights|Theme nights]], discounts, or special events (like [[CumUnion and the Baths|CumUnion]]) can significantly change how crowded it gets. It makes good sense to check their website for a calendar before a visit to see what might be going on when you get there.
 
 ### Auntie says...
 >There's no "right" or "wrong" time to go. There's just different types of experiences. 
@@ -136,7 +136,7 @@ If cleanliness is a major concern with you, stick to your room or spaces where y
 ---
 ## Are gay bathhouses safe?
 
-Bathhouses are generally safe environments, especially those that are well-maintained and follow local regulations. Like any social space, awareness and respect go a long way. They usually post their rules on their website and/or very close to their front door. Be sure to check them out before you enter to make sure that you'll be comfortable.
+Bathhouses are generally safe environments, especially those that are well-maintained and follow local regulations. Like any social space, awareness and respect go a long way. They usually post their [[Bathhouse rules|rules]] on their website and/or very close to their front door. Be sure to check them out before you enter to make sure that you'll be comfortable.
 
 ---
 ## Is a gay bathhouse safe for a trans person?
@@ -161,7 +161,7 @@ Auntie's been there. Multiple times with different friends and acquaintances. An
 
 **Second:** It’s okay to talk with them. At least say Hi -- unless one or both of you is in a position or activity where chit chat is unwise. Or basically impossible. 
 
-**Third:** Honestly, you now have an unspoken vow and bond between you. “What happens in the bathhouse stays in the bathhouse.”
+**Third:** Honestly, you now have an unspoken vow and bond between you: “What happens in the bathhouse stays in the bathhouse.”
 
 Should you hook up with them? That's entirely up to you, sweetie. Just remember, though, that one of the so-called “rules” states, "It is considered embarrassing to have sex with someone you already know." jk (See it and other silly “rules” on [[Disco-era rules of the baths]].)
 
@@ -174,7 +174,7 @@ Accessibility varies widely from club to club. You'll want to visit their websit
 
 Some clubs actually are somewhat accessible. Some have accommodations including low-barrier entryways and elevators. Even with that, there are still often narrow hallways, wet or slippery floors, or stairways to some levels.
 
-Even with that, not all spaces are going to be fully accessible. A practical example is that many spaces within bathhouses can have very low lighting or be very dark, and that can be challenging to people with low vision.
+But not all spaces are going to be fully accessible. A practical example is that many spaces within bathhouses can have very low lighting or be very dark, and that can be challenging to people with low vision.
 
 Just remember: It's wise to check their website or call ahead to ask specific questions about your needs.
 

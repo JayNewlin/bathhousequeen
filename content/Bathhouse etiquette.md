@@ -4,7 +4,7 @@ description: "Gay bathhouse etiquette for first-timers: The unspoken rules of ey
 ---
 ## Be polite
 
-Everyone goes to the bathhouse to have fun. Nothing ruins the fun faster than rudeness. Sometimes "politeness" moving along and not engaging with someone who’s being rude. If they’re being rude to you, a sharp rebuke is fine, but move on.
+Everyone goes to the bathhouse to have fun. Nothing ruins the fun faster than rudeness. Sometimes "politeness" is simply moving along and not engaging with someone who’s being impolite. If they’re being very rude to you, a sharp rebuke is fine, but move on.
 
 When you need to decline someone's invitation to [[Glossary#Play|play]], do it nicely. If you're the one being turned down, apologize and move along.
 
