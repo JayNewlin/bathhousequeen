@@ -13,7 +13,7 @@ To answer it quickly: The likelihood is higher than it is for most everyday acti
 	- If you're having condomless sex regularly, you should discuss [[Glossary#PrEP|PrEP]]
 	- If you're hooking up regularly, also ask whether [[Glossary#DoxyPEP|DoxyPEP]] makes sense for you
 - Make sure your vaccinations are current, especially for hepatitis, HPV, and mpox if your healthcare provider recommends them
-- Most [[Glossary#Bathhouse|bathhouses]] provide free condoms and lube, along with testing information or referrals to local clinics
+- Most [[Glossary#Bathhouse|bathhouses]] provide free condoms along with testing information or referrals to local clinics
 - Practice the same hygiene you would at home
 	- Wash your hands regularly
 	- Clean up after/between encounters (including taking a shower)
@@ -23,7 +23,7 @@ To answer it quickly: The likelihood is higher than it is for most everyday acti
 ---
 ## A bit of history
 
-When Auntie was old enough to go to the baths, we were in the early days of the [[The History of Bathhouses#The AIDS Crisis Closure and Controversy|HIV/AIDS pandemic]]. Back then, some people were blaming the bathhouses for being what today we would call "super-spreader sites:" They figured gay men were having too much unprotected sex, and that was the cause of the rapid spread of the virus.
+When Auntie was old enough to go to the baths, we were in the early days of the [[The History of Bathhouses#The AIDS Crisis Closure and Controversy|HIV/AIDS pandemic]]. Back then, some people were blaming the bathhouses for being what today we would call "super-spreader sites." They figured gay men were having too much unprotected sex, and that was the cause of the rapid spread of the virus.
 
 Was that true? While some people certainly contracted the virus through a bathhouse encounter, they obviously weren't the only places where people were having sex with each other. And sexual contact wasn't the only way HIV was spreading in those years.
 
@@ -47,12 +47,11 @@ In the midst of the "bathhouse panic" that came with the AIDS pandemic, many bat
 Years later, these are all "typical" activities in many bathhouses. They came from a commitment to maintaining the health of their patrons during a pandemic.
 
 The bathhouses also adapted quickly as they reopened after the COVID pandemic shutdown:
-
 - Temperature checks before entry
 - Strict face mask requirements and checks
 - Hand sanitizer available and hand washing encouraged
 
-Through two different health crises for the LGBTQ+ community and world at large, bathhouses worked hard not to be the "super-spreader sites" that some would have us believe. Instead, they have quickly adapted and adopted the practices that help to keep their patrons healthy.
+Through two different health crises for the LGBTQ+ community and the world at large, bathhouses worked hard not to be the "super-spreader sites" that some would have us believe. Instead, they quickly adapted and adopted the practices that help to keep their patrons healthy.
 
 ---
 ## Auntie says...

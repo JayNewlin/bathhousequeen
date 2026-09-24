@@ -42,7 +42,7 @@ CumUnion arrived at my "home club," Club Philly, a few years after it developed 
 
 In 2020, just like everything else, [[Glossary#Subculture|bathhouse culture]] and CumUnion came to a crashing stop during the pandemic shutdown. To their credit, CumUnion and their sponsors raised money to distribute among their participating bathhouses and clubs, hoping to ease the burden of nonexistent revenues. Auntie remembers receiving a couple emails encouraging private donations.
 
-Once the pandemic restrictions reduced to allow businesses to open, CumUnion also came back -- with facemasks, temperature checks, and hand sanitizer. CumUnion has always encouraged each participant's health and safety, and that was on full display during those "come back cautiously and wisely" days.
+Once the pandemic restrictions reduced to allow businesses to open, CumUnion also came back -- with face masks, temperature checks, and hand sanitizer. CumUnion has always encouraged each participant's health and safety, and that was on full display during those "come back cautiously and wisely" days.
 
 And Auntie was right there... hanging out at my favorite gloryhole in the basement [[Glossary#Slurp ramp|slurp ramp]] on that first night back at Club Philly for CumUnion.
 
@@ -93,14 +93,14 @@ On an ordinary bathhouse night:
 - Another wants to cruise slowly
 - Another wants to get railed by six tops before midnight
 
-CumUnion helps to align expectations before people even arrive -- but shared expectations never replace [[Bathhouse etiquette|etiquette]], clear [[Cruising in a bathhouse|signals]], and enthusiastic [[Bathhouse rules#The most important rule Consent|consent]].
+CumUnion helps to align expectations before people even arrive. That creates momentum.
 
-That creates momentum.
+(Auntie reminds you that shared expectations never replace [[Bathhouse etiquette|etiquette]], clear [[Cruising in a bathhouse|signals]], and enthusiastic [[Bathhouse rules#The most important rule Consent|consent]].)
 
 #### What CumUnion can do for first-timers
 
 This may surprise you, but CumUnion may actually make bathhouses easier for some newcomers:
-- The energy is obvious and everywhere
+- The energy is obvious, and there's action almost everywhere
 - They don't need to wonder if anything is happening at the club that night
 - They don't need to try to decode whether the crowd is shy, tired, curious, or just there for the sauna
 

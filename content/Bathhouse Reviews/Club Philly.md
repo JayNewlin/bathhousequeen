@@ -1,15 +1,10 @@
 ---
-title: Club Philly Review Review
+title: Club Philly Review
 description: "Auntie’s review of Club Philly in Philadelphia’s Gayborhood: layout, prices, events, atmosphere, amenities, and what to expect."
 ---
 ## Club, Sweet Club
 
 [Club Philly](https://www.clubphilly.com/) is Auntie’s “home club.” You can find me there a couple times each month. That fact is neither good nor bad for my reputation. However, it’s also where I get a lot of the knowledge that I share here on my site. It’s where I’ve experienced a lot of the [[Bathhouse Culture/index|bathhouse culture]] that I write about.
-
----
-## Late August 2026 Update
-
-Many folks might know that sometime on Friday, August 28, many of Club Philly's first-floor windows were smashed by someone. Out of an abundance of caution, they closed for a bit to allow for the windows to be boarded over and to make sure that the first floor is safe. They reopened as soon as they could, and they remain open now. Source: Auntie was there Saturday evening, 8/29, like many other Saturdays.
 
 ---
 ## Quick facts (tl;dr)
@@ -204,13 +199,13 @@ Soon after reopening, the club officially adopted the “Club Philly” name und
 
 - The current owner added CumUnion in the mid-2010s
 - BearUnion started in 2024
-- Transgressions arrived in 2026
+- Transgressions and Bark Rooms arrived in 2026
 
 Each event changes the feel of the club slightly:
 - CumUnion almost guarantees a big crowd who are ready to have fun
 - BearUnion has improved body positivity in general
 - Transgressions reminds us that bathhouses aren’t just for gay men
-- Bark Nights makes sure that the pet crowd has a safe place to play
+- Bark Rooms makes sure that the pet crowd has a safe place to play
 
 ---
 ## Auntie says…

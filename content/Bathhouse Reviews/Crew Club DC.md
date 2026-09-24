@@ -51,9 +51,10 @@ Crew Club has two levels, and currently all the “fun places” are on the seco
 	- [[Glossary#Room|Rooms]]
 	- Smoking balcony
 	- TV lounge
+	- [[Glossary#Gloryhole|Gloryhole]] maze (**NEW** as of late Summer 2026)
 	- Multiple dark spaces in the halls near the rooms
 	- Porn TV lounge with a wooden bench in the middle of the room area
-	- Large dark space with a [[Glossary#Slurp ramp|slurp ramp]]
+	- Large dark space with a [[Glossary#Slurp ramp|slurp ramp]] (**NOTE** that this area seems to be undergoing a transformation in late Summer 2026)
 	- Large wet area with
 		- [[Glossary#Gang showers|Gang showers]]
 		- Sauna
@@ -147,3 +148,11 @@ Crew Club continues to operate 24/7/365 under the new management arrangement -- 
 ## Auntie says…
 
 >Crew Club is a fun place to hang out, especially on Tuesday, Friday, and Saturday nights. Try the steam room maze. It’s a-maze-ing! 
+
+---
+## Late Summer 2026 Update
+
+Auntie was at Crew Club in early September and saw that they were building a new gloryhole maze in part of the TV lounge, and they were also renovating the dark play area near the gang showers. Auntie hasn't been back since then, but the comments on sites like Squirt and Sniffies have been fairly positive.
+
+Auntie loves a good gloryhole, so now I can hardly wait for my visit in December!
+
