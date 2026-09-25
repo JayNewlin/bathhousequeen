@@ -31,7 +31,7 @@ Almost no other resources exist like this one, and I'm glad to be the one to bri
 ---
 ## Homebase
 
-I live in **Philadelphia**, and yes, **Club Philly is my home club.** Like any good home base, it’s:
+I live in **Philadelphia**, and yes, **[[Club Philly|Club Philly]] is my home club.** Like any good home base, it’s:
 
 - Familiar  
 - Occasionally surprising  
