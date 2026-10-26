@@ -87,7 +87,7 @@ Something happened (well, apparently quite a [series of things](https://xtramaga
 - Two others using the name cooperate with each other and appear to be co-managed
 - All of them still use the same basic naming and branding
 - All of them have the same aesthetics and vibe
-- A lawsuit has existed since 2018 to try to work out all the financial and ownership/management details
+- Legal disputes over ownership and management began in 2018, and related litigation has continued into more recent years
 
 Auntie has visited several of the Steamworks clubs since 2018 and can state that the legal troubles haven't affected the customer experience: We can still go and enjoy a Steamworks location without needing to worry who owns and operates it.
 
